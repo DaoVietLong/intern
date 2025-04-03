@@ -1,0 +1,370 @@
+{
+    "TD": [
+        311.45,
+        1380.88,
+        2252.65,
+        1690.3
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                328.4368621826172,
+                1413.2679280090333,
+                1267.3309814453125,
+                1459.7356594848634,
+                0.9155044555664062
+            ],
+            "bbox": [
+                0.12591911764705882,
+                0.4228515625,
+                0.4987362132352941,
+                0.4423828125
+            ],
+            "cell_text": "Income level of individual or geography",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Income level of individual or geography",
+            "full_bbox": [
+                321.09375,
+                1395.41015625,
+                1271.77734375,
+                1459.86328125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1326.6188842773438,
+                1414.9954975891114,
+                2019.2067138671875,
+                1459.5036572265626,
+                0.8717630505561829
+            ],
+            "bbox": [
+                0.5139016544117647,
+                0.4228515625,
+                0.7894071691176471,
+                0.4404296875
+            ],
+            "cell_text": "% of the area median income",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "% of the area median income",
+            "full_bbox": [
+                1310.44921875,
+                1395.41015625,
+                2012.98828125,
+                1453.41796875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                332.34255905151366,
+                1478.315661315918,
+                602.1535522460938,
+                1515.540369873047,
+                0.7989905476570129
+            ],
+            "bbox": [
+                0.12591911764705882,
+                0.4423828125,
+                0.23460477941176472,
+                0.45703125
+            ],
+            "cell_text": "Low-income",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Low-income",
+            "full_bbox": [
+                321.09375,
+                1459.86328125,
+                598.2421875,
+                1508.203125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1330.4167358398438,
+                1477.5743740844728,
+                1615.5223876953125,
+                1515.393397216797,
+                0.6808602213859558
+            ],
+            "bbox": [
+                0.5164292279411765,
+                0.44140625,
+                0.6326976102941176,
+                0.4580078125
+            ],
+            "cell_text": "Less than 50",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Less than 50",
+            "full_bbox": [
+                1316.8945312500002,
+                1456.640625,
+                1613.37890625,
+                1511.42578125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                331.7286693572998,
+                1534.573084716797,
+                725.4868957519532,
+                1576.6767224121095,
+                0.845962405204773
+            ],
+            "bbox": [
+                0.12591911764705882,
+                0.4599609375,
+                0.28010110294117646,
+                0.474609375
+            ],
+            "cell_text": "Moderate-income",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Moderate-income",
+            "full_bbox": [
+                321.09375,
+                1517.87109375,
+                714.2578125,
+                1566.2109375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1324.15361328125,
+                1531.6828259277345,
+                1950.406787109375,
+                1574.2888134765626,
+                0.6939498782157898
+            ],
+            "bbox": [
+                0.5139016544117647,
+                0.458984375,
+                0.7628676470588236,
+                0.4755859375
+            ],
+            "cell_text": "At least 50 and less than 80",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "At least 50 and less than 80",
+            "full_bbox": [
+                1310.44921875,
+                1514.6484375,
+                1945.3125000000002,
+                1569.43359375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1329.7015869140625,
+                1591.8604992675782,
+                1975.005908203125,
+                1635.7813977050782,
+                0.7347806096076965
+            ],
+            "bbox": [
+                0.5139016544117647,
+                0.4765625,
+                0.7729779411764706,
+                0.494140625
+            ],
+            "cell_text": "At least 80 and less than 120",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "At least 80 and less than 120",
+            "full_bbox": [
+                1310.44921875,
+                1572.65625,
+                1971.09375,
+                1630.6640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                327.62513275146483,
+                1593.0653332519532,
+                658.0118591308594,
+                1635.5935467529298,
+                0.7289649248123169
+            ],
+            "bbox": [
+                0.12718290441176472,
+                0.478515625,
+                0.2560891544117647,
+                0.4931640625
+            ],
+            "cell_text": "Middle-income",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Middle-income",
+            "full_bbox": [
+                324.31640625000006,
+                1579.1015625,
+                653.02734375,
+                1627.44140625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1333.9645874023438,
+                1655.8198193359376,
+                1604.8864013671875,
+                1694.13244140625,
+                0.9071061015129089
+            ],
+            "bbox": [
+                0.5176930147058824,
+                0.49609375,
+                0.6251148897058824,
+                0.51171875
+            ],
+            "cell_text": "120 or more",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "120 or more",
+            "full_bbox": [
+                1320.1171875,
+                1637.109375,
+                1594.04296875,
+                1688.671875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                334.05790824890136,
+                1653.405848388672,
+                647.8500549316407,
+                1695.9455212402345,
+                0.8196789026260376
+            ],
+            "bbox": [
+                0.12591911764705882,
+                0.49609375,
+                0.2510340073529412,
+                0.513671875
+            ],
+            "cell_text": "Upper-income",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Upper-income",
+            "full_bbox": [
+                321.09375,
+                1637.109375,
+                640.13671875,
+                1695.1171875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

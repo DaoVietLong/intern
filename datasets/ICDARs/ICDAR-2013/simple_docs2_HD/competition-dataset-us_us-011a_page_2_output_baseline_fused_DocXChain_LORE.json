@@ -1,0 +1,442 @@
+{
+    "TD": [
+        301.0,
+        893.0,
+        2233.0,
+        1628.0
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                1963.524169921875,
+                1063.1930389404297,
+                2104.4755859375,
+                1105.9864044189453,
+                0.999849796295166
+            ],
+            "bbox": [
+                0.7666590073529411,
+                0.318359375,
+                0.822265625,
+                0.333984375
+            ],
+            "cell_text": "$3.9M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$3.9M",
+            "full_bbox": [
+                1954.9804687499998,
+                1050.5859375,
+                2096.77734375,
+                1102.1484375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1963.6539306640625,
+                1291.0608520507812,
+                2102.5562744140625,
+                1332.1575927734375,
+                0.9994038343429565
+            ],
+            "bbox": [
+                0.7666590073529411,
+                0.3857421875,
+                0.822265625,
+                0.4013671875
+            ],
+            "cell_text": "$4.6M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$4.6M",
+            "full_bbox": [
+                1954.9804687499998,
+                1272.94921875,
+                2096.77734375,
+                1324.51171875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1962.9482421875,
+                1514.6344604492188,
+                2088.277587890625,
+                1555.2352294921875,
+                0.9956870675086975
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.4521484375,
+                0.8184742647058824,
+                0.470703125
+            ],
+            "cell_text": "$34M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$34M",
+            "full_bbox": [
+                1951.7578125,
+                1492.08984375,
+                2087.109375,
+                1553.3203125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1962.5118408203125,
+                954.8135070800781,
+                2103.12548828125,
+                997.5133590698242,
+                0.9836907982826233
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.2841796875,
+                0.822265625,
+                0.2998046875
+            ],
+            "cell_text": "$8.6M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$8.6M",
+            "full_bbox": [
+                1951.7578125,
+                937.79296875,
+                2096.77734375,
+                989.35546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                363.5742988586426,
+                1510.0540161132812,
+                489.4258117675781,
+                1554.4297485351562,
+                0.94856196641922
+            ],
+            "bbox": [
+                0.13855698529411764,
+                0.453125,
+                0.18910845588235292,
+                0.46875
+            ],
+            "cell_text": "Total",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                353.3203125,
+                1495.3125,
+                482.22656249999994,
+                1546.875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1961.6827392578125,
+                1403.2222900390625,
+                2131.24169921875,
+                1442.479248046875,
+                0.9299464225769043
+            ],
+            "bbox": [
+                0.7641314338235294,
+                0.4189453125,
+                0.8349034926470589,
+                0.4365234375
+            ],
+            "cell_text": "$10.8M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$10.8M",
+            "full_bbox": [
+                1948.53515625,
+                1382.51953125,
+                2129.00390625,
+                1440.52734375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                366.4038391113281,
+                953.5301322937012,
+                943.1653442382812,
+                1002.0349731445312,
+                0.9194424748420715
+            ],
+            "bbox": [
+                0.14108455882352944,
+                0.2841796875,
+                0.3685661764705882,
+                0.298828125
+            ],
+            "cell_text": "Contact Center Services",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Contact Center Services",
+            "full_bbox": [
+                359.76562500000006,
+                937.79296875,
+                939.8437499999999,
+                986.1328125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                351.3836860656738,
+                1400.864013671875,
+                1563.7667236328125,
+                1451.6271362304688,
+                0.8793390393257141
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.419921875,
+                0.6099494485294118,
+                0.4384765625
+            ],
+            "cell_text": "Information Technology Services Solutions (ITSS)",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Information Technology Services Solutions (ITSS)",
+            "full_bbox": [
+                356.54296875,
+                1385.7421875,
+                1555.37109375,
+                1446.97265625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                359.57693099975586,
+                1176.0859069824219,
+                1815.337646484375,
+                1232.0946655273438,
+                0.8787556290626526
+            ],
+            "bbox": [
+                0.13855698529411764,
+                0.3515625,
+                0.7211626838235294,
+                0.3701171875
+            ],
+            "cell_text": "Web Management and Content (USA.gov & cobiernousA.gow,",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Web Management and Content (USA.gov & cobiernousA.gow,",
+            "full_bbox": [
+                353.3203125,
+                1160.15625,
+                1838.96484375,
+                1221.38671875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                356.12891006469727,
+                1065.7173919677734,
+                1593.605712890625,
+                1112.8032989501953,
+                0.8607044219970703
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.3173828125,
+                0.6187959558823529,
+                0.3330078125
+            ],
+            "cell_text": "Printed Publications Services and Citizen Outreach",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Printed Publications Services and Citizen Outreach",
+            "full_bbox": [
+                356.54296875,
+                1047.36328125,
+                1577.9296875,
+                1098.92578125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                355.3615951538086,
+                1289.0177307128906,
+                1601.690185546875,
+                1336.0078430175781,
+                0.7192472219467163
+            ],
+            "bbox": [
+                0.14108455882352944,
+                0.384765625,
+                0.6276424632352942,
+                0.404296875
+            ],
+            "cell_text": "Center for Excellence in Digital Government (CEDG)",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Center for Excellence in Digital Government (CEDG)",
+            "full_bbox": [
+                359.76562500000006,
+                1269.7265625,
+                1600.48828125,
+                1334.1796875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1965.4195556640625,
+                1176.0331115722656,
+                2105.7347412109375,
+                1216.9206848144531,
+                0.5938935279846191
+            ],
+            "bbox": [
+                0.7641314338235294,
+                0.3505859375,
+                0.8247931985294118,
+                0.369140625
+            ],
+            "cell_text": "$6.1M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$6.1M",
+            "full_bbox": [
+                1948.53515625,
+                1156.93359375,
+                2103.22265625,
+                1218.1640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

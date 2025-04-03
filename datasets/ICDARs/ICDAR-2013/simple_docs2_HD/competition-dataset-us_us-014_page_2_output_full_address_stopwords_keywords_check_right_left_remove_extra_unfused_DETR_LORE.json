@@ -1,0 +1,119 @@
+{
+    "TD": [
+        303.3617248535156,
+        2187,
+        2234.860107421875,
+        2323.755126953125
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                320.0244255065918,
+                2198.3080921173096,
+                2169.0404357910156,
+                2245.9320945739746,
+                0.22468684613704681
+            ],
+            "bbox": [
+                0.30790441176470584,
+                0.6630859375,
+                0.5783547794117647,
+                0.6748046875
+            ],
+            "cell_text": "percent agree",
+            "column_nums": [
+                0,
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "percent agree",
+            "full_bbox": [
+                785.1562499999999,
+                2188.18359375,
+                1474.8046875,
+                2226.85546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                319.18330478668213,
+                2246.5237922668457,
+                1722.7969055175781,
+                2281.28018951416,
+                0.21300750970840454
+            ],
+            "bbox": [
+                0.12086397058823527,
+                0.6748046875,
+                0.693359375,
+                0.6923828125
+            ],
+            "cell_text": "gives a more complete picture of effectiveness than a single accountability system.",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "gives a more complete picture of effectiveness than a single accountability system.",
+            "full_bbox": [
+                308.20312499999994,
+                2226.85546875,
+                1768.06640625,
+                2284.86328125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                316.07688426971436,
+                2308.4924392700195,
+                1158.7403259277344,
+                2345.7357788085938,
+                0.7569823861122131
+            ],
+            "bbox": [
+                0.12086397058823527,
+                0.6943359375,
+                0.45323988970588236,
+                0.7109375
+            ],
+            "cell_text": "Source: NLS-NCLB, District and Principal Surveys.",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Source: NLS-NCLB, District and Principal Surveys.",
+            "full_bbox": [
+                308.20312499999994,
+                2291.30859375,
+                1155.76171875,
+                2346.09375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

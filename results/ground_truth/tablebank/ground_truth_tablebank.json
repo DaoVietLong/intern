@@ -1,0 +1,129 @@
+[
+  {
+    "image": "\/data\/upload\/6\/098fa69e-20Edward20Dawes20paper_13.jpg",
+    "id": 1,
+    "label": [
+      {
+        "x": 15.044632190505622,
+        "y": 37.5138979164941,
+        "width": 65.28734812604289,
+        "height": 14.409080917398299,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-04-01T07:44:23.857630Z",
+    "updated_at": "2025-04-02T07:00:19.843768Z",
+    "lead_time": 603.253
+  },
+  {
+    "image": "\/data\/upload\/6\/6bce768c-20Edward20Dawes20paper_14.jpg",
+    "id": 2,
+    "label": [
+      {
+        "x": 14.913498453790847,
+        "y": 50.35663338088445,
+        "width": 66.70767551628067,
+        "height": 8.273894436519257,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-04-01T07:44:50.362718Z",
+    "updated_at": "2025-04-01T07:44:50.362783Z",
+    "lead_time": 22.066
+  },
+  {
+    "image": "\/data\/upload\/6\/56c79411-20Edward20Dawes20paper_15.jpg",
+    "id": 3,
+    "label": [
+      {
+        "x": 14.10736340223458,
+        "y": 10.271041369472183,
+        "width": 67.31227680494781,
+        "height": 13.694721825962894,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      },
+      {
+        "x": 13.905829639345473,
+        "y": 48.64479315263911,
+        "width": 67.75459793774957,
+        "height": 38.944365192581785,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-04-01T07:48:49.806195Z",
+    "updated_at": "2025-04-01T07:48:49.806236Z",
+    "lead_time": 115.052
+  },
+  {
+    "image": "\/data\/upload\/6\/d1f5f3d9-20Edward20Dawes20paper_3.jpg",
+    "id": 4,
+    "label": [
+      {
+        "x": 14.308897165123655,
+        "y": 65.90584878744649,
+        "width": 63.48313531005558,
+        "height": 17.261055634807423,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-04-01T07:49:20.888126Z",
+    "updated_at": "2025-04-01T07:49:20.888170Z",
+    "lead_time": 25.61
+  },
+  {
+    "image": "\/data\/upload\/6\/4e1a1602-20Edward20Dawes20paper_5.jpg",
+    "id": 5,
+    "label": [
+      {
+        "x": 14.308897165123646,
+        "y": 8.559201141226817,
+        "width": 68.72301314517134,
+        "height": 29.529243937232536,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Table"
+        ],
+        "original_width": 596,
+        "original_height": 842
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-04-01T07:49:39.632931Z",
+    "updated_at": "2025-04-01T07:49:39.632987Z",
+    "lead_time": 15.887
+  }
+]

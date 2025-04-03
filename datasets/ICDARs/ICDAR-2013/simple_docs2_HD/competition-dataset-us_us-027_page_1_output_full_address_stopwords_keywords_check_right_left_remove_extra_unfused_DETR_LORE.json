@@ -1,0 +1,840 @@
+{
+    "TD": [
+        317.83,
+        470,
+        2267.43,
+        1078.64
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                1666.8425732421874,
+                505.09941482543945,
+                2183.2839794921874,
+                541.3799285888672,
+                0.8310738801956177
+            ],
+            "bbox": [
+                0.6478630514705882,
+                0.1484375,
+                0.8538602941176471,
+                0.1630859375
+            ],
+            "cell_text": "Table 1: Student Enrollment,",
+            "column_nums": [
+                1,
+                2,
+                3
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Table 1: Student Enrollment,",
+            "full_bbox": [
+                1652.05078125,
+                489.84375,
+                2177.34375,
+                538.18359375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                317.80206795215605,
+                492.80693435668945,
+                1594.589521484375,
+                538.1870803833008,
+                0.7107670903205872
+            ],
+            "bbox": [
+                0.11707261029411764,
+                0.14453125,
+                0.6251148897058824,
+                0.162109375
+            ],
+            "cell_text": "The majority of the enrolled students in the fall of 2006 attended",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "The majority of the enrolled students in the fall of 2006 attended",
+            "full_bbox": [
+                298.53515625,
+                476.953125,
+                1594.04296875,
+                534.9609375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1914.7732373046874,
+                617.2763061523438,
+                2101.4456005859374,
+                647.9945373535156,
+                0.9992639422416687
+            ],
+            "bbox": [
+                0.7464384191176471,
+                0.1826171875,
+                0.8210018382352942,
+                0.1943359375
+            ],
+            "cell_text": "Enrollment",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Enrollment",
+            "full_bbox": [
+                1903.41796875,
+                602.63671875,
+                2093.5546875,
+                641.30859375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                2222.6649609375,
+                615.3953552246094,
+                2255.05314453125,
+                648.5955047607422,
+                0.9991725087165833
+            ],
+            "bbox": [
+                0.8664981617647058,
+                0.181640625,
+                0.8841911764705882,
+                0.1953125
+            ],
+            "cell_text": "%",
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "%",
+            "full_bbox": [
+                2209.5703125,
+                599.4140625,
+                2254.6875,
+                644.53125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1777.2456494140624,
+                616.2334899902344,
+                1845.00431640625,
+                651.6195373535156,
+                0.9963717460632324
+            ],
+            "bbox": [
+                0.6920955882352942,
+                0.1826171875,
+                0.7249540441176471,
+                0.1982421875
+            ],
+            "cell_text": "Age",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Age",
+            "full_bbox": [
+                1764.84375,
+                602.63671875,
+                1848.6328125,
+                654.19921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                317.7567272725701,
+                610.9275054931641,
+                1603.15080078125,
+                649.7873992919922,
+                0.8822219967842102
+            ],
+            "bbox": [
+                0.11707261029411764,
+                0.177734375,
+                0.6326976102941176,
+                0.1982421875
+            ],
+            "cell_text": "enrollment levels of 10,000 students or more represented only 12",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "enrollment levels of 10,000 students or more represented only 12",
+            "full_bbox": [
+                298.53515625,
+                586.5234375,
+                1613.37890625,
+                654.19921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1756.1558056640624,
+                679.2693481445312,
+                1848.597822265625,
+                709.9789276123047,
+                0.945034384727478
+            ],
+            "bbox": [
+                0.6807215073529411,
+                0.2001953125,
+                0.7249540441176471,
+                0.21484375
+            ],
+            "cell_text": "14-17",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "14-17",
+            "full_bbox": [
+                1735.8398437499998,
+                660.64453125,
+                1848.6328125,
+                708.984375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1965.9735546875,
+                680.5737762451172,
+                2101.427412109375,
+                708.2303619384766,
+                0.9285364151000977
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.2001953125,
+                0.8235294117647058,
+                0.21484375
+            ],
+            "cell_text": "231,000",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "231,000",
+            "full_bbox": [
+                1951.7578125,
+                660.64453125,
+                2100.0,
+                708.984375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                2214.09318359375,
+                676.4423370361328,
+                2261.9282666015624,
+                707.3866119384766,
+                0.7786871194839478
+            ],
+            "bbox": [
+                0.8614430147058824,
+                0.19921875,
+                0.8879825367647058,
+                0.2158203125
+            ],
+            "cell_text": "1.3",
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "1.3",
+            "full_bbox": [
+                2196.6796875,
+                657.421875,
+                2264.35546875,
+                712.20703125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                315.2105685043335,
+                670.6903686523438,
+                1477.162763671875,
+                707.4378662109375,
+                0.2953450083732605
+            ],
+            "bbox": [
+                0.11707261029411764,
+                0.19921875,
+                0.29021139705882354,
+                0.224609375
+            ],
+            "cell_text": "percent 14",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "percent 14",
+            "full_bbox": [
+                298.53515625,
+                657.421875,
+                740.0390625,
+                741.2109375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                318.4048368501663,
+                669.8959503173828,
+                1579.6186962890624,
+                707.2574615478516,
+                0.24833248555660248
+            ],
+            "bbox": [
+                0.1789981617647059,
+                0.1962890625,
+                0.6213235294117647,
+                0.2158203125
+            ],
+            "cell_text": "of the institutions; however, they enrolled 55 percent of",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "of the institutions; however, they enrolled 55 percent of",
+            "full_bbox": [
+                456.44531250000006,
+                647.75390625,
+                1584.375,
+                712.20703125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                2188.333173828125,
+                730.6406860351562,
+                2257.62150390625,
+                760.1646728515625,
+                0.9893597364425659
+            ],
+            "bbox": [
+                0.8525965073529411,
+                0.216796875,
+                0.8854549632352942,
+                0.2294921875
+            ],
+            "cell_text": "21.2",
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "21.2",
+            "full_bbox": [
+                2174.12109375,
+                715.4296875,
+                2257.91015625,
+                757.32421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1933.981611328125,
+                731.63623046875,
+                2100.4167919921874,
+                758.8280639648438,
+                0.9821281433105469
+            ],
+            "bbox": [
+                0.7527573529411764,
+                0.2158203125,
+                0.8235294117647058,
+                0.23046875
+            ],
+            "cell_text": "3,769,000",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "3,769,000",
+            "full_bbox": [
+                1919.5312499999998,
+                712.20703125,
+                2100.0,
+                760.546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                318.8741265106201,
+                728.6344604492188,
+                1373.531171875,
+                768.1663818359375,
+                0.7901946306228638
+            ],
+            "bbox": [
+                0.1145450367647059,
+                0.212890625,
+                0.5556066176470589,
+                0.232421875
+            ],
+            "cell_text": "all college students. By comparison, 41 percent of the",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "all college students. By comparison, 41 percent of the",
+            "full_bbox": [
+                292.08984375000006,
+                702.5390625,
+                1416.7968750000002,
+                766.9921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1751.2026806640624,
+                731.2104187011719,
+                1844.163251953125,
+                759.2268981933594,
+                0.5704473853111267
+            ],
+            "bbox": [
+                0.6819852941176471,
+                0.216796875,
+                0.7236902573529411,
+                0.228515625
+            ],
+            "cell_text": "18-19",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "18-19",
+            "full_bbox": [
+                1739.0625,
+                715.4296875,
+                1845.4101562499998,
+                754.1015625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                2188.086591796875,
+                780.816162109375,
+                2258.21916015625,
+                808.2887878417969,
+                0.9999434947967529
+            ],
+            "bbox": [
+                0.8525965073529411,
+                0.2314453125,
+                0.8854549632352942,
+                0.244140625
+            ],
+            "cell_text": "20.5",
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "20.5",
+            "full_bbox": [
+                2174.12109375,
+                763.76953125,
+                2257.91015625,
+                805.6640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1933.0945263671874,
+                781.5791320800781,
+                2101.80607421875,
+                808.9526672363281,
+                0.9390810132026672
+            ],
+            "bbox": [
+                0.7540211397058824,
+                0.232421875,
+                0.822265625,
+                0.244140625
+            ],
+            "cell_text": "3,648,000",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "3,648,000",
+            "full_bbox": [
+                1922.75390625,
+                766.9921875,
+                2096.77734375,
+                805.6640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1746.455244140625,
+                780.7467651367188,
+                1838.7808056640624,
+                809.0849609375,
+                0.8870022296905518
+            ],
+            "bbox": [
+                0.6807215073529411,
+                0.23046875,
+                0.7236902573529411,
+                0.2451171875
+            ],
+            "cell_text": "20-21",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "20-21",
+            "full_bbox": [
+                1735.8398437499998,
+                760.546875,
+                1845.4101562499998,
+                808.88671875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                315.590507106781,
+                786.4737243652344,
+                1621.3777294921874,
+                823.3557434082031,
+                0.7545402646064758
+            ],
+            "bbox": [
+                0.11833639705882353,
+                0.2314453125,
+                0.6301700367647058,
+                0.248046875
+            ],
+            "cell_text": "institutions had enrollment levels of less than 1,000 students, and",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "institutions had enrollment levels of less than 1,000 students, and",
+            "full_bbox": [
+                301.7578125,
+                763.76953125,
+                1606.93359375,
+                818.5546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                2189.4031201171874,
+                830.8861389160156,
+                2256.5271435546874,
+                858.5042419433594,
+                0.9999964237213135
+            ],
+            "bbox": [
+                0.8538602941176471,
+                0.2470703125,
+                0.8854549632352942,
+                0.259765625
+            ],
+            "cell_text": "18.0",
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "18.0",
+            "full_bbox": [
+                2177.34375,
+                815.33203125,
+                2257.91015625,
+                857.2265625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1934.5740185546874,
+                833.1110534667969,
+                2097.9813671875,
+                861.5806274414062,
+                0.9982117414474487
+            ],
+            "bbox": [
+                0.7527573529411764,
+                0.24609375,
+                0.8235294117647058,
+                0.2607421875
+            ],
+            "cell_text": "3,193,000",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "3,193,000",
+            "full_bbox": [
+                1919.5312499999998,
+                812.109375,
+                2100.0,
+                860.44921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1745.1033154296874,
+                830.3898315429688,
+                1839.7119580078124,
+                859.267578125,
+                0.9685860276222229
+            ],
+            "bbox": [
+                0.6807215073529411,
+                0.2451171875,
+                0.7249540441176471,
+                0.259765625
+            ],
+            "cell_text": "22-24",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "22-24",
+            "full_bbox": [
+                1735.8398437499998,
+                808.88671875,
+                1848.6328125,
+                857.2265625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                316.36775334358214,
+                841.9743041992188,
+                1604.6460400390624,
+                881.9915771484375,
+                0.9043916463851929
+            ],
+            "bbox": [
+                0.11580882352941174,
+                0.248046875,
+                0.6175321691176471,
+                0.2666015625
+            ],
+            "cell_text": "these institutions enrolled only 4 percent of all college students.",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "these institutions enrolled only 4 percent of all college students.",
+            "full_bbox": [
+                295.31249999999994,
+                818.5546875,
+                1574.70703125,
+                879.78515625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

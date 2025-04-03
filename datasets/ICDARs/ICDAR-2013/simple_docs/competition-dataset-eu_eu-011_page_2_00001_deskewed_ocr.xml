@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="842" bottom="595" Dpi="300" DataLeft="0" DataTop="0" DataRight="842" DataBottom="595" Version="10">
+  <block id="1" left="363" top="71" right="467" bottom="145">
+    <line id="2" left="363" top="71" right="467" bottom="145">
+      <word id="3" left="363" top="71" right="467" bottom="145" value="11" confidence="-12" font="MP">
+        <char id="4" left="363" top="73" right="395" bottom="145" value="1" confidence="-12"/>
+        <char id="6" left="417" top="71" right="467" bottom="141" value="1" confidence="-13"/>
+      </word>
+    </line>
+  </block>
+  <block id="7" left="363" top="297" right="467" bottom="345">
+    <line id="8" left="363" top="297" right="467" bottom="345">
+      <word id="9" left="363" top="297" right="395" bottom="345" value="II!" confidence="48" font="MP">
+        <char id="10" left="363" top="297" right="371" bottom="345" value="I" confidence="-44"/>
+        <char id="11" left="375" top="297" right="383" bottom="339" value="I" confidence="-46"/>
+        <char id="12" left="387" top="299" right="395" bottom="345" value="!" confidence="56"/>
+      </word>
+      <word id="13" left="441" top="297" right="467" bottom="345" value="1" confidence="12" font="MP">
+        <char id="14" left="441" top="297" right="467" bottom="345" value="1" confidence="-12"/>
+      </word>
+    </line>
+  </block>
+</ocr>

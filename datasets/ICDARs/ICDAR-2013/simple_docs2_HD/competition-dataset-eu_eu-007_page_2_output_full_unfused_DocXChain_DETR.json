@@ -1,0 +1,184 @@
+{
+    "TD": [
+        424.0,
+        918.0,
+        2048.0,
+        1033.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.1778225806451613,
+                0.2644628099173554,
+                0.23709677419354838,
+                0.2761470504417213
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Product",
+            "normalized_cell_text": "Item",
+            "full_bbox": [
+                441,
+                928,
+                588,
+                969
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.5165322580645161,
+                0.2644628099173554,
+                0.6116935483870968,
+                0.2761470504417213
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Roast coffee",
+            "normalized_cell_text": "Roast coffee",
+            "full_bbox": [
+                1281,
+                928,
+                1517,
+                969
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.694758064516129,
+                0.26246793958392706,
+                0.8024193548387096,
+                0.2772869763465375
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Instant Coffee",
+            "normalized_cell_text": "Instant Coffee",
+            "full_bbox": [
+                1723,
+                921,
+                1990,
+                973
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.175,
+                0.2792818466799658,
+                0.36733870967741933,
+                0.2938159019663722
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Turnover in FFr. millions",
+            "normalized_cell_text": "Turnover in FFr. millions",
+            "full_bbox": [
+                434,
+                980,
+                911,
+                1031
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.5399193548387097,
+                0.2792818466799658,
+                0.5854838709677419,
+                0.2938159019663722
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "7,581",
+            "normalized_cell_text": "7,581",
+            "full_bbox": [
+                1339,
+                980,
+                1452,
+                1031
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.7237903225806451,
+                0.2792818466799658,
+                0.7705645161290322,
+                0.2938159019663722
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "2,517",
+            "normalized_cell_text": "2,517",
+            "full_bbox": [
+                1795,
+                980,
+                1911,
+                1031
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+    "TD": [
+        389.52,
+        1850.09,
+        2203.11,
+        2896.84
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                808.5432238769531,
+                1875.3539980316161,
+                938.04880859375,
+                1910.548324432373,
+                0.9999250173568726
+            ],
+            "bbox": [
+                0.3142233455882353,
+                0.5654296875,
+                0.36477481617647056,
+                0.5771484375
+            ],
+            "cell_text": "Project",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Project",
+            "full_bbox": [
+                801.26953125,
+                1865.91796875,
+                930.1757812499999,
+                1904.58984375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1848.8492236328125,
+                1874.2432173156737,
+                2036.9290576171875,
+                1907.8538931274413,
+                0.9952972531318665
+            ],
+            "bbox": [
+                0.7224264705882353,
+                0.564453125,
+                0.7969898897058824,
+                0.5751953125
+            ],
+            "cell_text": "Institution",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Institution",
+            "full_bbox": [
+                1842.1875,
+                1862.6953125,
+                2032.32421875,
+                1898.14453125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                415.5575804901123,
+                2474.0686376953126,
+                1246.1577563476562,
+                2513.255771484375,
+                0.8197110891342163
+            ],
+            "bbox": [
+                0.15877757352941174,
+                0.74609375,
+                0.4797794117647059,
+                0.7607421875
+            ],
+            "cell_text": "Social and ethical dimensions of nanotechnology",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Social and ethical dimensions of nanotechnology",
+            "full_bbox": [
+                404.88281249999994,
+                2462.109375,
+                1223.4375,
+                2510.44921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1464.722392578125,
+                2680.616611328125,
+                1545.68650390625,
+                2716.0300024414064,
+                0.9358677268028259
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.8095703125,
+                0.6048943014705882,
+                0.8212890625
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2671.58203125,
+                1542.48046875,
+                2710.25390625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1675.3440966796875,
+                2682.061618652344,
+                2040.86130859375,
+                2720.2239111328126,
+                0.7090649604797363
+            ],
+            "bbox": [
+                0.6567095588235294,
+                0.8095703125,
+                0.7995174632352942,
+                0.82421875
+            ],
+            "cell_text": "University of Virginia",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "University of Virginia",
+            "full_bbox": [
+                1674.609375,
+                2671.58203125,
+                2038.76953125,
+                2719.921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                414.2122836303711,
+                2381.423923339844,
+                1305.9477954101562,
+                2421.5303076171876,
+                0.7063634395599365
+            ],
+            "bbox": [
+                0.16004136029411764,
+                0.71875,
+                0.5088465073529411,
+                0.732421875
+            ],
+            "cell_text": "Database and innovation timeline for nanotechnology",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Database and innovation timeline for nanotechnology",
+            "full_bbox": [
+                408.10546875,
+                2371.875,
+                1297.5585937499998,
+                2416.9921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1466.9800830078125,
+                2176.455936279297,
+                1542.1846728515625,
+                2204.2772863769533,
+                0.9832614064216614
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.6552734375,
+                0.6048943014705882,
+                0.6669921875
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2162.40234375,
+                1542.48046875,
+                2201.07421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1681.80515625,
+                1964.6892889404296,
+                2180.4505419921875,
+                2004.5927465820312,
+                0.9363477230072021
+            ],
+            "bbox": [
+                0.6567095588235294,
+                0.591796875,
+                0.8513327205882353,
+                0.6044921875
+            ],
+            "cell_text": "Pennsylvania State University",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Pennsylvania State University",
+            "full_bbox": [
+                1674.609375,
+                1952.9296875,
+                2170.8984375,
+                1994.82421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1682.050029296875,
+                2382.879489746094,
+                1795.0301318359375,
+                2417.838779296875,
+                0.6292111873626709
+            ],
+            "bbox": [
+                0.6554457720588236,
+                0.71875,
+                0.7022058823529411,
+                0.7294921875
+            ],
+            "cell_text": "UCLA",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "UCLA",
+            "full_bbox": [
+                1671.3867187500002,
+                2371.875,
+                1790.6249999999998,
+                2407.32421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1466.2762255859375,
+                2285.603397216797,
+                1542.692119140625,
+                2315.3100012207033,
+                1.0
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.6875,
+                0.6048943014705882,
+                0.7001953125
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2268.75,
+                1542.48046875,
+                2310.64453125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                408.72799446105955,
+                2268.546268310547,
+                1311.783427734375,
+                2344.1265295410158,
+                0.9717285633087158
+            ],
+            "bbox": [
+                0.1575137867647059,
+                0.681640625,
+                0.5176930147058824,
+                0.708984375
+            ],
+            "cell_text": "From laboratory to society: developing an informed approach to nanoscale science and engineering (NIRT)",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "From laboratory to society: developing an informed approach to nanoscale science and engineering (NIRT)",
+            "full_bbox": [
+                401.66015625000006,
+                2249.4140625,
+                1320.1171875,
+                2339.6484375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                412.17510940551756,
+                2667.8611181640626,
+                1123.2877001953125,
+                2744.8425024414064,
+                0.8880958557128906
+            ],
+            "bbox": [
+                0.1575137867647059,
+                0.802734375,
+                0.4443933823529412,
+                0.830078125
+            ],
+            "cell_text": "Ethics and belief inside the development of nanotechnology (CAREER)",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Ethics and belief inside the development of nanotechnology (CAREER)",
+            "full_bbox": [
+                401.66015625000006,
+                2649.0234375,
+                1133.203125,
+                2739.2578125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1679.0977587890625,
+                2175.926608886719,
+                2112.370830078125,
+                2207.7590368652345,
+                0.6666833162307739
+            ],
+            "bbox": [
+                0.6554457720588236,
+                0.6552734375,
+                0.8273207720588235,
+                0.66796875
+            ],
+            "cell_text": "Michigan State University",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Michigan State University",
+            "full_bbox": [
+                1671.3867187500002,
+                2162.40234375,
+                2109.66796875,
+                2204.296875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                418.38955070495604,
+                2555.224765625,
+                1119.984111328125,
+                2589.9997900390626,
+                0.47160711884498596
+            ],
+            "bbox": [
+                0.25988051470588236,
+                0.76953125,
+                0.43933823529411764,
+                0.783203125
+            ],
+            "cell_text": "exploration of nanoscience,",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "exploration of nanoscience,",
+            "full_bbox": [
+                662.6953125,
+                2539.453125,
+                1120.3125,
+                2584.5703125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1376.1626391601562,
+                2790.3642309570314,
+                1632.1482958984375,
+                2872.891696777344,
+                0.4305873513221741
+            ],
+            "bbox": [
+                0.5379136029411765,
+                0.8427734375,
+                0.6402803308823529,
+                0.8671875
+            ],
+            "cell_text": "NSF, DOE, DOD, and NIH",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF, DOE, DOD, and NIH",
+            "full_bbox": [
+                1371.6796875000002,
+                2781.15234375,
+                1632.71484375,
+                2861.71875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1467.141826171875,
+                2476.589755859375,
+                1542.4428515625,
+                2507.1176489257814,
+                0.9980679154396057
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.74609375,
+                0.6061580882352942,
+                0.7578125
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2462.109375,
+                1545.703125,
+                2500.78125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1679.68845703125,
+                2472.9773291015626,
+                2045.013896484375,
+                2517.4028051757814,
+                0.961373507976532
+            ],
+            "bbox": [
+                0.6567095588235294,
+                0.74609375,
+                0.7995174632352942,
+                0.7607421875
+            ],
+            "cell_text": "University of Virginia",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "University of Virginia",
+            "full_bbox": [
+                1674.609375,
+                2462.109375,
+                2038.76953125,
+                2510.44921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1467.398662109375,
+                1966.130153503418,
+                1543.425029296875,
+                1996.8179052734374,
+                0.7994012832641602
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.591796875,
+                0.6048943014705882,
+                0.603515625
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                1952.9296875,
+                1542.48046875,
+                1991.6015625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1466.42673828125,
+                2575.674716796875,
+                1543.504619140625,
+                2606.9513891601564,
+                0.8485994935035706
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.7763671875,
+                0.6048943014705882,
+                0.7880859375
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2562.01171875,
+                1542.48046875,
+                2600.68359375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1681.718974609375,
+                2793.59341796875,
+                2137.9473681640625,
+                2870.4250830078126,
+                0.8482939004898071
+            ],
+            "bbox": [
+                0.6541819852941176,
+                0.841796875,
+                0.8361672794117647,
+                0.8671875
+            ],
+            "cell_text": "All nanotechnology centers and networks",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "All nanotechnology centers and networks",
+            "full_bbox": [
+                1668.1640625,
+                2777.9296875,
+                2132.2265625,
+                2861.71875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1467.12791015625,
+                2387.1047094726564,
+                1543.53123046875,
+                2415.26724609375,
+                0.6361847519874573
+            ],
+            "bbox": [
+                0.5720358455882353,
+                0.71875,
+                0.6048943014705882,
+                0.73046875
+            ],
+            "cell_text": "NSF",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NSF",
+            "full_bbox": [
+                1458.69140625,
+                2371.875,
+                1542.48046875,
+                2410.546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1680.7757373046875,
+                2284.175906982422,
+                2162.9686083984375,
+                2320.142001953125,
+                0.9194929003715515
+            ],
+            "bbox": [
+                0.6554457720588236,
+                0.6875,
+                0.8450137867647058,
+                0.7021484375
+            ],
+            "cell_text": "University of South Carolina",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "University of South Carolina",
+            "full_bbox": [
+                1671.3867187500002,
+                2268.75,
+                2154.78515625,
+                2317.08984375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                413.0894313049316,
+                2798.770908203125,
+                1136.07810546875,
+                2873.340427246094,
+                0.8788172602653503
+            ],
+            "bbox": [
+                0.1575137867647059,
+                0.841796875,
+                0.4443933823529412,
+                0.869140625
+            ],
+            "cell_text": "All centers, NNIN and NCN have a societal implications components",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "All centers, NNIN and NCN have a societal implications components",
+            "full_bbox": [
+                401.66015625000006,
+                2777.9296875,
+                1133.203125,
+                2868.1640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                403.96486331939695,
+                2555.346103515625,
+                1161.9866748046875,
+                2634.0128515625,
+                0.6761390566825867
+            ],
+            "bbox": [
+                0.16004136029411764,
+                0.771484375,
+                0.45323988970588236,
+                0.7958984375
+            ],
+            "cell_text": "Undergraduate applications and societal implications (NUE)",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Undergraduate applications and societal implications (NUE)",
+            "full_bbox": [
+                408.10546875,
+                2545.8984375,
+                1155.76171875,
+                2626.46484375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1680.417705078125,
+                2552.099033203125,
+                2083.691142578125,
+                2632.949802246094,
+                0.8629086017608643
+            ],
+            "bbox": [
+                0.6541819852941176,
+                0.76953125,
+                0.8134191176470589,
+                0.796875
+            ],
+            "cell_text": "Michigan Technological University",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Michigan Technological University",
+            "full_bbox": [
+                1668.1640625,
+                2539.453125,
+                2074.21875,
+                2629.6875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1440.43748046875,
+                1879.1460646057128,
+                1575.384990234375,
+                1911.2356031799316,
+                0.844676673412323
+            ],
+            "bbox": [
+                0.5606617647058824,
+                0.5634765625,
+                0.6150045955882353,
+                0.578125
+            ],
+            "cell_text": "Agency",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Agency",
+            "full_bbox": [
+                1429.6875,
+                1859.47265625,
+                1568.26171875,
+                1907.8125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                418.98732330322264,
+                2044.252643432617,
+                1327.949443359375,
+                2119.7291906738283,
+                0.800186276435852
+            ],
+            "bbox": [
+                0.1575137867647059,
+                0.615234375,
+                0.521484375,
+                0.6435546875
+            ],
+            "cell_text": "nanotechnology policy (SGER) Public information and deliberation in nanoscience and",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "nanotechnology policy (SGER) Public information and deliberation in nanoscience and",
+            "full_bbox": [
+                401.66015625000006,
+                2030.2734375,
+                1329.78515625,
+                2123.73046875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

@@ -1,0 +1,532 @@
+{
+    "TD": [
+        289.0,
+        2001.0,
+        2251.0,
+        2551.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.27372549019607845,
+                0.613030303030303,
+                0.3392156862745098,
+                0.6278787878787879
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Funder",
+            "normalized_cell_text": "Funder",
+            "full_bbox": [
+                698,
+                2023,
+                865,
+                2072
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5149019607843137,
+                0.6121212121212121,
+                0.6298039215686274,
+                0.6306060606060606
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Delay Period",
+            "normalized_cell_text": "Delay Period",
+            "full_bbox": [
+                1313,
+                2020,
+                1606,
+                2081
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7286274509803922,
+                0.6121212121212121,
+                0.8019607843137255,
+                0.6306060606060606
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Funding",
+            "normalized_cell_text": "Funding",
+            "full_bbox": [
+                1858,
+                2020,
+                2045,
+                2081
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11450980392156863,
+                0.6354545454545455,
+                0.44941176470588234,
+                0.6727272727272727
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "NIH Public Access Requirement (Sec. 218)",
+            "normalized_cell_text": "NIH Public Access Requirement (Sec. 218)",
+            "full_bbox": [
+                292,
+                2097,
+                1146,
+                2220
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.6366666666666667,
+                0.6070588235294118,
+                0.6542424242424243
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "up to 12 mo",
+            "normalized_cell_text": "up to 12 mo",
+            "full_bbox": [
+                1268,
+                2101,
+                1548,
+                2159
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6513725490196078,
+                0.6354545454545455,
+                0.8662745098039216,
+                0.6551515151515152
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "allowable cost for grants",
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661,
+                2097,
+                2209,
+                2162
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11568627450980393,
+                0.6766666666666666,
+                0.40627450980392155,
+                0.696060606060606
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Howard Hughes Medical Institute",
+            "normalized_cell_text": "Howard Hughes Medical Institute",
+            "full_bbox": [
+                295,
+                2233,
+                1036,
+                2297
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.6775757575757576,
+                0.5956862745098039,
+                0.696060606060606
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "up to 6 mo",
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268,
+                2236,
+                1519,
+                2297
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6513725490196078,
+                0.6775757575757576,
+                0.7827450980392157,
+                0.6933333333333334
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "dedicated fund",
+            "normalized_cell_text": "dedicated fund",
+            "full_bbox": [
+                1661,
+                2236,
+                1996,
+                2288
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11686274509803922,
+                0.703030303030303,
+                0.3631372549019608,
+                0.7215151515151516
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "European Research Council",
+            "normalized_cell_text": "European Research Council",
+            "full_bbox": [
+                298,
+                2320,
+                926,
+                2381
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.7021212121212121,
+                0.5956862745098039,
+                0.7215151515151516
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "up to 6 mo",
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268,
+                2317,
+                1519,
+                2381
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6513725490196078,
+                0.703030303030303,
+                0.8662745098039216,
+                0.7215151515151516
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "allowable cost for grants",
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661,
+                2320,
+                2209,
+                2381
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11568627450980393,
+                0.7272727272727273,
+                0.3796078431372549,
+                0.7439393939393939
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "UK Medical Research Council",
+            "normalized_cell_text": "UK Medical Research Council",
+            "full_bbox": [
+                295,
+                2400,
+                968,
+                2455
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.7272727272727273,
+                0.5972549019607843,
+                0.7478787878787879
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "up to 6 mo",
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268,
+                2400,
+                1523,
+                2468
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6513725490196078,
+                0.7272727272727273,
+                0.8662745098039216,
+                0.746969696969697
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "allowable cost for grants",
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661,
+                2400,
+                2209,
+                2465
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11686274509803922,
+                0.7536363636363637,
+                0.2572549019607843,
+                0.7684848484848484
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Wellcome Trust",
+            "normalized_cell_text": "Wellcome Trust",
+            "full_bbox": [
+                298,
+                2487,
+                656,
+                2536
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.7527272727272727,
+                0.5945098039215686,
+                0.7724242424242425
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "up to 6 mo",
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268,
+                2484,
+                1516,
+                2549
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6513725490196078,
+                0.7536363636363637,
+                0.7827450980392157,
+                0.7684848484848484
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "dedicated fund",
+            "normalized_cell_text": "dedicated fund",
+            "full_bbox": [
+                1661,
+                2487,
+                1996,
+                2536
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

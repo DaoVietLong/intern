@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="893" bottom="669" Dpi="300" DataLeft="245" DataTop="394" DataRight="298" DataBottom="483" Version="10">
+  <block id="1" left="264" top="394" right="297" bottom="417">
+    <line id="2" left="264" top="394" right="297" bottom="417">
+      <word id="3" left="264" top="394" right="297" bottom="417" value=";!!(" confidence="25" font="MP">
+        <char id="4" left="264" top="403" right="269" bottom="415" value=";" confidence="-21"/>
+        <char id="5" left="273" top="394" right="278" bottom="417" value="!" confidence="20"/>
+        <char id="6" left="283" top="395" right="287" bottom="417" value="!" confidence="35"/>
+        <char id="7" left="292" top="403" right="297" bottom="416" value="(" confidence="27"/>
+      </word>
+    </line>
+  </block>
+  <block id="8" left="245" top="409" right="298" bottom="483">
+    <line id="9" left="245" top="409" right="298" bottom="483">
+      <word id="10" left="245" top="409" right="298" bottom="483" value="ill" confidence="32" font="MP">
+        <char id="11" left="245" top="421" right="281" bottom="483" value="i" confidence="32"/>
+        <char id="12" left="283" top="409" right="289" bottom="481" value="l" confidence="15"/>
+        <char id="13" left="291" top="417" right="298" bottom="481" value="l" confidence="51"/>
+      </word>
+    </line>
+  </block>
+  <block id="14" left="795" top="434" right="799" bottom="451">
+    <line id="15" left="795" top="434" right="799" bottom="451">
+      <word id="16" left="795" top="434" right="799" bottom="451" value="!" confidence="24" font="MP">
+        <char id="17" left="795" top="434" right="799" bottom="451" value="!" confidence="-24"/>
+      </word>
+    </line>
+  </block>
+  <block id="18" left="793" top="451" right="799" bottom="482">
+    <line id="19" left="793" top="451" right="799" bottom="482">
+      <word id="20" left="793" top="451" right="799" bottom="482" value="î" confidence="35" font="MP">
+        <char id="21" left="793" top="451" right="799" bottom="482" value="î" confidence="-35"/>
+      </word>
+    </line>
+  </block>
+</ocr>

@@ -1,0 +1,696 @@
+{
+    "TD": [
+        130.0,
+        1134.0,
+        1446.0,
+        1750.0
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                158.35486221313477,
+                1195.9304504394531,
+                231.0963363647461,
+                1219.2385711669922,
+                0.9999706745147705
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.4638671875,
+                0.13627485795454547,
+                0.474609375
+            ],
+            "cell_text": "Tuition",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Tuition",
+            "full_bbox": [
+                145.16601562499997,
+                1182.861328125,
+                224.85351562500003,
+                1210.25390625
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                157.7553482055664,
+                1510.8729553222656,
+                209.6155014038086,
+                1532.8081359863281,
+                0.9999549388885498
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.5869140625,
+                0.12420099431818182,
+                0.5986328125
+            ],
+            "cell_text": "Fees",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Fees",
+            "full_bbox": [
+                145.16601562499997,
+                1496.630859375,
+                204.931640625,
+                1526.513671875
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                158.85755729675293,
+                1364.733657836914,
+                271.46051025390625,
+                1387.9119262695312,
+                0.9992891550064087
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.529296875,
+                0.16193181818181818,
+                0.5419921875
+            ],
+            "cell_text": "Books and",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Books and",
+            "full_bbox": [
+                145.16601562499997,
+                1349.70703125,
+                267.1875,
+                1382.080078125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                156.78602981567383,
+                1713.557373046875,
+                417.6658630371094,
+                1734.8007202148438,
+                0.9987022876739502
+            ],
+            "bbox": [
+                0.08948863636363634,
+                0.666015625,
+                0.24946732954545456,
+                0.6787109375
+            ],
+            "cell_text": "miscellaneous expenses",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                11
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "miscellaneous expenses",
+            "full_bbox": [
+                147.65624999999997,
+                1698.33984375,
+                411.62109375,
+                1730.712890625
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                160.6323585510254,
+                1144.6544275283813,
+                208.34725189208984,
+                1166.5821418762207,
+                0.9963163137435913
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.4423828125,
+                0.12269176136363634,
+                0.455078125
+            ],
+            "cell_text": "Item",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Item",
+            "full_bbox": [
+                145.16601562499997,
+                1128.076171875,
+                202.44140624999997,
+                1160.44921875
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                157.45046424865723,
+                1629.2760009765625,
+                318.2315368652344,
+                1648.5616455078125,
+                0.9802046418190002
+            ],
+            "bbox": [
+                0.08948863636363634,
+                0.6328125,
+                0.18909801136363635,
+                0.6435546875
+            ],
+            "cell_text": "room materials",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "room materials",
+            "full_bbox": [
+                147.65624999999997,
+                1613.671875,
+                312.01171875,
+                1641.064453125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                157.0018711090088,
+                1280.634506225586,
+                334.05535888671875,
+                1304.6507873535156,
+                0.9611283540725708
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.49609375,
+                0.201171875,
+                0.5087890625
+            ],
+            "cell_text": "Room and board",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3,
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Room and board",
+            "full_bbox": [
+                145.16601562499997,
+                1265.0390625,
+                331.93359375,
+                1297.412109375
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                531.4526977539062,
+                1362.9131164550781,
+                1434.860595703125,
+                1453.6710815429688,
+                0.9433435797691345
+            ],
+            "bbox": [
+                0.3113458806818182,
+                0.529296875,
+                0.865234375,
+                0.5810546875
+            ],
+            "cell_text": "Books can be expensive. School supplies can include book bags, notebooks, pens, pencils, paper, folders, stapler, desk organizing system (trays, pen holder, etc.), computer paper, etc. According to the College Board, the national average cost for textbooks at four-year public colleges in 2009-10 was $1,122.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Books can be expensive. School supplies can include book bags, notebooks, pens, pencils, paper, folders, stapler, desk organizing system (trays, pen holder, etc.), computer paper, etc. According to the College Board, the national average cost for textbooks at four-year public colleges in 2009-10 was $1,122.",
+            "full_bbox": [
+                513.720703125,
+                1349.70703125,
+                1427.63671875,
+                1481.689453125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                160.44905471801758,
+                1681.1199340820312,
+                270.5326690673828,
+                1702.2997436523438,
+                0.9215870499610901
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.6533203125,
+                0.16042258522727268,
+                0.6650390625
+            ],
+            "cell_text": "Travel and",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                10
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Travel and",
+            "full_bbox": [
+                145.16601562499997,
+                1665.966796875,
+                264.69726562499994,
+                1695.849609375
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                528.5251159667969,
+                1506.550048828125,
+                1406.6070556640625,
+                1566.6724243164062,
+                0.8942003846168518
+            ],
+            "bbox": [
+                0.31285511363636365,
+                0.5859375,
+                0.8516512784090907,
+                0.6142578125
+            ],
+            "cell_text": "Fees will depend on the school you're attending. This list can be obtained directly from the school. Fees include activity fees, parking decal fees, etc.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Fees will depend on the school you're attending. This list can be obtained directly from the school. Fees include activity fees, parking decal fees, etc.",
+            "full_bbox": [
+                516.2109375,
+                1494.140625,
+                1405.2246093749998,
+                1566.357421875
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                540.6481628417969,
+                1596.2843017578125,
+                1415.873291015625,
+                1651.3810424804688,
+                0.8915339708328247
+            ],
+            "bbox": [
+                0.31285511363636365,
+                0.6201171875,
+                0.8576882102272727,
+                0.646484375
+            ],
+            "cell_text": "Equipment may include a computer, printer, etc. Furnishings or room materials may include such items as reading lamps, microwave, refrigerator, sheets, towels, etc.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Equipment may include a computer, printer, etc. Furnishings or room materials may include such items as reading lamps, microwave, refrigerator, sheets, towels, etc.",
+            "full_bbox": [
+                516.2109375,
+                1581.298828125,
+                1415.185546875,
+                1648.53515625
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                159.80743217468262,
+                1367.1427612304688,
+                327.6707458496094,
+                1421.8451538085938,
+                0.8874762058258057
+            ],
+            "bbox": [
+                0.0879794034090909,
+                0.541015625,
+                0.19513494318181818,
+                0.5556640625
+            ],
+            "cell_text": "school supplies",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5,
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "school supplies",
+            "full_bbox": [
+                145.16601562499997,
+                1379.58984375,
+                321.97265625,
+                1416.943359375
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                521.9408569335938,
+                1193.918857574463,
+                1345.41552734375,
+                1250.967628479004,
+                0.863802433013916
+            ],
+            "bbox": [
+                0.3098366477272727,
+                0.4619140625,
+                0.8093927556818182,
+                0.490234375
+            ],
+            "cell_text": "The cost of taking a course varies from school to school. To search for tuition costs at different colleges, go to mmatudantaidadgwim,k.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "The cost of taking a course varies from school to school. To search for tuition costs at different colleges, go to mmatudantaidadgwim,k.",
+            "full_bbox": [
+                511.23046874999994,
+                1177.880859375,
+                1335.498046875,
+                1250.09765625
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                531.1606750488281,
+                1678.5480346679688,
+                1242.070068359375,
+                1705.3157348632812,
+                0.8498820662498474
+            ],
+            "bbox": [
+                0.3113458806818182,
+                0.65234375,
+                0.7535511363636364,
+                0.66796875
+            ],
+            "cell_text": "Ifyou live on campus, youll probably need to travel during school breaks.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                10
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Ifyou live on campus, youll probably need to travel during school breaks.",
+            "full_bbox": [
+                513.720703125,
+                1663.4765625,
+                1243.359375,
+                1703.3203125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                523.9679260253906,
+                1711.3682861328125,
+                1080.4707641601562,
+                1735.5234375,
+                0.8175347447395325
+            ],
+            "bbox": [
+                0.31285511363636365,
+                0.6650390625,
+                0.6524325284090909,
+                0.6796875
+            ],
+            "cell_text": "Other expenses can include clothing and cell phone use.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                11
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Other expenses can include clothing and cell phone use.",
+            "full_bbox": [
+                516.2109375,
+                1695.849609375,
+                1076.513671875,
+                1733.203125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                526.6027221679688,
+                1312.6912994384766,
+                1145.6453857421875,
+                1336.3430786132812,
+                0.7947254180908203
+            ],
+            "bbox": [
+                0.3113458806818182,
+                0.5078125,
+                0.6886541193181818,
+                0.5224609375
+            ],
+            "cell_text": "wmsatudentaidadgmlnyka to search for estimated costs.",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "wmsatudentaidadgmlnyka to search for estimated costs.",
+            "full_bbox": [
+                513.720703125,
+                1294.921875,
+                1136.279296875,
+                1332.275390625
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                524.9794616699219,
+                1278.4003448486328,
+                1164.5025634765625,
+                1305.1107940673828,
+                0.7839662432670593
+            ],
+            "bbox": [
+                0.31285511363636365,
+                0.4951171875,
+                0.6977095170454546,
+                0.5107421875
+            ],
+            "cell_text": "The cost of lodging and food varies from school to school. Go to",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "The cost of lodging and food varies from school to school. Go to",
+            "full_bbox": [
+                516.2109375,
+                1262.548828125,
+                1151.220703125,
+                1302.392578125
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                159.0436840057373,
+                1596.6275634765625,
+                318.2032165527344,
+                1619.5609741210938,
+                0.662677526473999
+            ],
+            "bbox": [
+                0.08948863636363634,
+                0.6201171875,
+                0.19060724431818182,
+                0.6328125
+            ],
+            "cell_text": "Equipment and",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Equipment and",
+            "full_bbox": [
+                147.65624999999997,
+                1581.298828125,
+                314.501953125,
+                1613.671875
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        },
+        {
+            "cell_bbox": [
+                527.9239196777344,
+                1141.8744144439697,
+                660.9644165039062,
+                1168.1600189208984,
+                0.6183028817176819
+            ],
+            "bbox": [
+                0.3143643465909091,
+                0.443359375,
+                0.3943536931818182,
+                0.455078125
+            ],
+            "cell_text": "Description",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Description",
+            "full_bbox": [
+                518.701171875,
+                1130.56640625,
+                650.68359375,
+                1160.44921875
+            ],
+            "img_size": [
+                1650,
+                2550
+            ]
+        }
+    ]
+}

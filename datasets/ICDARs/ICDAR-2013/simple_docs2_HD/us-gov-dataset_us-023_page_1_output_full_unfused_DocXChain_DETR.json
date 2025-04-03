@@ -1,0 +1,619 @@
+{
+    "TD": [
+        650.0,
+        2161.0,
+        2060.0,
+        2698.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.26235294117647057,
+                0.666969696969697,
+                0.45803921568627454,
+                0.6854545454545454
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Conventional pesticides",
+            "normalized_cell_text": "Conventional pesticides",
+            "full_bbox": [
+                669,
+                2201,
+                1168,
+                2262
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6792156862745098,
+                0.6678787878787878,
+                0.7047058823529412,
+                0.6815151515151515
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "97",
+            "normalized_cell_text": "97",
+            "full_bbox": [
+                1732,
+                2204,
+                1797,
+                2249
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7588235294117647,
+                0.666969696969697,
+                0.7803921568627451,
+                0.6815151515151515
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "21",
+            "normalized_cell_text": "21",
+            "full_bbox": [
+                1935,
+                2201,
+                1990,
+                2249
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.26235294117647057,
+                0.6872727272727273,
+                0.6564705882352941,
+                0.7069696969696969
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Other pesticide chemicals (sulfur, petroleum, etc.)",
+            "normalized_cell_text": "Other pesticide chemicals (sulfur, petroleum, etc.)",
+            "full_bbox": [
+                669,
+                2268,
+                1674,
+                2333
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6780392156862745,
+                0.6872727272727273,
+                0.7058823529411765,
+                0.703939393939394
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": ".25",
+            "normalized_cell_text": ".25",
+            "full_bbox": [
+                1729,
+                2268,
+                1800,
+                2323
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7690196078431373,
+                0.6903030303030303,
+                0.7827450980392157,
+                0.7021212121212121
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "6",
+            "normalized_cell_text": "6",
+            "full_bbox": [
+                1961,
+                2278,
+                1996,
+                2317
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.26235294117647057,
+                0.7096969696969697,
+                0.32784313725490194,
+                0.7245454545454545
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Subtoftal",
+            "normalized_cell_text": "Subtoftal",
+            "full_bbox": [
+                669,
+                2342,
+                836,
+                2391
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6705882352941176,
+                0.7109090909090909,
+                0.7047058823529412,
+                0.7233333333333334
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "1.22",
+            "normalized_cell_text": "1.22",
+            "full_bbox": [
+                1710,
+                2346,
+                1797,
+                2387
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.76,
+                0.7096969696969697,
+                0.7815686274509804,
+                0.7245454545454545
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "27",
+            "normalized_cell_text": "27",
+            "full_bbox": [
+                1938,
+                2342,
+                1993,
+                2391
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.26235294117647057,
+                0.7351515151515151,
+                0.4266666666666667,
+                0.7536363636363637
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Wood preservatives",
+            "normalized_cell_text": "Wood preservatives",
+            "full_bbox": [
+                669,
+                2426,
+                1088,
+                2487
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6780392156862745,
+                0.7342424242424243,
+                0.7058823529411765,
+                0.7509090909090909
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": ".72",
+            "normalized_cell_text": ".72",
+            "full_bbox": [
+                1729,
+                2423,
+                1800,
+                2478
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.76,
+                0.7360606060606061,
+                0.7827450980392157,
+                0.75
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "16",
+            "normalized_cell_text": "16",
+            "full_bbox": [
+                1938,
+                2429,
+                1996,
+                2475
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.2596078431372549,
+                0.7548484848484849,
+                0.41019607843137257,
+                0.7763636363636364
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Specialty biocides",
+            "normalized_cell_text": "Specialty biocides",
+            "full_bbox": [
+                662,
+                2491,
+                1046,
+                2562
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6780392156862745,
+                0.7557575757575757,
+                0.7058823529411765,
+                0.7724242424242425
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": ".26",
+            "normalized_cell_text": ".26",
+            "full_bbox": [
+                1729,
+                2494,
+                1800,
+                2549
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7690196078431373,
+                0.7575757575757576,
+                0.7815686274509804,
+                0.7703030303030303
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "6",
+            "normalized_cell_text": "6",
+            "full_bbox": [
+                1961,
+                2500,
+                1993,
+                2542
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.2607843137254902,
+                0.7763636363636364,
+                0.4568627450980392,
+                0.7966666666666666
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Chlorine/hypochlorites",
+            "normalized_cell_text": "Chlorine/hypochlorites",
+            "full_bbox": [
+                665,
+                2562,
+                1165,
+                2629
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6705882352941176,
+                0.7790909090909091,
+                0.7047058823529412,
+                0.7918181818181819
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "2.32",
+            "normalized_cell_text": "2.32",
+            "full_bbox": [
+                1710,
+                2571,
+                1797,
+                2613
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7588235294117647,
+                0.7781818181818182,
+                0.7803921568627451,
+                0.7927272727272727
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "51",
+            "normalized_cell_text": "51",
+            "full_bbox": [
+                1935,
+                2568,
+                1990,
+                2616
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.2607843137254902,
+                0.7975757575757576,
+                0.31137254901960787,
+                0.8163636363636364
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Total",
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                665,
+                2632,
+                794,
+                2694
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6705882352941176,
+                0.8006060606060607,
+                0.7047058823529412,
+                0.8133333333333334
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "4.52",
+            "normalized_cell_text": "4.52",
+            "full_bbox": [
+                1710,
+                2642,
+                1797,
+                2684
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7513725490196078,
+                0.8006060606060607,
+                0.7815686274509804,
+                0.8133333333333334
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "100",
+            "normalized_cell_text": "100",
+            "full_bbox": [
+                1916,
+                2642,
+                1993,
+                2684
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

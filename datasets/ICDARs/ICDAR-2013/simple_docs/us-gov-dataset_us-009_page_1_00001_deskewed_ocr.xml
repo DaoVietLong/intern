@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="821" bottom="649" Dpi="300" DataLeft="0" DataTop="0" DataRight="821" DataBottom="649" Version="10">
+  <block id="1" left="66" top="62" right="772" bottom="222">
+    <line id="2" left="66" top="62" right="772" bottom="222">
+      <word id="3" left="66" top="62" right="772" bottom="222" value="MMMi" confidence="36" font="MP">
+        <char id="4" left="66" top="62" right="330" bottom="202" value="M" confidence="-25"/>
+        <char id="5" left="338" top="62" right="490" bottom="214" value="M" confidence="-28"/>
+        <char id="6" left="498" top="62" right="746" bottom="210" value="M" confidence="-34"/>
+        <char id="7" left="762" top="106" right="772" bottom="222" value="i" confidence="-59"/>
+      </word>
+    </line>
+  </block>
+  <block id="8" left="763" top="214" right="772" bottom="247">
+    <line id="9" left="763" top="214" right="772" bottom="247">
+      <word id="10" left="763" top="214" right="772" bottom="247" value="ï" confidence="24" font="MP">
+        <char id="11" left="763" top="214" right="772" bottom="247" value="ï" confidence="-24"/>
+      </word>
+    </line>
+  </block>
+  <block id="12" left="66" top="238" right="774" bottom="410">
+    <line id="13" left="66" top="238" right="774" bottom="410">
+      <word id="14" left="66" top="238" right="774" bottom="410" value="RMHÜRe" confidence="33" font="MP">
+        <char id="15" left="66" top="242" right="158" bottom="406" value="R" confidence="26"/>
+        <char id="16" left="158" top="242" right="370" bottom="410" value="M" confidence="-39"/>
+        <char id="17" left="374" top="238" right="490" bottom="402" value="H" confidence="-25"/>
+        <char id="18" left="494" top="238" right="638" bottom="406" value="Ü" confidence="24"/>
+        <char id="19" left="638" top="238" right="750" bottom="406" value="R" confidence="42"/>
+        <char id="20" left="754" top="286" right="774" bottom="402" value="e" confidence="-44"/>
+      </word>
+    </line>
+  </block>
+  <block id="21" left="66" top="414" right="774" bottom="586">
+    <line id="22" left="66" top="414" right="774" bottom="586">
+      <word id="23" left="66" top="414" right="774" bottom="586" value="XH1I" confidence="24" font="MP">
+        <char id="24" left="66" top="418" right="174" bottom="586" value="X" confidence="27"/>
+        <char id="25" left="174" top="418" right="582" bottom="566" value="H" confidence="-27"/>
+        <char id="26" left="594" top="418" right="682" bottom="574" value="1" confidence="-15"/>
+        <char id="27" left="690" top="414" right="774" bottom="562" value="I" confidence="-27"/>
+      </word>
+    </line>
+  </block>
+  <block id="28" left="764" top="258" right="772" bottom="287">
+    <line id="29" left="764" top="258" right="772" bottom="287">
+      <word id="30" left="764" top="258" right="772" bottom="287" value="i" confidence="13" font="MP">
+        <char id="31" left="764" top="258" right="772" bottom="287" value="i" confidence="-13"/>
+      </word>
+    </line>
+  </block>
+</ocr>

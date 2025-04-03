@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="796" bottom="1123" Dpi="300" DataLeft="98" DataTop="32" DataRight="284" DataBottom="45" Version="10">
+  <block id="1" left="98" top="32" right="290" bottom="45">
+    <line id="2" left="98" top="32" right="290" bottom="45">
+      <word id="3" left="98" top="35" right="99" bottom="42" value=":" confidence="52" font="MP">
+        <char id="4" left="98" top="35" right="99" bottom="42" value=":" confidence="52"/>
+      </word>
+      <word id="5" left="104" top="32" right="117" bottom="43" value="of" confidence="90" font="MP">
+        <char id="6" left="104" top="35" right="112" bottom="43" value="o" confidence="81"/>
+        <char id="7" left="112" top="32" right="117" bottom="42" value="f" confidence="100"/>
+      </word>
+      <word id="8" left="122" top="33" right="143" bottom="43" value="the" confidence="67" font="MP">
+        <char id="9" left="122" top="34" right="127" bottom="42" value="t" confidence="86"/>
+        <char id="10" left="127" top="33" right="135" bottom="42" value="h" confidence="47"/>
+        <char id="11" left="136" top="35" right="143" bottom="43" value="e" confidence="70"/>
+      </word>
+      <word id="12" left="149" top="32" right="212" bottom="43" value="Directors" confidence="84" font="MP">
+        <char id="13" left="149" top="32" right="158" bottom="42" value="D" confidence="100"/>
+        <char id="14" left="159" top="32" right="162" bottom="42" value="i" confidence="72"/>
+        <char id="15" left="164" top="35" right="169" bottom="42" value="r" confidence="100"/>
+        <char id="16" left="169" top="35" right="176" bottom="43" value="e" confidence="84"/>
+        <char id="17" left="177" top="35" right="184" bottom="43" value="c" confidence="99"/>
+        <char id="18" left="185" top="34" right="190" bottom="43" value="t" confidence="65"/>
+        <char id="19" left="191" top="35" right="199" bottom="43" value="o" confidence="53"/>
+        <char id="20" left="199" top="35" right="205" bottom="43" value="r" confidence="100"/>
+        <char id="21" left="205" top="35" right="212" bottom="43" value="s" confidence="89"/>
+      </word>
+      <word id="22" left="216" top="32" right="218" bottom="45" value="|" confidence="100" font="MP">
+        <char id="23" left="216" top="32" right="218" bottom="45" value="|" confidence="100"/>
+      </word>
+      <word id="24" left="223" top="32" right="284" bottom="45" value="Corporate" confidence="81" font="MP">
+        <char id="25" left="223" top="32" right="231" bottom="43" value="C" confidence="100"/>
+        <char id="26" left="232" top="35" right="240" bottom="43" value="o" confidence="65"/>
+        <char id="27" left="240" top="35" right="245" bottom="42" value="r" confidence="100"/>
+        <char id="28" left="245" top="35" right="252" bottom="45" value="p" confidence="94"/>
+        <char id="29" left="253" top="35" right="260" bottom="43" value="o" confidence="100"/>
+        <char id="30" left="261" top="35" right="265" bottom="43" value="r" confidence="58"/>
+        <char id="31" left="265" top="35" right="272" bottom="43" value="a" confidence="75"/>
+        <char id="32" left="272" top="34" right="277" bottom="43" value="t" confidence="100"/>
+        <char id="33" left="277" top="35" right="284" bottom="43" value="e" confidence="39"/>
+      </word>
+      <word id="34" left="288" top="37" right="290" bottom="41" value="'" confidence="65" font="MP">
+        <char id="35" left="288" top="37" right="290" bottom="41" value="'" confidence="-65"/>
+      </word>
+    </line>
+  </block>
+</ocr>

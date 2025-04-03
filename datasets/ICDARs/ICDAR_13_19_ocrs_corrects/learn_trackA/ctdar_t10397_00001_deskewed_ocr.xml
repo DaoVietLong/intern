@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="1122" bottom="793" Dpi="300" DataLeft="0" DataTop="0" DataRight="1122" DataBottom="793" Version="10">
+  <block id="1" left="1052" top="184" right="1063" bottom="218">
+    <line id="2" left="1052" top="184" right="1063" bottom="218">
+      <word id="3" left="1052" top="184" right="1063" bottom="218" value="1" confidence="13" font="MP">
+        <char id="4" left="1052" top="184" right="1063" bottom="218" value="1" confidence="-13"/>
+      </word>
+    </line>
+  </block>
+  <block id="5" left="1053" top="238" right="1055" bottom="241">
+    <line id="6" left="1053" top="238" right="1055" bottom="241">
+      <word id="7" left="1053" top="238" right="1055" bottom="241" value="." confidence="60" font="MP">
+        <char id="8" left="1053" top="238" right="1055" bottom="241" value="." confidence="-60"/>
+      </word>
+    </line>
+  </block>
+  <block id="9" left="1048" top="594" right="1069" bottom="618">
+    <line id="10" left="1048" top="594" right="1069" bottom="618">
+      <word id="11" left="1048" top="594" right="1069" bottom="618" value="5" confidence="23" font="MP">
+        <char id="12" left="1048" top="594" right="1069" bottom="618" value="5" confidence="-23"/>
+      </word>
+    </line>
+  </block>
+  <block id="13" left="1049" top="624" right="1068" bottom="668">
+    <line id="14" left="1049" top="624" right="1068" bottom="668">
+      <word id="15" left="1049" top="624" right="1068" bottom="668" value="I" confidence="14" font="MP">
+        <char id="16" left="1049" top="624" right="1068" bottom="668" value="I" confidence="-14"/>
+      </word>
+    </line>
+  </block>
+</ocr>

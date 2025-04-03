@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="792" bottom="611" Dpi="300" DataLeft="0" DataTop="0" DataRight="792" DataBottom="611" Version="10">
+  <block id="1" left="40" top="473" right="46" bottom="508">
+    <line id="2" left="40" top="473" right="46" bottom="508">
+      <word id="3" left="40" top="473" right="46" bottom="508" value="i" confidence="17" font="MP">
+        <char id="4" left="40" top="473" right="46" bottom="508" value="i" confidence="-17"/>
+      </word>
+    </line>
+  </block>
+  <block id="5" left="40" top="500" right="60" bottom="537">
+    <line id="6" left="40" top="500" right="60" bottom="537">
+      <word id="7" left="40" top="500" right="60" bottom="537" value="i!" confidence="8" font="MP">
+        <char id="8" left="40" top="500" right="46" bottom="537" value="i" confidence="-1"/>
+        <char id="9" left="54" top="503" right="60" bottom="537" value="!" confidence="-16"/>
+      </word>
+    </line>
+  </block>
+  <block id="10" left="39" top="525" right="76" bottom="575">
+    <line id="11" left="39" top="525" right="76" bottom="575">
+      <word id="12" left="39" top="525" right="76" bottom="575" value="Hi" confidence="23" font="MP">
+        <char id="13" left="39" top="533" right="62" bottom="575" value="H" confidence="-15"/>
+        <char id="14" left="68" top="525" right="76" bottom="575" value="i" confidence="31"/>
+      </word>
+    </line>
+  </block>
+</ocr>

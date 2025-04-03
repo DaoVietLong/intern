@@ -1,0 +1,838 @@
+{
+    "TD": [
+        320.0,
+        1242.0,
+        2224.0,
+        2725.0
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                1961.2958984375,
+                2047.99755859375,
+                2018.8570556640625,
+                2089.46142578125,
+                0.9999960660934448
+            ],
+            "bbox": [
+                0.7641314338235294,
+                0.6142578125,
+                0.7919347426470589,
+                0.6328125
+            ],
+            "cell_text": "$0",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0",
+            "full_bbox": [
+                1948.53515625,
+                2027.05078125,
+                2019.4335937500002,
+                2088.28125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1962.4346923828125,
+                1936.48974609375,
+                2017.9320068359375,
+                1978.663330078125,
+                0.9999064207077026
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.5810546875,
+                0.7919347426470589,
+                0.5986328125
+            ],
+            "cell_text": "$0",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0",
+            "full_bbox": [
+                1951.7578125,
+                1917.48046875,
+                2019.4335937500002,
+                1975.48828125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1963.289306640625,
+                2160.9882202148438,
+                2100.04736328125,
+                2199.2373657226562,
+                0.9998427629470825
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.6494140625,
+                0.8235294117647058,
+                0.6650390625
+            ],
+            "cell_text": "$1.2M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$1.2M",
+            "full_bbox": [
+                1951.7578125,
+                2143.06640625,
+                2100.0,
+                2194.62890625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1961.005615234375,
+                2496.122314453125,
+                2061.53662109375,
+                2539.7979736328125,
+                0.9874661564826965
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.7509765625,
+                0.8083639705882353,
+                0.7685546875
+            ],
+            "cell_text": "$8M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                11
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$8M",
+            "full_bbox": [
+                1951.7578125,
+                2478.22265625,
+                2061.328125,
+                2536.23046875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1963.80322265625,
+                1713.9420471191406,
+                2130.4600830078125,
+                1754.1220703125,
+                0.987030565738678
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.5126953125,
+                0.8349034926470589,
+                0.5302734375
+            ],
+            "cell_text": "$1.06M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$1.06M",
+            "full_bbox": [
+                1951.7578125,
+                1691.89453125,
+                2129.00390625,
+                1749.90234375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                362.3486328125,
+                1600.9560241699219,
+                1630.70556640625,
+                1639.3113708496094,
+                0.9737011790275574
+            ],
+            "bbox": [
+                0.14108455882352944,
+                0.4794921875,
+                0.6326976102941176,
+                0.4970703125
+            ],
+            "cell_text": "Federal Cloud Computing. Data Center Consolidation",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Federal Cloud Computing. Data Center Consolidation",
+            "full_bbox": [
+                359.76562500000006,
+                1582.32421875,
+                1613.37890625,
+                1640.33203125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1961.68212890625,
+                1821.1875,
+                2100.944580078125,
+                1863.2577514648438,
+                0.9644923806190491
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.5478515625,
+                0.8235294117647058,
+                0.5634765625
+            ],
+            "cell_text": "$0.9M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0.9M",
+            "full_bbox": [
+                1951.7578125,
+                1807.91015625,
+                2100.0,
+                1859.47265625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                364.3068962097168,
+                1935.3114624023438,
+                850.3572387695312,
+                1983.3699340820312,
+                0.9401931166648865
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.5810546875,
+                0.3306525735294118,
+                0.599609375
+            ],
+            "cell_text": "Challenges Platform",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Challenges Platform",
+            "full_bbox": [
+                356.54296875,
+                1917.48046875,
+                843.1640625000001,
+                1978.7109375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                362.85865020751953,
+                2050.3770751953125,
+                1344.7738037109375,
+                2090.9927368164062,
+                0.9320569038391113
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.6162109375,
+                0.5227481617647058,
+                0.6337890625
+            ],
+            "cell_text": "Citizen Engagement Platform (Apps.gov)",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Citizen Engagement Platform (Apps.gov)",
+            "full_bbox": [
+                356.54296875,
+                2033.49609375,
+                1333.0078125,
+                2091.50390625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1962.13330078125,
+                2271.326171875,
+                2101.7528076171875,
+                2312.111572265625,
+                0.8824595808982849
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.68359375,
+                0.822265625,
+                0.69921875
+            ],
+            "cell_text": "$0.1M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0.1M",
+            "full_bbox": [
+                1951.7578125,
+                2255.859375,
+                2096.77734375,
+                2307.421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                362.9611358642578,
+                1709.9837341308594,
+                689.2325134277344,
+                1751.2997741699219,
+                0.8764616250991821
+            ],
+            "bbox": [
+                0.13729319852941174,
+                0.51171875,
+                0.2661994485294118,
+                0.5302734375
+            ],
+            "cell_text": "IT Dashboard",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "IT Dashboard",
+            "full_bbox": [
+                350.09765624999994,
+                1688.671875,
+                678.8085937500001,
+                1749.90234375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                366.73432540893555,
+                1821.2670288085938,
+                579.0067443847656,
+                1868.3051147460938,
+                0.860371470451355
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.5478515625,
+                0.22575827205882354,
+                0.5654296875
+            ],
+            "cell_text": "Data.gov",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Data.gov",
+            "full_bbox": [
+                356.54296875,
+                1807.91015625,
+                575.68359375,
+                1865.91796875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                362.61423110961914,
+                2613.8505859375,
+                1713.55322265625,
+                2658.559326171875,
+                0.8491884469985962
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.787109375,
+                0.6655560661764706,
+                0.8046875
+            ],
+            "cell_text": "*Funded by OCSIT, managed by GSA Office of Government-wide Policy",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                12
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "*Funded by OCSIT, managed by GSA Office of Government-wide Policy",
+            "full_bbox": [
+                356.54296875,
+                2597.4609375,
+                1697.16796875,
+                2655.46875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1960.748291015625,
+                1307.6062774658203,
+                2102.9822998046875,
+                1352.4796829223633,
+                0.8418865203857422
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.3916015625,
+                0.8235294117647058,
+                0.4072265625
+            ],
+            "cell_text": "$1.1M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$1.1M",
+            "full_bbox": [
+                1951.7578125,
+                1292.28515625,
+                2100.0,
+                1343.84765625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                362.71858978271484,
+                1414.5462646484375,
+                1645.129638671875,
+                1537.0583801269531,
+                0.841424286365509
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.42578125,
+                0.6415441176470589,
+                0.4638671875
+            ],
+            "cell_text": "(FedRAMP) Federal Risk Authorization and Management Program",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "(FedRAMP) Federal Risk Authorization and Management Program",
+            "full_bbox": [
+                356.54296875,
+                1405.078125,
+                1635.9375000000002,
+                1530.76171875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                364.1995315551758,
+                2493.6497802734375,
+                488.139404296875,
+                2538.7662353515625,
+                0.8376695513725281
+            ],
+            "bbox": [
+                0.13855698529411764,
+                0.7509765625,
+                0.19037224264705882,
+                0.7666015625
+            ],
+            "cell_text": "Total",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                11
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                353.3203125,
+                2478.22265625,
+                485.44921875,
+                2529.78515625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                360.0765686035156,
+                2384.7691650390625,
+                1549.2421875,
+                2437.20361328125,
+                0.8307181000709534
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.7177734375,
+                0.607421875,
+                0.7353515625
+            ],
+            "cell_text": "FFATA Subawards Reporting System Assistance\"",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                10
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "FFATA Subawards Reporting System Assistance\"",
+            "full_bbox": [
+                356.54296875,
+                2368.65234375,
+                1548.92578125,
+                2426.66015625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                358.83554458618164,
+                2267.2991943359375,
+                1028.26708984375,
+                2314.9346923828125,
+                0.8108396530151367
+            ],
+            "bbox": [
+                0.13982077205882354,
+                0.68359375,
+                0.4026884191176471,
+                0.6982421875
+            ],
+            "cell_text": "Small Business Dashboard\"",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                9
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Small Business Dashboard\"",
+            "full_bbox": [
+                356.54296875,
+                2255.859375,
+                1026.85546875,
+                2304.19921875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1960.569580078125,
+                1488.0815124511719,
+                2103.34814453125,
+                1529.7509155273438,
+                0.783658504486084
+            ],
+            "bbox": [
+                0.7666590073529411,
+                0.4462890625,
+                0.822265625,
+                0.4619140625
+            ],
+            "cell_text": "$0.3M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0.3M",
+            "full_bbox": [
+                1954.9804687499998,
+                1472.75390625,
+                2096.77734375,
+                1524.31640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                360.65196990966797,
+                2152.8333740234375,
+                823.6750183105469,
+                2217.4523315429688,
+                0.778985321521759
+            ],
+            "bbox": [
+                0.14108455882352944,
+                0.6494140625,
+                0.3205422794117647,
+                0.6669921875
+            ],
+            "cell_text": "USASpending.gov",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "USASpending.gov",
+            "full_bbox": [
+                359.76562500000006,
+                2143.06640625,
+                817.3828125,
+                2201.07421875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                366.4868927001953,
+                1313.604476928711,
+                779.1039733886719,
+                1354.8380966186523,
+                0.7756602168083191
+            ],
+            "bbox": [
+                0.14108455882352944,
+                0.3935546875,
+                0.30158547794117646,
+                0.408203125
+            ],
+            "cell_text": "Perlormance.gowy",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Perlormance.gowy",
+            "full_bbox": [
+                359.76562500000006,
+                1298.73046875,
+                769.04296875,
+                1347.0703125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1962.352783203125,
+                1597.4365234375,
+                2134.4361572265625,
+                1642.0572509765625,
+                0.7710945010185242
+            ],
+            "bbox": [
+                0.7641314338235294,
+                0.478515625,
+                0.8349034926470589,
+                0.49609375
+            ],
+            "cell_text": "$0.44M",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$0.44M",
+            "full_bbox": [
+                1948.53515625,
+                1579.1015625,
+                2129.00390625,
+                1637.109375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1963.2069091796875,
+                2385.117919921875,
+                2134.0592041015625,
+                2425.58984375,
+                0.7478313446044922
+            ],
+            "bbox": [
+                0.7653952205882353,
+                0.716796875,
+                0.8349034926470589,
+                0.734375
+            ],
+            "cell_text": "$2.88M",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "$2.88M",
+            "full_bbox": [
+                1951.7578125,
+                2365.4296875,
+                2129.00390625,
+                2423.4375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

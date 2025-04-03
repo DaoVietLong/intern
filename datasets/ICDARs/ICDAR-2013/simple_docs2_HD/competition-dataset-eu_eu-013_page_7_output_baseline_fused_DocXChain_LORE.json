@@ -1,0 +1,586 @@
+{
+    "TD": [
+        289.0,
+        1693.0,
+        2183.0,
+        2160.0
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                2005.03857421875,
+                2032.7341003417969,
+                2028.72607421875,
+                2060.0280151367188,
+                0.9999998807907104
+            ],
+            "bbox": [
+                0.8026048229586693,
+                0.5751953125,
+                0.8178041519657258,
+                0.5859375
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1990.4599609374998,
+                2018.3603515625,
+                2028.1542968749998,
+                2056.0546875
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                2006.355712890625,
+                1895.88232421875,
+                2029.2928466796875,
+                1923.8199920654297,
+                0.9999979734420776
+            ],
+            "bbox": [
+                0.8026048229586693,
+                0.5361328125,
+                0.8164223947832661,
+                0.546875
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1990.4599609374998,
+                1881.2900390625,
+                2024.7275390624998,
+                1918.984375
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1672.345703125,
+                2030.7979125976562,
+                1695.468994140625,
+                2060.2366333007812,
+                0.9999972581863403
+            ],
+            "bbox": [
+                0.667192619077621,
+                0.5751953125,
+                0.6823919480846774,
+                0.5859375
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1654.6376953125,
+                2018.3603515625,
+                1692.33203125,
+                2056.0546875
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1670.00927734375,
+                1962.1727294921875,
+                1695.154296875,
+                1992.4950256347656,
+                0.9999479055404663
+            ],
+            "bbox": [
+                0.6685743762600806,
+                0.5556640625,
+                0.6823919480846774,
+                0.56640625
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1658.064453125,
+                1949.8251953125,
+                1692.33203125,
+                1987.51953125
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1670.3629150390625,
+                1824.706558227539,
+                1694.7928466796875,
+                1854.8987274169922,
+                0.999883770942688
+            ],
+            "bbox": [
+                0.6685743762600806,
+                0.5166015625,
+                0.6823919480846774,
+                0.52734375
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1658.064453125,
+                1812.7548828125,
+                1692.33203125,
+                1850.44921875
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1672.841552734375,
+                1894.5512084960938,
+                1693.8118896484375,
+                1923.93505859375,
+                0.9993282556533813
+            ],
+            "bbox": [
+                0.667192619077621,
+                0.5361328125,
+                0.6823919480846774,
+                0.546875
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1654.6376953125,
+                1881.2900390625,
+                1692.33203125,
+                1918.984375
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1930.5677490234375,
+                1742.0968704223633,
+                2102.8587646484375,
+                1776.9795837402344,
+                0.9982718229293823
+            ],
+            "bbox": [
+                0.7749696793094758,
+                0.4931640625,
+                0.8454392956149194,
+                0.50390625
+            ],
+            "cell_text": "Trainers",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Trainers",
+            "full_bbox": [
+                1921.9248046875,
+                1730.5126953125,
+                2096.689453125,
+                1768.20703125
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                306.9397392272949,
+                1743.7235984802246,
+                615.6696166992188,
+                1778.4944229125977,
+                0.9977971315383911
+            ],
+            "bbox": [
+                0.12001677482358869,
+                0.4921875,
+                0.2443749212449597,
+                0.5048828125
+            ],
+            "cell_text": "Roles and tasks",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Roles and tasks",
+            "full_bbox": [
+                297.64160156249994,
+                1727.0859375,
+                606.0498046875,
+                1771.6337890625
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                2005.09423828125,
+                2101.3666076660156,
+                2030.318603515625,
+                2129.1202697753906,
+                0.9969593286514282
+            ],
+            "bbox": [
+                0.8026048229586693,
+                0.5947265625,
+                0.8164223947832661,
+                0.60546875
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1990.4599609374998,
+                2086.8955078125,
+                2024.7275390624998,
+                2124.58984375
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                301.2978935241699,
+                1957.1508178710938,
+                741.7161865234375,
+                1995.9266357421875,
+                0.9647381901741028
+            ],
+            "bbox": [
+                0.12001677482358869,
+                0.552734375,
+                0.29826345136088706,
+                0.56640625
+            ],
+            "cell_text": "Evaluation of education",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Evaluation of education",
+            "full_bbox": [
+                297.64160156249994,
+                1939.544921875,
+                739.6933593749999,
+                1987.51953125
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1670.8048095703125,
+                2099.109405517578,
+                1695.324951171875,
+                2127.7067260742188,
+                0.9380996227264404
+            ],
+            "bbox": [
+                0.6685743762600806,
+                0.5947265625,
+                0.6823919480846774,
+                0.60546875
+            ],
+            "cell_text": "X",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "X",
+            "full_bbox": [
+                1658.064453125,
+                2086.8955078125,
+                1692.33203125,
+                2124.58984375
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                309.4912223815918,
+                1885.1298522949219,
+                1437.2274169921875,
+                1929.7677764892578,
+                0.9141358733177185
+            ],
+            "bbox": [
+                0.11725326045866935,
+                0.533203125,
+                0.5732331306703629,
+                0.55078125
+            ],
+            "cell_text": "Supporting students in preparing their individual study plans",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Supporting students in preparing their individual study plans",
+            "full_bbox": [
+                290.7880859375,
+                1871.009765625,
+                1421.6181640624998,
+                1932.69140625
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                303.17336559295654,
+                1818.1138916015625,
+                768.9877319335938,
+                1859.7818603515625,
+                0.8517213463783264
+            ],
+            "bbox": [
+                0.11863501764112906,
+                0.5146484375,
+                0.30655399445564513,
+                0.529296875
+            ],
+            "cell_text": "Curriculum development",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Curriculum development",
+            "full_bbox": [
+                294.21484375000006,
+                1805.9013671875,
+                760.2539062499999,
+                1857.302734375
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                301.1708993911743,
+                2092.099578857422,
+                1098.6694946289062,
+                2132.5399780273438,
+                0.8022065162658691
+            ],
+            "bbox": [
+                0.11725326045866935,
+                0.5908203125,
+                0.4447297127016129,
+                0.6083984375
+            ],
+            "cell_text": "Cooperation between school and enterprise",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Cooperation between school and enterprise",
+            "full_bbox": [
+                290.7880859375,
+                2073.1884765625,
+                1102.9296875,
+                2134.8701171875
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                302.23480224609375,
+                2025.5453796386719,
+                662.5602722167969,
+                2064.11083984375,
+                0.761505663394928
+            ],
+            "bbox": [
+                0.11863501764112906,
+                0.5732421875,
+                0.26510127898185487,
+                0.5849609375
+            ],
+            "cell_text": "Student assessment",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Student assessment",
+            "full_bbox": [
+                294.21484375000006,
+                2011.5068359375,
+                657.4511718750001,
+                2052.6279296875
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "cell_bbox": [
+                1592.3765869140625,
+                1744.120548248291,
+                1773.076416015625,
+                1777.7261810302734,
+                0.5759965181350708
+            ],
+            "bbox": [
+                0.6381757182459677,
+                0.4931640625,
+                0.7114088489163306,
+                0.50390625
+            ],
+            "cell_text": "Teachers",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Teachers",
+            "full_bbox": [
+                1582.67578125,
+                1730.5126953125,
+                1764.2939453125,
+                1768.20703125
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        }
+    ]
+}

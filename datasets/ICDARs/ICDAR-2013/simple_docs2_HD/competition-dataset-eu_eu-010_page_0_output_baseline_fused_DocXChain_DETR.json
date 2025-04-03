@@ -1,0 +1,184 @@
+{
+    "TD": [
+        845.0,
+        733.0,
+        1627.0,
+        1404.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.3629032258064516,
+                0.21858079224850385,
+                0.4875,
+                0.23311484753491024
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "FEMIP Country",
+            "normalized_cell_text": "FEMIP Country",
+            "full_bbox": [
+                900,
+                767,
+                1209,
+                818
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.5358870967741935,
+                0.2177258478198917,
+                0.6379032258064516,
+                0.2467939583927045
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Signed TA (EURm)",
+            "normalized_cell_text": "Signed TA (EURm)",
+            "full_bbox": [
+                1329,
+                764,
+                1582,
+                866
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.3616935483870968,
+                0.24593901396409235,
+                0.4181451612903226,
+                0.2616129951553149
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Algeria",
+            "normalized_cell_text": "Algeria",
+            "full_bbox": [
+                897,
+                863,
+                1037,
+                918
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.36008064516129035,
+                0.3798803077799943,
+                0.40725806451612906,
+                0.3944143630664007
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Total",
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                893,
+                1333,
+                1010,
+                1384
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.5866935483870968,
+                0.3798803077799943,
+                0.6366935483870968,
+                0.3944143630664007
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "98.46",
+            "normalized_cell_text": "98.46",
+            "full_bbox": [
+                1455,
+                1333,
+                1579,
+                1384
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        }
+    ]
+}

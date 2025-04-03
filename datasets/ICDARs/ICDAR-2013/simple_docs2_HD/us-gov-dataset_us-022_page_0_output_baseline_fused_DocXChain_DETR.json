@@ -1,0 +1,938 @@
+{
+    "TD": [
+        211.0,
+        866.0,
+        2153.0,
+        1965.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.104,
+                0.30833333333333335,
+                0.148,
+                0.326
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "LRP",
+            "normalized_cell_text": "LRP",
+            "full_bbox": [
+                234,
+                925,
+                333,
+                978
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.43333333333333335,
+                0.30933333333333335,
+                0.5035555555555555,
+                0.324
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Awards",
+            "normalized_cell_text": "Awards",
+            "full_bbox": [
+                975,
+                928,
+                1133,
+                972
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.5791111111111111,
+                0.30933333333333335,
+                0.7431111111111111,
+                0.327
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Hispanic or Latino",
+            "normalized_cell_text": "Hispanic or Latino",
+            "full_bbox": [
+                1303,
+                928,
+                1672,
+                981
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.7902222222222223,
+                0.2996666666666667,
+                0.9333333333333333,
+                0.33366666666666667
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Not Hispanic or Latino",
+            "normalized_cell_text": "Not Hispanic or Latino",
+            "full_bbox": [
+                1778,
+                899,
+                2100,
+                1001
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10533333333333333,
+                0.35433333333333333,
+                0.24844444444444444,
+                0.366
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Clinical Research",
+            "normalized_cell_text": "Clinical Research",
+            "full_bbox": [
+                237,
+                1063,
+                559,
+                1098
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.4528888888888889,
+                0.35433333333333333,
+                0.48533333333333334,
+                0.367
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "872",
+            "normalized_cell_text": "872",
+            "full_bbox": [
+                1019,
+                1063,
+                1092,
+                1101
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.6248888888888889,
+                0.35233333333333333,
+                0.6951111111111111,
+                0.372
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "36 (4%)",
+            "normalized_cell_text": "36 (4%)",
+            "full_bbox": [
+                1406,
+                1057,
+                1564,
+                1116
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.8173333333333334,
+                0.35233333333333333,
+                0.9048888888888889,
+                0.371
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "836 (96%)",
+            "normalized_cell_text": "836 (96%)",
+            "full_bbox": [
+                1839,
+                1057,
+                2036,
+                1113
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10666666666666667,
+                0.3943333333333333,
+                0.26,
+                0.406
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Pediatric Research",
+            "normalized_cell_text": "Pediatric Research",
+            "full_bbox": [
+                240,
+                1183,
+                585,
+                1218
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.45155555555555554,
+                0.3943333333333333,
+                0.48533333333333334,
+                0.407
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "412",
+            "normalized_cell_text": "412",
+            "full_bbox": [
+                1016,
+                1183,
+                1092,
+                1221
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.6262222222222222,
+                0.3923333333333333,
+                0.6951111111111111,
+                0.412
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "15 (4%)",
+            "normalized_cell_text": "15 (4%)",
+            "full_bbox": [
+                1409,
+                1177,
+                1564,
+                1236
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.8173333333333334,
+                0.3923333333333333,
+                0.9048888888888889,
+                0.411
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "397 (96%)",
+            "normalized_cell_text": "397 (96%)",
+            "full_bbox": [
+                1839,
+                1177,
+                2036,
+                1233
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10533333333333333,
+                0.43233333333333335,
+                0.3333333333333333,
+                0.448
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Health Disparities Research",
+            "normalized_cell_text": "Health Disparities Research",
+            "full_bbox": [
+                237,
+                1297,
+                750,
+                1344
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.4528888888888889,
+                0.43433333333333335,
+                0.48533333333333334,
+                0.447
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "232",
+            "normalized_cell_text": "232",
+            "full_bbox": [
+                1019,
+                1303,
+                1092,
+                1341
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.6222222222222222,
+                0.43233333333333335,
+                0.7004444444444444,
+                0.451
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "30 (13%)",
+            "normalized_cell_text": "30 (13%)",
+            "full_bbox": [
+                1400,
+                1297,
+                1576,
+                1353
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.8173333333333334,
+                0.43233333333333335,
+                0.9062222222222223,
+                0.452
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "202 (87%)",
+            "normalized_cell_text": "202 (87%)",
+            "full_bbox": [
+                1839,
+                1297,
+                2039,
+                1356
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.104,
+                0.4666666666666667,
+                0.3671111111111111,
+                0.5153333333333333
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Clinical Research for Individuals from Disadvantaged Backgrounds",
+            "normalized_cell_text": "Clinical Research for Individuals from Disadvantaged Backgrounds",
+            "full_bbox": [
+                234,
+                1400,
+                826,
+                1546
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.45555555555555555,
+                0.48233333333333334,
+                0.4826666666666667,
+                0.499
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "26",
+            "normalized_cell_text": "26",
+            "full_bbox": [
+                1025,
+                1447,
+                1086,
+                1497
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10533333333333333,
+                0.5273333333333333,
+                0.3293333333333333,
+                0.5553333333333333
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Contraception and Infertility Research",
+            "normalized_cell_text": "Contraception and Infertility Research",
+            "full_bbox": [
+                237,
+                1582,
+                741,
+                1666
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.45555555555555555,
+                0.534,
+                0.4826666666666667,
+                0.5506666666666666
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "30",
+            "normalized_cell_text": "30",
+            "full_bbox": [
+                1025,
+                1602,
+                1086,
+                1652
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10266666666666667,
+                0.576,
+                0.152,
+                0.5906666666666667
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Total",
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                231,
+                1728,
+                342,
+                1772
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.4448888888888889,
+                0.577,
+                0.49466666666666664,
+                0.5926666666666667
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "1,572",
+            "normalized_cell_text": "1,572",
+            "full_bbox": [
+                1001,
+                1731,
+                1113,
+                1778
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.6493333333333333,
+                0.577,
+                0.6728888888888889,
+                0.5906666666666667
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "86",
+            "normalized_cell_text": "86",
+            "full_bbox": [
+                1461,
+                1731,
+                1514,
+                1772
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.8368888888888889,
+                0.577,
+                0.8853333333333333,
+                0.5926666666666667
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "1,486",
+            "normalized_cell_text": "1,486",
+            "full_bbox": [
+                1883,
+                1731,
+                1992,
+                1778
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.10533333333333333,
+                0.616,
+                0.268,
+                0.6306666666666667
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Percent of Awards",
+            "normalized_cell_text": "Percent of Awards",
+            "full_bbox": [
+                237,
+                1848,
+                603,
+                1892
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "",
+            "normalized_cell_text": "",
+            "full_bbox": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.6457777777777778,
+                0.616,
+                0.6768888888888889,
+                0.6316666666666667
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "5%",
+            "normalized_cell_text": "5%",
+            "full_bbox": [
+                1453,
+                1848,
+                1523,
+                1895
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        },
+        {
+            "bbox": [
+                0.8408888888888889,
+                0.616,
+                0.8826666666666667,
+                0.6316666666666667
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "95%",
+            "normalized_cell_text": "95%",
+            "full_bbox": [
+                1892,
+                1848,
+                1986,
+                1895
+            ],
+            "img_size": [
+                2250,
+                3000
+            ]
+        }
+    ]
+}

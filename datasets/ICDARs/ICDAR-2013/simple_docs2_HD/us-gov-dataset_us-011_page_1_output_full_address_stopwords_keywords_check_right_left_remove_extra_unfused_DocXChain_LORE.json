@@ -1,0 +1,658 @@
+{
+    "TD": [
+        289.0,
+        2001.0,
+        2251.0,
+        2551.0
+    ],
+    "TSR": [
+        {
+            "cell_bbox": [
+                1326.005615234375,
+                2031.579839706421,
+                1616.0640869140625,
+                2083.156562805176,
+                0.9138407707214355
+            ],
+            "bbox": [
+                0.5151654411764706,
+                0.6123046875,
+                0.6301700367647058,
+                0.630859375
+            ],
+            "cell_text": "Delay Period",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Delay Period",
+            "full_bbox": [
+                1313.671875,
+                2020.60546875,
+                1606.93359375,
+                2081.8359375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1863.43212890625,
+                2034.4413757324219,
+                2051.0887451171875,
+                2084.2113494873047,
+                0.8363969326019287
+            ],
+            "bbox": [
+                0.7287454044117647,
+                0.6123046875,
+                0.8020450367647058,
+                0.630859375
+            ],
+            "cell_text": "Funding",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Funding",
+            "full_bbox": [
+                1858.30078125,
+                2020.60546875,
+                2045.21484375,
+                2081.8359375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                706.5621948242188,
+                2031.3586349487305,
+                866.3207397460938,
+                2084.866798400879,
+                0.7781110405921936
+            ],
+            "bbox": [
+                0.2737821691176471,
+                0.61328125,
+                0.3394990808823529,
+                0.6279296875
+            ],
+            "cell_text": "Funder",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Funder",
+            "full_bbox": [
+                698.14453125,
+                2023.828125,
+                865.72265625,
+                2072.16796875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1280.1356201171875,
+                2115.8336868286133,
+                1552.06591796875,
+                2159.396484375,
+                0.9934230446815491
+            ],
+            "bbox": [
+                0.49747242647058826,
+                0.63671875,
+                0.607421875,
+                0.654296875
+            ],
+            "cell_text": "up to 12 mo",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "up to 12 mo",
+            "full_bbox": [
+                1268.5546875,
+                2101.171875,
+                1548.92578125,
+                2159.1796875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                302.6604280471802,
+                2108.7481994628906,
+                1146.043212890625,
+                2216.6163482666016,
+                0.8926721215248108
+            ],
+            "bbox": [
+                0.1145450367647059,
+                0.6357421875,
+                0.4494485294117647,
+                0.6728515625
+            ],
+            "cell_text": "NIH Public Access Requirement (Sec. 218)",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "NIH Public Access Requirement (Sec. 218)",
+            "full_bbox": [
+                292.08984375000006,
+                2097.94921875,
+                1146.09375,
+                2220.41015625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1671.2684326171875,
+                2112.7030715942383,
+                2215.0980224609375,
+                2163.81689453125,
+                0.8897309899330139
+            ],
+            "bbox": [
+                0.6516544117647058,
+                0.6357421875,
+                0.8664981617647058,
+                0.6552734375
+            ],
+            "cell_text": "allowable cost for grants",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661.71875,
+                2097.94921875,
+                2209.5703125,
+                2162.40234375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                307.31866455078125,
+                2250.8590698242188,
+                1047.8674926757812,
+                2301.814422607422,
+                0.9023337364196777
+            ],
+            "bbox": [
+                0.11580882352941174,
+                0.6767578125,
+                0.4064797794117647,
+                0.6962890625
+            ],
+            "cell_text": "Howard Hughes Medical Institute",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Howard Hughes Medical Institute",
+            "full_bbox": [
+                295.31249999999994,
+                2233.30078125,
+                1036.5234375,
+                2297.75390625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1282.4439086914062,
+                2250.6295623779297,
+                1522.794921875,
+                2298.0970764160156,
+                0.8864545226097107
+            ],
+            "bbox": [
+                0.49747242647058826,
+                0.677734375,
+                0.5960477941176471,
+                0.6962890625
+            ],
+            "cell_text": "up to 6 mo",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268.5546875,
+                2236.5234375,
+                1519.921875,
+                2297.75390625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1669.83251953125,
+                2254.661880493164,
+                2001.7384033203125,
+                2296.748016357422,
+                0.7283772230148315
+            ],
+            "bbox": [
+                0.6516544117647058,
+                0.677734375,
+                0.7830882352941176,
+                0.693359375
+            ],
+            "cell_text": "dedicated fund",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "dedicated fund",
+            "full_bbox": [
+                1661.71875,
+                2236.5234375,
+                1996.875,
+                2288.0859375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1284.0062255859375,
+                2334.7000122070312,
+                1520.5784912109375,
+                2380.0625610351562,
+                0.9975699782371521
+            ],
+            "bbox": [
+                0.49747242647058826,
+                0.7021484375,
+                0.5960477941176471,
+                0.7216796875
+            ],
+            "cell_text": "up to 6 mo",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268.5546875,
+                2317.08984375,
+                1519.921875,
+                2381.54296875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                310.24462699890137,
+                2333.983123779297,
+                937.3838500976562,
+                2384.2236328125,
+                0.9254938960075378
+            ],
+            "bbox": [
+                0.11707261029411764,
+                0.703125,
+                0.3635110294117647,
+                0.7216796875
+            ],
+            "cell_text": "European Research Council",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "European Research Council",
+            "full_bbox": [
+                298.53515625,
+                2320.3125,
+                926.953125,
+                2381.54296875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1673.8056640625,
+                2337.3426818847656,
+                2212.9505615234375,
+                2381.4471435546875,
+                0.8781529664993286
+            ],
+            "bbox": [
+                0.6516544117647058,
+                0.703125,
+                0.8664981617647058,
+                0.7216796875
+            ],
+            "cell_text": "allowable cost for grants",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661.71875,
+                2320.3125,
+                2209.5703125,
+                2381.54296875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                309.4993438720703,
+                2416.333038330078,
+                976.8948974609375,
+                2462.3682250976562,
+                0.94355309009552
+            ],
+            "bbox": [
+                0.11580882352941174,
+                0.7275390625,
+                0.3799402573529412,
+                0.744140625
+            ],
+            "cell_text": "UK Medical Research Council",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "UK Medical Research Council",
+            "full_bbox": [
+                295.31249999999994,
+                2400.87890625,
+                968.84765625,
+                2455.6640625
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1283.8421020507812,
+                2418.6375427246094,
+                1521.9952392578125,
+                2463.2247009277344,
+                0.9231947064399719
+            ],
+            "bbox": [
+                0.49747242647058826,
+                0.7275390625,
+                0.5973115808823529,
+                0.748046875
+            ],
+            "cell_text": "up to 6 mo",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268.5546875,
+                2400.87890625,
+                1523.14453125,
+                2468.5546875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1673.7357177734375,
+                2420.861358642578,
+                2213.1473388671875,
+                2465.5311584472656,
+                0.8707712292671204
+            ],
+            "bbox": [
+                0.6516544117647058,
+                0.7275390625,
+                0.8664981617647058,
+                0.7470703125
+            ],
+            "cell_text": "allowable cost for grants",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "allowable cost for grants",
+            "full_bbox": [
+                1661.71875,
+                2400.87890625,
+                2209.5703125,
+                2465.33203125
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1283.7003173828125,
+                2501.1100463867188,
+                1521.9112548828125,
+                2546.92578125,
+                0.8237947225570679
+            ],
+            "bbox": [
+                0.49747242647058826,
+                0.7529296875,
+                0.5947840073529411,
+                0.7724609375
+            ],
+            "cell_text": "up to 6 mo",
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "up to 6 mo",
+            "full_bbox": [
+                1268.5546875,
+                2484.66796875,
+                1516.6992187499998,
+                2549.12109375
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                310.2329521179199,
+                2503.447998046875,
+                664.1776733398438,
+                2547.68994140625,
+                0.7428141832351685
+            ],
+            "bbox": [
+                0.11707261029411764,
+                0.75390625,
+                0.25735294117647056,
+                0.7685546875
+            ],
+            "cell_text": "Wellcome Trust",
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "Wellcome Trust",
+            "full_bbox": [
+                298.53515625,
+                2487.890625,
+                656.2499999999999,
+                2536.23046875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "cell_bbox": [
+                1667.5499267578125,
+                2505.0796508789062,
+                2004.9263916015625,
+                2546.2750244140625,
+                0.4671984612941742
+            ],
+            "bbox": [
+                0.6516544117647058,
+                0.75390625,
+                0.7830882352941176,
+                0.7685546875
+            ],
+            "cell_text": "dedicated fund",
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "normalized_cell_text": "dedicated fund",
+            "full_bbox": [
+                1661.71875,
+                2487.890625,
+                1996.875,
+                2536.23046875
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

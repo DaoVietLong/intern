@@ -1,0 +1,94 @@
+cd C:\data\L3i\table-extraction\code\table\src
+
+python tbl.viz.propose.py
+
+python tbl.eval.viz.py --result_file teds_scores-wo-text-small --score_type TEDS
+
+python tbl.eval.viz.py --result_dir results/evaluation-small --result_file teds_scores-w-text-small --score_type TEDS-text
+
+python tbl.eval.viz.py --result_dir results/evaluation --result_file teds_scores-w-text --score_type TEDS-text
+python tbl.eval.viz.py --result_dir results/evaluation --result_file teds_scores-wo-text --score_type TEDS
+
+
+python tbl.eval.html.py --image_dir data/final-tables-small --result_dir results/final-tables-FinTabNet-TSR-small --output_dir results/evaluation/FinTabNet-TSR-small  --output_dir_html_w_txt results/html/FinTabNet-TSR-w-Text-small --output_dir_html_wo_txt results/html/FinTabNet-TSR-wo-Text-small
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-wo-text --pred_dir results/html/FinTabNet-TSR-wo-text-small --output_dir results/evaluation-small --output_file teds_scores-wo-text-small.csv
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-w-text --pred_dir results/html/FinTabNet-TSR-w-text-small --output_dir results/evaluation-small --output_file teds_scores-w-text-small.csv
+
+
+python tbl.eval.html.py --image_dir data/final-tables --result_dir results/final-tables-FinTabNet-TSR --output_dir results/evaluation/FinTabNet-TSR  --output_dir_html_w_txt results/html/FinTabNet-TSR-w-Text --output_dir_html_wo_txt results/html/FinTabNet-TSR-wo-Text
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-wo-text --pred_dir results/html/FinTabNet-TSR-wo-text --output_dir results/evaluation --output_file teds_scores-wo-text.csv
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-w-text --pred_dir results/html/FinTabNet-TSR-w-text --output_dir results/evaluation --output_file teds_scores-w-text.csv
+
+
+
+cbbd81af
+
+https://docile-dataset-rossum.s3.eu-west-1.amazonaws.com/cbbd81af/annotated-trainval.zip
+
+https://docile-dataset-rossum.s3.eu-west-1.amazonaws.com/cbbd81af/test.zip
+
+https://docile-dataset-rossum.s3.eu-west-1.amazonaws.com/cbbd81af/synthetic.zip
+
+https://docile-dataset-rossum.s3.eu-west-1.amazonaws.com/cbbd81af/unlabeled.zip
+
+
+annotated-trainval.zip
+
+local token="$1"
+  local targetdir="$2"
+  local unzip="$3"
+  local dataset="$4"
+  local zipfile="$dataset.zip"
+  url="https://docile-dataset-rossum.s3.eu-west-1.amazonaws.com/$token/$zipfile"
+  if [[ "$targetdir" == "--show-urls" ]]; then
+    echo "$url"
+    return 0
+	
+
+2_b7816646-d903-4165-b0e7-d39485c49000-17125-32214-1709314761566-misc-01-mar-24_2
+	
+
+
+pip install parallel
+
+pip install parallel-processing
+
+#pip install parallel --no-cache-dir
+#pip install tarfile --no-cache-dir
+
+pip install --upgrade pip setuptools wheel
+
+cd C:\data\L3i\table-extraction\code\table\CascadeTSRDet
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-wo-text --pred_dir results/html/FinTabNet-TSR-wo-text --output_file teds_scores-wo-text.csv
+
+python tbl.eval.teds.py --gt_dir data/ground-truth-w-text --pred_dir results/html/FinTabNet-TSR-w-text --output_file teds_scores-w-text.csv
+
+
+python tbl.eval.grits.py --gt_dir data/ground-truth-wo-text --pred_dir results/html/FinTabNet-TSR-wo-text --output_file grits_scores-wo-text.csv
+
+
+Namespace(gt_dir='data/ground-truth-wo-text', pred_dir='results/html/FinTabNet-TSR-wo-text', output_dir='results/evaluation', output_file='teds_scores.csv')
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 198/198 [01:25<00:00,  2.33it/s]
+length of scores: 198 final average score: 0.5995209543857243
+
+length of scores: 198 final average score: 0.4912367893599963
+
+
+args
+Namespace(gt_dir='data/ground-truth-wo-text', pred_dir='results/html/FinTabNet-TSR-wo-text-small', output_dir='results/evaluation-small', output_file='teds_scores-wo-text-small.csv')
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 198/198 [00:35<00:00,  5.55it/s]
+length of scores: 198 final average score: 0.7713334159080504
+
+
+args
+Namespace(gt_dir='data/ground-truth-w-text', pred_dir='results/html/FinTabNet-TSR-w-text-small', output_dir='results/evaluation-small', output_file='teds_scores-w-text-small.csv')
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 198/198 [03:50<00:00,  1.17s/it]
+length of scores: 198 final average score: 0.7186013050716386
+****** END TEDS EVALUATION ******
+Yooz English Small
+1_b7816646-d903-4165-b0e7-d39485c49000-17125-28341-1707933075901-ofordpartsinvoice-2-14-24_1-table

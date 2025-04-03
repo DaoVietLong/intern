@@ -1,0 +1,630 @@
+[
+    {
+        "cells": [
+            {
+                "pdf_text_tight_bbox": [
+                    116.03997802734375,
+                    311.7119140625,
+                    189.05160522460938,
+                    328.3319091796875
+                ],
+                "text_content": "Item Property",
+                "row_nums": [
+                    0
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": true,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    311.7119140625,
+                    196.00303649902344,
+                    328.3319091796875
+                ],
+                "pdf_text_content": "Item Property"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    294.900146484375,
+                    311.7119140625,
+                    452.9665832519531,
+                    328.3319091796875
+                ],
+                "text_content": "Reason for Change or Deletion",
+                "row_nums": [
+                    0
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": true,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    311.7119140625,
+                    521.8967895507812,
+                    328.3319091796875
+                ],
+                "pdf_text_content": "Reason for Change or Deletion"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    331.93804931640625,
+                    177.29901123046875,
+                    346.58538818359375
+                ],
+                "text_content": "Clarity or relevance",
+                "row_nums": [
+                    1
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    331.93804931640625,
+                    196.00303649902344,
+                    410.4661865234375
+                ],
+                "pdf_text_content": "Clarity or relevance"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    412.93804931640625,
+                    159.3407440185547,
+                    427.58538818359375
+                ],
+                "text_content": "Response range",
+                "row_nums": [
+                    2
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    412.93804931640625,
+                    196.00303649902344,
+                    467.216796875
+                ],
+                "pdf_text_content": "Response range"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    471.8580627441406,
+                    137.63125610351562,
+                    486.5054016113281
+                ],
+                "text_content": "Variability",
+                "row_nums": [
+                    3
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    471.8580627441406,
+                    196.00303649902344,
+                    525.4049072265625
+                ],
+                "pdf_text_content": "Variability"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    524.7780151367188,
+                    159.03573608398438,
+                    539.4253540039062
+                ],
+                "text_content": "Reproducibility",
+                "row_nums": [
+                    4
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    525.4049072265625,
+                    196.00303649902344,
+                    550.2450561523438
+                ],
+                "pdf_text_content": "Reproducibility"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    549.6180419921875,
+                    184.3992462158203,
+                    564.265380859375
+                ],
+                "text_content": "Inter-item correlation",
+                "row_nums": [
+                    5
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    550.2450561523438,
+                    196.00303649902344,
+                    575.6167602539062
+                ],
+                "pdf_text_content": "Inter-item correlation"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    575.4674682617188,
+                    196.00303649902344,
+                    589.697509765625
+                ],
+                "text_content": "Ability to detect change",
+                "row_nums": [
+                    6
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    575.6167602539062,
+                    196.00303649902344,
+                    599.9849853515625
+                ],
+                "pdf_text_content": "Ability to detect change"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    599.3580322265625,
+                    176.54782104492188,
+                    614.00537109375
+                ],
+                "text_content": "Item discrimination",
+                "row_nums": [
+                    7
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    599.9849853515625,
+                    196.00303649902344,
+                    659.5634155273438
+                ],
+                "pdf_text_content": "Item discrimination"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    658.9380493164062,
+                    144.94937133789062,
+                    673.5853881835938
+                ],
+                "text_content": "Redundancy",
+                "row_nums": [
+                    8
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    659.5634155273438,
+                    196.00303649902344,
+                    684.4049072265625
+                ],
+                "pdf_text_content": "Redundancy"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    90.0,
+                    683.77783203125,
+                    148.9527130126953,
+                    698.4251708984375
+                ],
+                "text_content": "Recall period",
+                "row_nums": [
+                    9
+                ],
+                "column_nums": [
+                    0
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    90.0,
+                    684.4049072265625,
+                    196.00303649902344,
+                    709.9258422851562
+                ],
+                "pdf_text_content": "Recall period"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    333.1156311035156,
+                    515.8974609375,
+                    410.4661865234375
+                ],
+                "text_content": "\u2022 Reported as not relevant by a large segment of the target population\n\u2022 Generates an unacceptably large amount of missing data points\n\u2022 Generates many questions or requests for clarification from patients as they\ncomplete the PRO instrument\n\u2022 Patients interpret items and responses in a way that is inconsistent with the\nPRO instrument\u2019s conceptual framework",
+                "row_nums": [
+                    1
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    331.93804931640625,
+                    521.8967895507812,
+                    410.4661865234375
+                ],
+                "pdf_text_content": "\u2022 Reported as not relevant by a large segment of the target population \u2022 Generates an unacceptably large amount of missing data points \u2022 Generates many questions or requests for clarification from patients as they complete the PRO instrument \u2022 Patients interpret items and responses in a way that is inconsistent with the PRO instrument\u2019s conceptual framework"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    414.1156311035156,
+                    513.98876953125,
+                    467.216796875
+                ],
+                "text_content": "\u2022 A high percent of patients respond at the floor (response scale\u2019s worst end)\nor ceiling (response scale\u2019s optimal end)\n\u2022 Patients note that none of the response choices applies to them\n\u2022 Distribution of item responses is highly skewed",
+                "row_nums": [
+                    2
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    412.93804931640625,
+                    521.8967895507812,
+                    467.216796875
+                ],
+                "pdf_text_content": "\u2022 A high percent of patients respond at the floor (response scale\u2019s worst end) or ceiling (response scale\u2019s optimal end) \u2022 Patients note that none of the response choices applies to them \u2022 Distribution of item responses is highly skewed"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    473.03564453125,
+                    516.6328735351562,
+                    526.0317993164062
+                ],
+                "text_content": "\u2022 All patients give the same answer (i.e., no variance)\n\u2022 Most patients choose only one response choice\n\u2022 Differences among patients are not detected when important differences are\nknown",
+                "row_nums": [
+                    3
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    471.8580627441406,
+                    521.8967895507812,
+                    525.4049072265625
+                ],
+                "pdf_text_content": "\u2022 All patients give the same answer (i.e., no variance) \u2022 Most patients choose only one response choice \u2022 Differences among patients are not detected when important differences are known"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    525.9556274414062,
+                    517.8544921875,
+                    550.8720703125
+                ],
+                "text_content": "\u2022 Unstable scores over time when there is no logical reason for variation from\none assessment to the next",
+                "row_nums": [
+                    4
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    525.4049072265625,
+                    521.8967895507812,
+                    550.2450561523438
+                ],
+                "pdf_text_content": "\u2022 Unstable scores over time when there is no logical reason for variation from one assessment to the next"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    550.795654296875,
+                    512.1954956054688,
+                    575.7660522460938
+                ],
+                "text_content": "\u2022 Item highly correlated (redundant) withother items in the same concept of\ninterest",
+                "row_nums": [
+                    5
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    550.2450561523438,
+                    521.8967895507812,
+                    575.6167602539062
+                ],
+                "pdf_text_content": "\u2022 Item highly correlated (redundant) with other items in the same concept of interest"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    575.6954345703125,
+                    515.1458740234375,
+                    600.6118774414062
+                ],
+                "text_content": "\u2022 Item is not sensitive (i.e., does not change when there is a known change in\nthe concepts of interest)",
+                "row_nums": [
+                    6
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    575.6167602539062,
+                    521.8967895507812,
+                    599.9849853515625
+                ],
+                "pdf_text_content": "\u2022 Item is not sensitive (i.e., does not change when there is a known change in the concepts of interest)"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    600.53564453125,
+                    521.8967895507812,
+                    660.1887817382812
+                ],
+                "text_content": "\u2022 Item is highly correlated with measures of concepts other than the one it is\nintended to measure\n\u2022 Item does not show variability in relation to some known population\ncharacteristics (i.e., severity level, classification of condition, or other known\ncharacteristic)",
+                "row_nums": [
+                    7
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    599.9849853515625,
+                    521.8967895507812,
+                    659.5634155273438
+                ],
+                "pdf_text_content": "\u2022 Item is highly correlated with measures of concepts other than the one it is intended to measure \u2022 Item does not show variability in relation to some known population characteristics (i.e., severity level, classification of condition, or other known characteristic)"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    660.1156005859375,
+                    505.97674560546875,
+                    685.0320434570312
+                ],
+                "text_content": "\u2022 Item duplicates information collected with other items that have equal or\nbetter measurement properties",
+                "row_nums": [
+                    8
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    659.5634155273438,
+                    521.8967895507812,
+                    684.4049072265625
+                ],
+                "pdf_text_content": "\u2022 Item duplicates information collected with other items that have equal or better measurement properties"
+            },
+            {
+                "pdf_text_tight_bbox": [
+                    225.89999389648438,
+                    684.9554443359375,
+                    516.6404418945312,
+                    709.9258422851562
+                ],
+                "text_content": "\u2022 The population, disease state, or application of the instrument can affect the\nappropriateness of the recall period",
+                "row_nums": [
+                    9
+                ],
+                "column_nums": [
+                    1
+                ],
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_bbox": [
+                    225.89999389648438,
+                    684.4049072265625,
+                    521.8967895507812,
+                    709.9258422851562
+                ],
+                "pdf_text_content": "\u2022 The population, disease state, or application of the instrument can affect the appropriateness of the recall period"
+            }
+        ],
+        "rows": {
+            "0": {
+                "is_column_header": true,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    311.7119140625,
+                    521.8967895507812,
+                    328.3319091796875
+                ]
+            },
+            "1": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    331.93804931640625,
+                    521.8967895507812,
+                    410.4661865234375
+                ]
+            },
+            "2": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    412.93804931640625,
+                    521.8967895507812,
+                    467.216796875
+                ]
+            },
+            "3": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    471.8580627441406,
+                    521.8967895507812,
+                    525.4049072265625
+                ]
+            },
+            "4": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    525.4049072265625,
+                    521.8967895507812,
+                    550.2450561523438
+                ]
+            },
+            "5": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    550.2450561523438,
+                    521.8967895507812,
+                    575.6167602539062
+                ]
+            },
+            "6": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    575.6167602539062,
+                    521.8967895507812,
+                    599.9849548339844
+                ]
+            },
+            "7": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    599.9849548339844,
+                    521.8967895507812,
+                    659.5634155273438
+                ]
+            },
+            "8": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    659.5634155273438,
+                    521.8967895507812,
+                    684.4049377441406
+                ]
+            },
+            "9": {
+                "is_column_header": false,
+                "is_projected_row_header": false,
+                "pdf_row_bbox": [
+                    90.0,
+                    684.4049377441406,
+                    521.8967895507812,
+                    709.9258422851562
+                ]
+            }
+        },
+        "columns": {
+            "0": {
+                "pdf_column_bbox": [
+                    90.0,
+                    311.7119140625,
+                    196.00303649902344,
+                    709.9258422851562
+                ]
+            },
+            "1": {
+                "pdf_column_bbox": [
+                    225.89999389648438,
+                    311.7119140625,
+                    521.8967895507812,
+                    709.9258422851562
+                ]
+            }
+        },
+        "pdf_page_index": 1,
+        "icdar2013_source_table_id": "1",
+        "icdar2013_source_region_id": "1",
+        "exclude_for_structure": false,
+        "exclude_for_detection": false,
+        "split": "test",
+        "pdf_file_name": "us-015.pdf",
+        "pdf_folder": "competition-dataset-us/",
+        "document_id": "competition-dataset-us_us-015",
+        "icdar2013_source_file_name": "us-015-str.xml",
+        "pdf_full_page_bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+        ],
+        "document_table_index": 0,
+        "structure_id": "competition-dataset-us_us-015_0",
+        "pdf_table_bbox": [
+            90.0,
+            311.7119140625,
+            521.8967895507812,
+            709.9258422851562
+        ]
+    }
+]

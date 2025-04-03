@@ -1,0 +1,706 @@
+{
+    "TD": [
+        310.6448059082031,
+        477.32684326171875,
+        2041.5303955078125,
+        897.7174072265625
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.2380392156862745,
+                0.14636363636363636,
+                0.30901960784313726,
+                0.15818181818181817
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Status",
+            "normalized_cell_text": "Status",
+            "full_bbox": [
+                607,
+                483,
+                788,
+                522
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4619607843137255,
+                0.14333333333333334,
+                0.5376470588235294,
+                0.17575757575757575
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Sample size",
+            "normalized_cell_text": "Sample size",
+            "full_bbox": [
+                1178,
+                473,
+                1371,
+                580
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5552941176470588,
+                0.14636363636363636,
+                0.6364705882352941,
+                0.15818181818181817
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Percent",
+            "normalized_cell_text": "Percent",
+            "full_bbox": [
+                1416,
+                483,
+                1623,
+                522
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7058823529411765,
+                0.14545454545454545,
+                0.8031372549019608,
+                0.17363636363636364
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Weighted Percent",
+            "normalized_cell_text": "Weighted Percent",
+            "full_bbox": [
+                1800,
+                480,
+                2048,
+                573
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.12196078431372549,
+                0.18151515151515152,
+                0.1811764705882353,
+                0.19333333333333333
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Total",
+            "normalized_cell_text": "Total",
+            "full_bbox": [
+                311,
+                599,
+                462,
+                638
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.47568627450980394,
+                0.17939393939393938,
+                0.5364705882352941,
+                0.19424242424242424
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "39695",
+            "normalized_cell_text": "39695",
+            "full_bbox": [
+                1213,
+                592,
+                1368,
+                641
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5780392156862745,
+                0.17939393939393938,
+                0.6388235294117647,
+                0.19424242424242424
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "100.0",
+            "normalized_cell_text": "100.0",
+            "full_bbox": [
+                1474,
+                592,
+                1629,
+                641
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7423529411764705,
+                0.17939393939393938,
+                0.8031372549019608,
+                0.19424242424242424
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "100.0",
+            "normalized_cell_text": "100.0",
+            "full_bbox": [
+                1893,
+                592,
+                2048,
+                641
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.1207843137254902,
+                0.2009090909090909,
+                0.2988235294117647,
+                0.21272727272727274
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Not interviewed",
+            "normalized_cell_text": "Not interviewed",
+            "full_bbox": [
+                308,
+                663,
+                762,
+                702
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.48705882352941177,
+                0.1990909090909091,
+                0.5352941176470588,
+                0.21363636363636362
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "5701",
+            "normalized_cell_text": "5701",
+            "full_bbox": [
+                1242,
+                657,
+                1365,
+                705
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5909803921568627,
+                0.1990909090909091,
+                0.6388235294117647,
+                0.21363636363636362
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "14.4",
+            "normalized_cell_text": "14.4",
+            "full_bbox": [
+                1507,
+                657,
+                1629,
+                705
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7549019607843137,
+                0.1990909090909091,
+                0.8031372549019608,
+                0.21363636363636362
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "18.2",
+            "normalized_cell_text": "18.2",
+            "full_bbox": [
+                1925,
+                657,
+                2048,
+                705
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.12313725490196079,
+                0.21848484848484848,
+                0.31019607843137254,
+                0.23333333333333334
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Interviewed, not",
+            "normalized_cell_text": "Interviewed, not",
+            "full_bbox": [
+                314,
+                721,
+                791,
+                770
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.48705882352941177,
+                0.21848484848484848,
+                0.5364705882352941,
+                0.23333333333333334
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "2683",
+            "normalized_cell_text": "2683",
+            "full_bbox": [
+                1242,
+                721,
+                1368,
+                770
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6035294117647059,
+                0.2196969696969697,
+                0.64,
+                0.23333333333333334
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "6.8",
+            "normalized_cell_text": "6.8",
+            "full_bbox": [
+                1539,
+                725,
+                1632,
+                770
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7662745098039215,
+                0.2196969696969697,
+                0.8031372549019608,
+                0.23333333333333334
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "7.5",
+            "normalized_cell_text": "7.5",
+            "full_bbox": [
+                1954,
+                725,
+                2048,
+                770
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.1207843137254902,
+                0.2390909090909091,
+                0.2635294117647059,
+                0.2509090909090909
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "MEC examined",
+            "normalized_cell_text": "MEC examined",
+            "full_bbox": [
+                308,
+                789,
+                672,
+                828
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.47568627450980394,
+                0.2381818181818182,
+                0.5352941176470588,
+                0.25272727272727274
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "30818",
+            "normalized_cell_text": "30818",
+            "full_bbox": [
+                1213,
+                786,
+                1365,
+                834
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5894117647058823,
+                0.2381818181818182,
+                0.64,
+                0.25272727272727274
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "77.6",
+            "normalized_cell_text": "77.6",
+            "full_bbox": [
+                1503,
+                786,
+                1632,
+                834
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7537254901960785,
+                0.2381818181818182,
+                0.8031372549019608,
+                0.25272727272727274
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "73.4",
+            "normalized_cell_text": "73.4",
+            "full_bbox": [
+                1922,
+                786,
+                2048,
+                834
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.11803921568627451,
+                0.25757575757575757,
+                0.27725490196078434,
+                0.2724242424242424
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Home examined",
+            "normalized_cell_text": "Home examined",
+            "full_bbox": [
+                301,
+                850,
+                707,
+                899
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4972549019607843,
+                0.25666666666666665,
+                0.5376470588235294,
+                0.2724242424242424
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "493",
+            "normalized_cell_text": "493",
+            "full_bbox": [
+                1268,
+                847,
+                1371,
+                899
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.5996078431372549,
+                0.25666666666666665,
+                0.64,
+                0.2724242424242424
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "1.2",
+            "normalized_cell_text": "1.2",
+            "full_bbox": [
+                1529,
+                847,
+                1632,
+                899
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.7650980392156863,
+                0.25666666666666665,
+                0.8031372549019608,
+                0.2724242424242424
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "0.8",
+            "normalized_cell_text": "0.8",
+            "full_bbox": [
+                1951,
+                847,
+                2048,
+                899
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

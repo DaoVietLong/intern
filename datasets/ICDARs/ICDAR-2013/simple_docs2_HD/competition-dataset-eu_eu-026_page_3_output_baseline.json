@@ -1,0 +1,562 @@
+[
+    {
+        "bbox": [
+            0.39338976219266425,
+            0.14623717217787913,
+            0.4365175332527207,
+            0.1630558722919042
+        ],
+        "column_nums": [
+            0
+        ],
+        "row_nums": [
+            0
+        ],
+        "column header": true,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "Freq.",
+        "full_bbox": [
+            976,
+            513,
+            1083,
+            572
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.5106811769447803,
+            0.14623717217787913,
+            0.5715437323659814,
+            0.16106043329532496
+        ],
+        "column_nums": [
+            1
+        ],
+        "row_nums": [
+            0
+        ],
+        "column header": true,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "Percent",
+        "full_bbox": [
+            1267,
+            513,
+            1418,
+            565
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.6251511487303507,
+            0.14623717217787913,
+            0.7110036275695284,
+            0.16106043329532496
+        ],
+        "column_nums": [
+            2
+        ],
+        "row_nums": [
+            0
+        ],
+        "column header": true,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "Mean Loss",
+        "full_bbox": [
+            1551,
+            513,
+            1764,
+            565
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.7440548166062072,
+            0.14623717217787913,
+            0.8476420798065296,
+            0.17474344355758267
+        ],
+        "column_nums": [
+            3
+        ],
+        "row_nums": [
+            0
+        ],
+        "column header": true,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "Fraction of Wealth Lost",
+        "full_bbox": [
+            1846,
+            513,
+            2103,
+            613
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.39338976219266425,
+            0.17958950969213228,
+            0.4252317613865377,
+            0.19213226909920184
+        ],
+        "column_nums": [
+            0
+        ],
+        "row_nums": [
+            1
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "344",
+        "full_bbox": [
+            976,
+            630,
+            1055,
+            674
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.5106811769447803,
+            0.17958950969213228,
+            0.5465538089480049,
+            0.19213226909920184
+        ],
+        "column_nums": [
+            1
+        ],
+        "row_nums": [
+            1
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "75.2",
+        "full_bbox": [
+            1267,
+            630,
+            1356,
+            674
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.6279725916968965,
+            0.17844925883694412,
+            0.675130995566304,
+            0.19327251995438996
+        ],
+        "column_nums": [
+            2
+        ],
+        "row_nums": [
+            1
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "12196",
+        "full_bbox": [
+            1558,
+            626,
+            1675,
+            678
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.7452640064490125,
+            0.17844925883694412,
+            0.7936316001612254,
+            0.19327251995438996
+        ],
+        "column_nums": [
+            3
+        ],
+        "row_nums": [
+            1
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "17.4%",
+        "full_bbox": [
+            1849,
+            626,
+            1969,
+            678
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.39500201531640466,
+            0.19327251995438996,
+            0.41555824264409513,
+            0.20695553021664767
+        ],
+        "column_nums": [
+            0
+        ],
+        "row_nums": [
+            2
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "53",
+        "full_bbox": [
+            980,
+            678,
+            1031,
+            726
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.5122934300685208,
+            0.19412770809578106,
+            0.5453446191051995,
+            0.20581527936145952
+        ],
+        "column_nums": [
+            1
+        ],
+        "row_nums": [
+            2
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "11.6",
+        "full_bbox": [
+            1271,
+            681,
+            1353,
+            722
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.6279725916968965,
+            0.19412770809578106,
+            0.6735187424425635,
+            0.20581527936145952
+        ],
+        "column_nums": [
+            2
+        ],
+        "row_nums": [
+            2
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "23518",
+        "full_bbox": [
+            1558,
+            681,
+            1671,
+            722
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.7440548166062072,
+            0.19327251995438996,
+            0.79242241031842,
+            0.20781071835803877
+        ],
+        "column_nums": [
+            3
+        ],
+        "row_nums": [
+            2
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "22.5%",
+        "full_bbox": [
+            1846,
+            678,
+            1966,
+            729
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.39338976219266425,
+            0.20781071835803877,
+            0.41555824264409513,
+            0.22063854047890535
+        ],
+        "column_nums": [
+            0
+        ],
+        "row_nums": [
+            3
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "61",
+        "full_bbox": [
+            976,
+            729,
+            1031,
+            774
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.5122934300685208,
+            0.20781071835803877,
+            0.5453446191051995,
+            0.22063854047890535
+        ],
+        "column_nums": [
+            1
+        ],
+        "row_nums": [
+            3
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "13.2",
+        "full_bbox": [
+            1271,
+            729,
+            1353,
+            774
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.6251511487303507,
+            0.20695553021664767,
+            0.6682789197904071,
+            0.22149372862029645
+        ],
+        "column_nums": [
+            2
+        ],
+        "row_nums": [
+            3
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "9187",
+        "full_bbox": [
+            1551,
+            726,
+            1658,
+            777
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.7440548166062072,
+            0.20695553021664767,
+            0.79242241031842,
+            0.22149372862029645
+        ],
+        "column_nums": [
+            3
+        ],
+        "row_nums": [
+            3
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "22.5%",
+        "full_bbox": [
+            1846,
+            726,
+            1966,
+            777
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.39500201531640466,
+            0.22548460661345496,
+            0.42402257154373235,
+            0.23802736602052452
+        ],
+        "column_nums": [
+            0
+        ],
+        "row_nums": [
+            4
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "458",
+        "full_bbox": [
+            980,
+            791,
+            1052,
+            835
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.5122934300685208,
+            0.22633979475484606,
+            0.5550181378476421,
+            0.23802736602052452
+        ],
+        "column_nums": [
+            1
+        ],
+        "row_nums": [
+            4
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "100.0",
+        "full_bbox": [
+            1271,
+            794,
+            1377,
+            835
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.6295848448206368,
+            0.22633979475484606,
+            0.6735187424425635,
+            0.23802736602052452
+        ],
+        "column_nums": [
+            2
+        ],
+        "row_nums": [
+            4
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "13153",
+        "full_bbox": [
+            1562,
+            794,
+            1671,
+            835
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    },
+    {
+        "bbox": [
+            0.7452640064490125,
+            0.2243443557582668,
+            0.7936316001612254,
+            0.24002280501710377
+        ],
+        "column_nums": [
+            3
+        ],
+        "row_nums": [
+            4
+        ],
+        "column header": false,
+        "subcell": false,
+        "projected row header": false,
+        "cell_text": "18.7%",
+        "full_bbox": [
+            1849,
+            787,
+            1969,
+            842
+        ],
+        "img_size": [
+            2481,
+            3508
+        ]
+    }
+]

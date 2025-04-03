@@ -1,0 +1,828 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="793" bottom="1122" Dpi="300" DataLeft="49" DataTop="99" DataRight="716" DataBottom="964" Version="10">
+  <block id="1" left="311" top="99" right="482" bottom="111">
+    <line id="2" left="311" top="99" right="482" bottom="111">
+      <word id="3" left="311" top="99" right="365" bottom="110" value="NVIDIA" confidence="84" font="MP">
+        <char id="4" left="311" top="99" right="322" bottom="110" value="N" confidence="84"/>
+        <char id="5" left="323" top="99" right="333" bottom="110" value="V" confidence="100"/>
+        <char id="6" left="334" top="99" right="337" bottom="110" value="I" confidence="100"/>
+        <char id="7" left="339" top="99" right="349" bottom="110" value="D" confidence="77"/>
+        <char id="8" left="351" top="99" right="353" bottom="110" value="I" confidence="100"/>
+        <char id="9" left="355" top="99" right="365" bottom="110" value="A" confidence="44"/>
+      </word>
+      <word id="10" left="371" top="99" right="482" bottom="111" value="CORPORATION" confidence="84" font="MP">
+        <char id="11" left="371" top="99" right="379" bottom="111" value="C" confidence="100"/>
+        <char id="12" left="380" top="99" right="391" bottom="111" value="O" confidence="100"/>
+        <char id="13" left="393" top="99" right="402" bottom="110" value="R" confidence="50"/>
+        <char id="14" left="403" top="99" right="411" bottom="110" value="P" confidence="92"/>
+        <char id="15" left="412" top="99" right="423" bottom="111" value="O" confidence="100"/>
+        <char id="16" left="425" top="99" right="434" bottom="110" value="R" confidence="50"/>
+        <char id="17" left="434" top="99" right="445" bottom="110" value="A" confidence="43"/>
+        <char id="18" left="445" top="99" right="454" bottom="110" value="T" confidence="96"/>
+        <char id="19" left="455" top="99" right="458" bottom="110" value="I" confidence="100"/>
+        <char id="20" left="460" top="99" right="470" bottom="111" value="O" confidence="100"/>
+        <char id="21" left="472" top="99" right="482" bottom="110" value="N" confidence="100"/>
+      </word>
+    </line>
+  </block>
+  <block id="22" left="220" top="123" right="574" bottom="135">
+    <line id="23" left="220" top="123" right="574" bottom="135">
+      <word id="24" left="220" top="123" right="314" bottom="134" value="CONDENSED" confidence="95" font="MP">
+        <char id="25" left="220" top="123" right="229" bottom="134" value="C" confidence="59"/>
+        <char id="26" left="230" top="123" right="241" bottom="134" value="O" confidence="100"/>
+        <char id="27" left="242" top="123" right="253" bottom="134" value="N" confidence="100"/>
+        <char id="28" left="255" top="123" right="265" bottom="134" value="D" confidence="100"/>
+        <char id="29" left="266" top="123" right="273" bottom="134" value="E" confidence="100"/>
+        <char id="30" left="275" top="123" right="285" bottom="134" value="N" confidence="100"/>
+        <char id="31" left="287" top="123" right="294" bottom="134" value="S" confidence="100"/>
+        <char id="32" left="296" top="123" right="303" bottom="134" value="E" confidence="100"/>
+        <char id="33" left="304" top="123" right="314" bottom="134" value="D" confidence="100"/>
+      </word>
+      <word id="34" left="320" top="123" right="439" bottom="135" value="CONSOLIDATED" confidence="99" font="MP">
+        <char id="35" left="320" top="123" right="329" bottom="134" value="C" confidence="100"/>
+        <char id="36" left="330" top="123" right="341" bottom="135" value="O" confidence="100"/>
+        <char id="37" left="342" top="123" right="353" bottom="134" value="N" confidence="100"/>
+        <char id="38" left="354" top="123" right="362" bottom="134" value="S" confidence="100"/>
+        <char id="39" left="363" top="123" right="374" bottom="134" value="O" confidence="100"/>
+        <char id="40" left="376" top="123" right="382" bottom="134" value="L" confidence="100"/>
+        <char id="41" left="384" top="123" right="386" bottom="134" value="I" confidence="100"/>
+        <char id="42" left="388" top="123" right="398" bottom="134" value="D" confidence="100"/>
+        <char id="43" left="399" top="123" right="410" bottom="134" value="A" confidence="100"/>
+        <char id="44" left="410" top="123" right="419" bottom="134" value="T" confidence="96"/>
+        <char id="45" left="420" top="123" right="427" bottom="134" value="E" confidence="100"/>
+        <char id="46" left="429" top="123" right="439" bottom="134" value="D" confidence="100"/>
+      </word>
+      <word id="47" left="445" top="123" right="514" bottom="134" value="BALANCE" confidence="92" font="MP">
+        <char id="48" left="445" top="123" right="453" bottom="134" value="B" confidence="100"/>
+        <char id="49" left="454" top="123" right="464" bottom="134" value="A" confidence="45"/>
+        <char id="50" left="466" top="123" right="473" bottom="134" value="L" confidence="100"/>
+        <char id="51" left="473" top="123" right="483" bottom="134" value="A" confidence="100"/>
+        <char id="52" left="485" top="123" right="495" bottom="134" value="N" confidence="100"/>
+        <char id="53" left="497" top="123" right="505" bottom="134" value="C" confidence="100"/>
+        <char id="54" left="507" top="123" right="514" bottom="134" value="E" confidence="100"/>
+      </word>
+      <word id="55" left="519" top="123" right="574" bottom="135" value="SHEETS" confidence="94" font="MP">
+        <char id="56" left="519" top="123" right="527" bottom="134" value="S" confidence="68"/>
+        <char id="57" left="529" top="123" right="538" bottom="134" value="H" confidence="100"/>
+        <char id="58" left="541" top="123" right="547" bottom="134" value="E" confidence="100"/>
+        <char id="59" left="549" top="123" right="556" bottom="134" value="E" confidence="100"/>
+        <char id="60" left="556" top="123" right="565" bottom="134" value="T" confidence="100"/>
+        <char id="61" left="566" top="123" right="574" bottom="135" value="S" confidence="100"/>
+      </word>
+    </line>
+  </block>
+  <block id="62" left="356" top="146" right="437" bottom="161">
+    <line id="63" left="356" top="146" right="437" bottom="161">
+      <word id="64" left="356" top="147" right="373" bottom="161" value="(In" confidence="100" font="MP">
+        <char id="65" left="356" top="147" right="360" bottom="161" value="(" confidence="100"/>
+        <char id="66" left="362" top="147" right="364" bottom="159" value="I" confidence="-100"/>
+        <char id="67" left="366" top="150" right="373" bottom="159" value="n" confidence="100"/>
+      </word>
+      <word id="68" left="379" top="146" right="437" bottom="161" value="millions)" confidence="87" font="MP">
+        <char id="69" left="379" top="150" right="392" bottom="159" value="m" confidence="100"/>
+        <char id="70" left="393" top="146" right="395" bottom="159" value="i" confidence="100"/>
+        <char id="71" left="397" top="146" right="399" bottom="159" value="l" confidence="100"/>
+        <char id="72" left="401" top="146" right="403" bottom="159" value="l" confidence="100"/>
+        <char id="73" left="405" top="146" right="407" bottom="159" value="i" confidence="100"/>
+        <char id="74" left="408" top="150" right="417" bottom="159" value="o" confidence="51"/>
+        <char id="75" left="418" top="150" right="425" bottom="159" value="n" confidence="100"/>
+        <char id="76" left="427" top="150" right="433" bottom="159" value="s" confidence="60"/>
+        <char id="77" left="433" top="147" right="437" bottom="161" value=")" confidence="75"/>
+      </word>
+    </line>
+  </block>
+  <block id="78" left="356" top="170" right="438" bottom="185">
+    <line id="79" left="356" top="170" right="438" bottom="185">
+      <word id="80" left="356" top="170" right="438" bottom="185" value="(Unaudited)" confidence="87" font="MP">
+        <char id="81" left="356" top="171" right="360" bottom="185" value="(" confidence="100"/>
+        <char id="82" left="361" top="171" right="370" bottom="183" value="U" confidence="100"/>
+        <char id="83" left="372" top="174" right="379" bottom="183" value="n" confidence="100"/>
+        <char id="84" left="380" top="174" right="387" bottom="183" value="a" confidence="75"/>
+        <char id="85" left="389" top="174" right="396" bottom="183" value="u" confidence="73"/>
+        <char id="86" left="398" top="170" right="406" bottom="183" value="d" confidence="100"/>
+        <char id="87" left="407" top="170" right="410" bottom="183" value="i" confidence="53"/>
+        <char id="88" left="411" top="172" right="416" bottom="183" value="t" confidence="100"/>
+        <char id="89" left="416" top="174" right="424" bottom="183" value="e" confidence="100"/>
+        <char id="90" left="425" top="170" right="433" bottom="183" value="d" confidence="82"/>
+        <char id="91" left="434" top="171" right="438" bottom="185" value=")" confidence="78"/>
+      </word>
+    </line>
+  </block>
+  <block id="92" left="476" top="218" right="561" bottom="232">
+    <line id="93" left="476" top="218" right="561" bottom="232">
+      <word id="94" left="476" top="218" right="535" bottom="231" value="October" confidence="79" font="MP">
+        <char id="95" left="476" top="219" right="487" bottom="231" value="O" confidence="100"/>
+        <char id="96" left="488" top="222" right="495" bottom="231" value="c" confidence="55"/>
+        <char id="97" left="495" top="220" right="501" bottom="231" value="t" confidence="100"/>
+        <char id="98" left="501" top="222" right="510" bottom="231" value="o" confidence="63"/>
+        <char id="99" left="511" top="218" right="520" bottom="231" value="b" confidence="62"/>
+        <char id="100" left="521" top="222" right="528" bottom="231" value="e" confidence="75"/>
+        <char id="101" left="530" top="222" right="535" bottom="230" value="r" confidence="100"/>
+      </word>
+      <word id="102" left="540" top="219" right="561" bottom="232" value="28." confidence="63" font="MP">
+        <char id="103" left="540" top="219" right="548" bottom="230" value="2" confidence="87"/>
+        <char id="104" left="549" top="219" right="557" bottom="231" value="8" confidence="74"/>
+        <char id="105" left="558" top="228" right="561" bottom="232" value="." confidence="-30"/>
+      </word>
+    </line>
+  </block>
+  <block id="106" left="634" top="219" right="716" bottom="234">
+    <line id="107" left="634" top="219" right="716" bottom="234">
+      <word id="108" left="634" top="219" right="691" bottom="234" value="January" confidence="88" font="MP">
+        <char id="109" left="634" top="219" right="639" bottom="231" value="J" confidence="100"/>
+        <char id="110" left="641" top="222" right="648" bottom="231" value="a" confidence="58"/>
+        <char id="111" left="650" top="222" right="657" bottom="230" value="n" confidence="100"/>
+        <char id="112" left="659" top="222" right="667" bottom="231" value="u" confidence="88"/>
+        <char id="113" left="668" top="222" right="675" bottom="231" value="a" confidence="72"/>
+        <char id="114" left="677" top="222" right="683" bottom="230" value="r" confidence="100"/>
+        <char id="115" left="683" top="222" right="691" bottom="234" value="y" confidence="100"/>
+      </word>
+      <word id="116" left="696" top="219" right="716" bottom="232" value="28," confidence="80" font="MP">
+        <char id="117" left="696" top="219" right="704" bottom="230" value="2" confidence="59"/>
+        <char id="118" left="705" top="219" right="713" bottom="230" value="8" confidence="82"/>
+        <char id="119" left="714" top="228" right="716" bottom="232" value="," confidence="-100"/>
+      </word>
+    </line>
+  </block>
+  <block id="120" left="49" top="315" right="151" bottom="327">
+    <line id="121" left="49" top="315" right="151" bottom="327">
+      <word id="122" left="49" top="315" right="101" bottom="327" value="Current" confidence="82" font="MP">
+        <char id="123" left="49" top="315" right="58" bottom="327" value="C" confidence="100"/>
+        <char id="124" left="59" top="318" right="67" bottom="327" value="u" confidence="100"/>
+        <char id="125" left="68" top="318" right="73" bottom="327" value="r" confidence="100"/>
+        <char id="126" left="74" top="318" right="79" bottom="327" value="r" confidence="34"/>
+        <char id="127" left="79" top="318" right="87" bottom="327" value="e" confidence="100"/>
+        <char id="128" left="88" top="318" right="95" bottom="327" value="n" confidence="81"/>
+        <char id="129" left="96" top="316" right="101" bottom="327" value="t" confidence="62"/>
+      </word>
+      <word id="130" left="106" top="316" right="151" bottom="327" value="assets:" confidence="63" font="MP">
+        <char id="131" left="106" top="318" right="113" bottom="327" value="a" confidence="100"/>
+        <char id="132" left="114" top="318" right="121" bottom="327" value="s" confidence="44"/>
+        <char id="133" left="121" top="318" right="127" bottom="327" value="s" confidence="55"/>
+        <char id="134" left="128" top="318" right="136" bottom="327" value="e" confidence="100"/>
+        <char id="135" left="136" top="316" right="141" bottom="327" value="t" confidence="67"/>
+        <char id="136" left="141" top="318" right="148" bottom="327" value="s" confidence="43"/>
+        <char id="137" left="149" top="318" right="151" bottom="327" value=":" confidence="36"/>
+      </word>
+    </line>
+  </block>
+  <block id="138" left="57" top="338" right="398" bottom="354">
+    <line id="139" left="57" top="338" right="398" bottom="354">
+      <word id="140" left="57" top="338" right="93" bottom="352" value="Cash," confidence="91" font="MP">
+        <char id="141" left="57" top="339" right="66" bottom="351" value="C" confidence="100"/>
+        <char id="142" left="67" top="342" right="74" bottom="351" value="a" confidence="100"/>
+        <char id="143" left="75" top="342" right="81" bottom="351" value="s" confidence="100"/>
+        <char id="144" left="82" top="338" right="90" bottom="351" value="h" confidence="100"/>
+        <char id="145" left="90" top="348" right="93" bottom="352" value="," confidence="56"/>
+      </word>
+      <word id="146" left="99" top="338" right="129" bottom="351" value="cash" confidence="70" font="MP">
+        <char id="147" left="99" top="342" right="105" bottom="351" value="c" confidence="68"/>
+        <char id="148" left="106" top="342" right="113" bottom="351" value="a" confidence="100"/>
+        <char id="149" left="114" top="342" right="120" bottom="351" value="s" confidence="52"/>
+        <char id="150" left="121" top="338" right="129" bottom="351" value="h" confidence="62"/>
+      </word>
+      <word id="151" left="134" top="338" right="214" bottom="354" value="equivalents" confidence="86" font="MP">
+        <char id="152" left="134" top="342" right="142" bottom="351" value="e" confidence="92"/>
+        <char id="153" left="143" top="342" right="151" bottom="354" value="q" confidence="83"/>
+        <char id="154" left="152" top="342" right="160" bottom="351" value="u" confidence="31"/>
+        <char id="155" left="162" top="338" right="164" bottom="351" value="i" confidence="100"/>
+        <char id="156" left="165" top="342" right="172" bottom="351" value="v" confidence="100"/>
+        <char id="157" left="172" top="342" right="180" bottom="351" value="a" confidence="100"/>
+        <char id="158" left="181" top="338" right="183" bottom="351" value="l" confidence="100"/>
+        <char id="159" left="185" top="342" right="192" bottom="351" value="e" confidence="100"/>
+        <char id="160" left="193" top="342" right="201" bottom="351" value="n" confidence="95"/>
+        <char id="161" left="201" top="340" right="207" bottom="351" value="t" confidence="86"/>
+        <char id="162" left="207" top="342" right="214" bottom="351" value="s" confidence="60"/>
+      </word>
+      <word id="163" left="218" top="338" right="244" bottom="351" value="and" confidence="100" font="MP">
+        <char id="164" left="218" top="342" right="226" bottom="351" value="a" confidence="100"/>
+        <char id="165" left="227" top="342" right="235" bottom="351" value="n" confidence="100"/>
+        <char id="166" left="236" top="338" right="244" bottom="351" value="d" confidence="100"/>
+      </word>
+      <word id="167" left="250" top="338" right="328" bottom="351" value="marketable" confidence="89" font="MP">
+        <char id="168" left="250" top="342" right="262" bottom="351" value="m" confidence="56"/>
+        <char id="169" left="263" top="342" right="270" bottom="351" value="a" confidence="57"/>
+        <char id="170" left="272" top="342" right="277" bottom="351" value="r" confidence="100"/>
+        <char id="171" left="277" top="338" right="284" bottom="351" value="k" confidence="81"/>
+        <char id="172" left="285" top="342" right="293" bottom="351" value="e" confidence="100"/>
+        <char id="173" left="293" top="340" right="298" bottom="351" value="t" confidence="100"/>
+        <char id="174" left="298" top="342" right="306" bottom="351" value="a" confidence="100"/>
+        <char id="175" left="307" top="338" right="315" bottom="351" value="b" confidence="100"/>
+        <char id="176" left="317" top="338" right="319" bottom="351" value="l" confidence="100"/>
+        <char id="177" left="320" top="342" right="328" bottom="351" value="e" confidence="100"/>
+      </word>
+      <word id="178" left="333" top="338" right="398" bottom="351" value="securities" confidence="82" font="MP">
+        <char id="179" left="333" top="342" right="339" bottom="351" value="s" confidence="100"/>
+        <char id="180" left="340" top="342" right="347" bottom="351" value="e" confidence="100"/>
+        <char id="181" left="348" top="342" right="355" bottom="351" value="c" confidence="54"/>
+        <char id="182" left="355" top="342" right="363" bottom="351" value="u" confidence="52"/>
+        <char id="183" left="365" top="342" right="370" bottom="351" value="r" confidence="100"/>
+        <char id="184" left="370" top="338" right="373" bottom="351" value="i" confidence="61"/>
+        <char id="185" left="373" top="340" right="379" bottom="351" value="t" confidence="97"/>
+        <char id="186" left="380" top="338" right="382" bottom="351" value="i" confidence="100"/>
+        <char id="187" left="383" top="342" right="391" bottom="351" value="e" confidence="100"/>
+        <char id="188" left="391" top="342" right="398" bottom="351" value="s" confidence="58"/>
+      </word>
+    </line>
+  </block>
+  <block id="189" left="57" top="362" right="227" bottom="376">
+    <line id="190" left="57" top="362" right="227" bottom="376">
+      <word id="191" left="57" top="363" right="121" bottom="375" value="Accounts" confidence="66" font="MP">
+        <char id="192" left="57" top="363" right="67" bottom="375" value="A" confidence="84"/>
+        <char id="193" left="67" top="366" right="74" bottom="375" value="c" confidence="24"/>
+        <char id="194" left="75" top="366" right="81" bottom="375" value="c" confidence="58"/>
+        <char id="195" left="82" top="366" right="91" bottom="375" value="o" confidence="46"/>
+        <char id="196" left="92" top="366" right="99" bottom="375" value="u" confidence="67"/>
+        <char id="197" left="101" top="366" right="108" bottom="375" value="n" confidence="100"/>
+        <char id="198" left="109" top="364" right="114" bottom="375" value="t" confidence="100"/>
+        <char id="199" left="115" top="366" right="121" bottom="375" value="s" confidence="52"/>
+      </word>
+      <word id="200" left="127" top="362" right="199" bottom="376" value="receivable," confidence="94" font="MP">
+        <char id="201" left="127" top="366" right="132" bottom="375" value="r" confidence="100"/>
+        <char id="202" left="132" top="366" right="139" bottom="375" value="e" confidence="100"/>
+        <char id="203" left="140" top="366" right="147" bottom="375" value="c" confidence="39"/>
+        <char id="204" left="147" top="366" right="155" bottom="375" value="e" confidence="100"/>
+        <char id="205" left="156" top="362" right="158" bottom="375" value="i" confidence="100"/>
+        <char id="206" left="159" top="366" right="167" bottom="375" value="v" confidence="100"/>
+        <char id="207" left="167" top="366" right="174" bottom="375" value="a" confidence="96"/>
+        <char id="208" left="176" top="362" right="184" bottom="375" value="b" confidence="100"/>
+        <char id="209" left="185" top="362" right="187" bottom="375" value="l" confidence="100"/>
+        <char id="210" left="189" top="366" right="196" bottom="375" value="e" confidence="100"/>
+        <char id="211" left="197" top="372" right="199" bottom="376" value="," confidence="100"/>
+      </word>
+      <word id="212" left="205" top="364" right="227" bottom="375" value="net" confidence="85" font="MP">
+        <char id="213" left="205" top="366" right="213" bottom="375" value="n" confidence="55"/>
+        <char id="214" left="214" top="366" right="222" bottom="375" value="e" confidence="100"/>
+        <char id="215" left="222" top="364" right="227" bottom="375" value="t" confidence="100"/>
+      </word>
+    </line>
+  </block>
+  <block id="216" left="58" top="386" right="134" bottom="399">
+    <line id="217" left="58" top="386" right="134" bottom="399">
+      <word id="218" left="58" top="386" right="134" bottom="399" value="Inventories" confidence="79" font="MP">
+        <char id="219" left="58" top="387" right="60" bottom="399" value="I" confidence="100"/>
+        <char id="220" left="62" top="390" right="69" bottom="399" value="n" confidence="48"/>
+        <char id="221" left="70" top="390" right="78" bottom="399" value="v" confidence="100"/>
+        <char id="222" left="78" top="390" right="86" bottom="399" value="e" confidence="100"/>
+        <char id="223" left="87" top="390" right="94" bottom="399" value="n" confidence="81"/>
+        <char id="224" left="95" top="388" right="100" bottom="399" value="t" confidence="100"/>
+        <char id="225" left="101" top="390" right="109" bottom="399" value="o" confidence="45"/>
+        <char id="226" left="111" top="390" right="116" bottom="399" value="r" confidence="100"/>
+        <char id="227" left="116" top="386" right="119" bottom="399" value="i" confidence="68"/>
+        <char id="228" left="120" top="390" right="127" bottom="399" value="e" confidence="79"/>
+        <char id="229" left="128" top="390" right="134" bottom="399" value="s" confidence="51"/>
+      </word>
+    </line>
+  </block>
+  <block id="230" left="58" top="410" right="353" bottom="448">
+    <line id="231" left="58" top="410" right="353" bottom="426">
+      <word id="232" left="58" top="410" right="110" bottom="426" value="Prepaid" confidence="95" font="MP">
+        <char id="233" left="58" top="411" right="65" bottom="423" value="P" confidence="79"/>
+        <char id="234" left="67" top="414" right="72" bottom="422" value="r" confidence="100"/>
+        <char id="235" left="72" top="414" right="79" bottom="423" value="e" confidence="100"/>
+        <char id="236" left="80" top="414" right="88" bottom="426" value="p" confidence="100"/>
+        <char id="237" left="89" top="414" right="96" bottom="423" value="a" confidence="88"/>
+        <char id="238" left="98" top="410" right="100" bottom="423" value="i" confidence="100"/>
+        <char id="239" left="101" top="410" right="110" bottom="423" value="d" confidence="100"/>
+      </word>
+      <word id="240" left="115" top="414" right="179" bottom="426" value="expenses" confidence="89" font="MP">
+        <char id="241" left="115" top="414" right="123" bottom="423" value="e" confidence="100"/>
+        <char id="242" left="123" top="414" right="130" bottom="423" value="x" confidence="87"/>
+        <char id="243" left="131" top="414" right="139" bottom="426" value="p" confidence="100"/>
+        <char id="244" left="140" top="414" right="148" bottom="423" value="e" confidence="100"/>
+        <char id="245" left="149" top="414" right="156" bottom="423" value="n" confidence="100"/>
+        <char id="246" left="158" top="414" right="164" bottom="423" value="s" confidence="59"/>
+        <char id="247" left="164" top="414" right="172" bottom="423" value="e" confidence="100"/>
+        <char id="248" left="173" top="414" right="179" bottom="423" value="s" confidence="72"/>
+      </word>
+      <word id="249" left="184" top="410" right="209" bottom="423" value="and" confidence="100" font="MP">
+        <char id="250" left="184" top="414" right="191" bottom="423" value="a" confidence="100"/>
+        <char id="251" left="192" top="414" right="200" bottom="423" value="n" confidence="100"/>
+        <char id="252" left="201" top="410" right="209" bottom="423" value="d" confidence="100"/>
+      </word>
+      <word id="253" left="215" top="410" right="252" bottom="423" value="other" confidence="83" font="MP">
+        <char id="254" left="215" top="414" right="223" bottom="423" value="o" confidence="73"/>
+        <char id="255" left="223" top="412" right="229" bottom="423" value="t" confidence="42"/>
+        <char id="256" left="230" top="410" right="237" bottom="423" value="h" confidence="100"/>
+        <char id="257" left="238" top="414" right="246" bottom="423" value="e" confidence="100"/>
+        <char id="258" left="247" top="414" right="252" bottom="423" value="r" confidence="100"/>
+      </word>
+      <word id="259" left="257" top="412" right="307" bottom="423" value="current" confidence="79" font="MP">
+        <char id="260" left="257" top="414" right="263" bottom="423" value="c" confidence="58"/>
+        <char id="261" left="264" top="414" right="272" bottom="423" value="u" confidence="72"/>
+        <char id="262" left="274" top="414" right="278" bottom="423" value="r" confidence="100"/>
+        <char id="263" left="279" top="414" right="284" bottom="423" value="r" confidence="100"/>
+        <char id="264" left="284" top="414" right="292" bottom="423" value="e" confidence="100"/>
+        <char id="265" left="293" top="414" right="301" bottom="423" value="n" confidence="62"/>
+        <char id="266" left="301" top="412" right="307" bottom="423" value="t" confidence="61"/>
+      </word>
+      <word id="267" left="311" top="412" right="353" bottom="423" value="assets" confidence="84" font="MP">
+        <char id="268" left="311" top="414" right="318" bottom="423" value="a" confidence="62"/>
+        <char id="269" left="320" top="414" right="326" bottom="423" value="s" confidence="100"/>
+        <char id="270" left="326" top="414" right="332" bottom="423" value="s" confidence="96"/>
+        <char id="271" left="333" top="414" right="341" bottom="423" value="e" confidence="100"/>
+        <char id="272" left="341" top="412" right="346" bottom="423" value="t" confidence="100"/>
+        <char id="273" left="347" top="414" right="353" bottom="423" value="s" confidence="51"/>
+      </word>
+    </line>
+    <line id="274" left="83" top="435" right="219" bottom="448">
+      <word id="275" left="83" top="435" right="117" bottom="448" value="Total" confidence="90" font="MP">
+        <char id="276" left="83" top="436" right="91" bottom="448" value="T" confidence="100"/>
+        <char id="277" left="91" top="439" right="100" bottom="448" value="o" confidence="60"/>
+        <char id="278" left="101" top="437" right="106" bottom="448" value="t" confidence="100"/>
+        <char id="279" left="106" top="439" right="113" bottom="448" value="a" confidence="92"/>
+        <char id="280" left="115" top="435" right="117" bottom="448" value="l" confidence="100"/>
+      </word>
+      <word id="281" left="123" top="437" right="173" bottom="448" value="current" confidence="76" font="MP">
+        <char id="282" left="123" top="439" right="129" bottom="448" value="c" confidence="58"/>
+        <char id="283" left="130" top="439" right="138" bottom="448" value="u" confidence="100"/>
+        <char id="284" left="140" top="439" right="144" bottom="448" value="r" confidence="59"/>
+        <char id="285" left="145" top="439" right="150" bottom="448" value="r" confidence="100"/>
+        <char id="286" left="150" top="439" right="158" bottom="448" value="e" confidence="100"/>
+        <char id="287" left="159" top="439" right="167" bottom="448" value="n" confidence="62"/>
+        <char id="288" left="167" top="437" right="173" bottom="448" value="t" confidence="56"/>
+      </word>
+      <word id="289" left="177" top="437" right="219" bottom="448" value="assets" confidence="72" font="MP">
+        <char id="290" left="177" top="439" right="184" bottom="448" value="a" confidence="62"/>
+        <char id="291" left="185" top="439" right="192" bottom="448" value="s" confidence="55"/>
+        <char id="292" left="192" top="439" right="198" bottom="448" value="s" confidence="73"/>
+        <char id="293" left="199" top="439" right="207" bottom="448" value="e" confidence="100"/>
+        <char id="294" left="207" top="437" right="212" bottom="448" value="t" confidence="100"/>
+        <char id="295" left="213" top="439" right="219" bottom="448" value="s" confidence="45"/>
+      </word>
+    </line>
+  </block>
+  <block id="296" left="49" top="483" right="224" bottom="520">
+    <line id="297" left="50" top="483" right="224" bottom="500">
+      <word id="298" left="50" top="484" right="109" bottom="500" value="Property" confidence="96" font="MP">
+        <char id="299" left="50" top="484" right="57" bottom="496" value="P" confidence="100"/>
+        <char id="300" left="59" top="487" right="64" bottom="496" value="r" confidence="100"/>
+        <char id="301" left="64" top="487" right="72" bottom="496" value="o" confidence="89"/>
+        <char id="302" left="73" top="487" right="81" bottom="499" value="p" confidence="100"/>
+        <char id="303" left="82" top="487" right="90" bottom="496" value="e" confidence="80"/>
+        <char id="304" left="91" top="487" right="96" bottom="496" value="r" confidence="100"/>
+        <char id="305" left="96" top="485" right="101" bottom="496" value="t" confidence="100"/>
+        <char id="306" left="101" top="487" right="109" bottom="500" value="y" confidence="100"/>
+      </word>
+      <word id="307" left="114" top="483" right="139" bottom="496" value="and" confidence="100" font="MP">
+        <char id="308" left="114" top="487" right="121" bottom="496" value="a" confidence="100"/>
+        <char id="309" left="122" top="487" right="130" bottom="496" value="n" confidence="100"/>
+        <char id="310" left="131" top="483" right="139" bottom="496" value="d" confidence="100"/>
+      </word>
+      <word id="311" left="145" top="484" right="224" bottom="500" value="equipment." confidence="91" font="MP">
+        <char id="312" left="145" top="487" right="152" bottom="496" value="e" confidence="81"/>
+        <char id="313" left="153" top="487" right="161" bottom="500" value="q" confidence="100"/>
+        <char id="314" left="163" top="487" right="170" bottom="496" value="u" confidence="87"/>
+        <char id="315" left="172" top="484" right="174" bottom="496" value="i" confidence="100"/>
+        <char id="316" left="176" top="487" right="184" bottom="500" value="p" confidence="69"/>
+        <char id="317" left="185" top="487" right="197" bottom="496" value="m" confidence="100"/>
+        <char id="318" left="198" top="487" right="206" bottom="496" value="e" confidence="80"/>
+        <char id="319" left="207" top="487" right="215" bottom="496" value="n" confidence="100"/>
+        <char id="320" left="215" top="485" right="221" bottom="496" value="t" confidence="100"/>
+        <char id="321" left="221" top="493" right="224" bottom="498" value="." confidence="-100"/>
+      </word>
+    </line>
+    <line id="322" left="49" top="507" right="110" bottom="520">
+      <word id="323" left="49" top="507" right="110" bottom="520" value="Goodwill" confidence="87" font="MP">
+        <char id="324" left="49" top="508" right="59" bottom="520" value="G" confidence="60"/>
+        <char id="325" left="60" top="511" right="68" bottom="520" value="o" confidence="65"/>
+        <char id="326" left="69" top="511" right="78" bottom="520" value="o" confidence="100"/>
+        <char id="327" left="79" top="507" right="87" bottom="520" value="d" confidence="100"/>
+        <char id="328" left="88" top="511" right="99" bottom="520" value="w" confidence="72"/>
+        <char id="329" left="100" top="508" right="102" bottom="520" value="i" confidence="100"/>
+        <char id="330" left="104" top="507" right="106" bottom="520" value="l" confidence="100"/>
+        <char id="331" left="108" top="507" right="110" bottom="520" value="l" confidence="100"/>
+      </word>
+    </line>
+  </block>
+  <block id="332" left="49" top="531" right="197" bottom="594">
+    <line id="333" left="50" top="531" right="197" bottom="548">
+      <word id="334" left="50" top="531" right="119" bottom="548" value="Intangible" confidence="85" font="MP">
+        <char id="335" left="50" top="532" right="52" bottom="544" value="I" confidence="100"/>
+        <char id="336" left="54" top="535" right="61" bottom="544" value="n" confidence="100"/>
+        <char id="337" left="62" top="533" right="67" bottom="544" value="t" confidence="100"/>
+        <char id="338" left="68" top="535" right="75" bottom="544" value="a" confidence="100"/>
+        <char id="339" left="76" top="535" right="84" bottom="544" value="n" confidence="100"/>
+        <char id="340" left="85" top="535" right="93" bottom="548" value="g" confidence="100"/>
+        <char id="341" left="95" top="532" right="97" bottom="544" value="i" confidence="54"/>
+        <char id="342" left="99" top="531" right="107" bottom="544" value="b" confidence="41"/>
+        <char id="343" left="108" top="531" right="110" bottom="544" value="l" confidence="100"/>
+        <char id="344" left="112" top="535" right="119" bottom="544" value="e" confidence="64"/>
+      </word>
+      <word id="345" left="124" top="533" right="169" bottom="546" value="assets," confidence="87" font="MP">
+        <char id="346" left="124" top="535" right="131" bottom="544" value="a" confidence="100"/>
+        <char id="347" left="132" top="535" right="138" bottom="544" value="s" confidence="82"/>
+        <char id="348" left="139" top="535" right="145" bottom="544" value="s" confidence="78"/>
+        <char id="349" left="146" top="535" right="154" bottom="544" value="e" confidence="52"/>
+        <char id="350" left="154" top="533" right="159" bottom="544" value="t" confidence="100"/>
+        <char id="351" left="160" top="535" right="166" bottom="544" value="s" confidence="100"/>
+        <char id="352" left="166" top="541" right="169" bottom="546" value="," confidence="100"/>
+      </word>
+      <word id="353" left="175" top="533" right="197" bottom="544" value="net" confidence="100" font="MP">
+        <char id="354" left="175" top="535" right="182" bottom="544" value="n" confidence="100"/>
+        <char id="355" left="183" top="535" right="191" bottom="544" value="e" confidence="100"/>
+        <char id="356" left="191" top="533" right="197" bottom="544" value="t" confidence="100"/>
+      </word>
+    </line>
+    <line id="357" left="49" top="555" right="135" bottom="568">
+      <word id="358" left="49" top="555" right="89" bottom="568" value="Other" confidence="96" font="MP">
+        <char id="359" left="49" top="556" right="60" bottom="568" value="O" confidence="100"/>
+        <char id="360" left="60" top="557" right="66" bottom="568" value="t" confidence="100"/>
+        <char id="361" left="67" top="555" right="74" bottom="568" value="h" confidence="100"/>
+        <char id="362" left="75" top="559" right="83" bottom="568" value="e" confidence="80"/>
+        <char id="363" left="84" top="559" right="89" bottom="568" value="r" confidence="100"/>
+      </word>
+      <word id="364" left="94" top="557" right="135" bottom="568" value="assets" confidence="87" font="MP">
+        <char id="365" left="94" top="559" right="101" bottom="568" value="a" confidence="100"/>
+        <char id="366" left="102" top="559" right="108" bottom="568" value="s" confidence="47"/>
+        <char id="367" left="109" top="559" right="115" bottom="568" value="s" confidence="100"/>
+        <char id="368" left="115" top="559" right="123" bottom="568" value="e" confidence="100"/>
+        <char id="369" left="124" top="557" right="129" bottom="568" value="t" confidence="100"/>
+        <char id="370" left="129" top="559" right="135" bottom="568" value="s" confidence="78"/>
+      </word>
+    </line>
+    <line id="371" left="57" top="581" right="138" bottom="594">
+      <word id="372" left="57" top="581" right="91" bottom="594" value="Total" confidence="95" font="MP">
+        <char id="373" left="57" top="582" right="65" bottom="594" value="T" confidence="100"/>
+        <char id="374" left="65" top="585" right="74" bottom="594" value="o" confidence="78"/>
+        <char id="375" left="75" top="583" right="80" bottom="594" value="t" confidence="100"/>
+        <char id="376" left="80" top="585" right="87" bottom="594" value="a" confidence="100"/>
+        <char id="377" left="89" top="581" right="91" bottom="594" value="l" confidence="100"/>
+      </word>
+      <word id="378" left="97" top="583" right="138" bottom="594" value="assets" confidence="90" font="MP">
+        <char id="379" left="97" top="585" right="104" bottom="594" value="a" confidence="100"/>
+        <char id="380" left="105" top="585" right="111" bottom="594" value="s" confidence="100"/>
+        <char id="381" left="111" top="585" right="117" bottom="594" value="s" confidence="67"/>
+        <char id="382" left="118" top="585" right="126" bottom="594" value="e" confidence="100"/>
+        <char id="383" left="126" top="583" right="132" bottom="594" value="t" confidence="100"/>
+        <char id="384" left="132" top="585" right="138" bottom="594" value="s" confidence="78"/>
+      </word>
+    </line>
+  </block>
+  <block id="385" left="50" top="632" right="361" bottom="645">
+    <line id="386" left="50" top="632" right="361" bottom="645">
+      <word id="387" left="50" top="632" right="131" bottom="644" value="LIABILITIES" confidence="92" font="MP">
+        <char id="388" left="50" top="632" right="57" bottom="644" value="L" confidence="100"/>
+        <char id="389" left="58" top="632" right="61" bottom="644" value="I" confidence="78"/>
+        <char id="390" left="62" top="632" right="72" bottom="644" value="A" confidence="100"/>
+        <char id="391" left="74" top="632" right="82" bottom="644" value="B" confidence="100"/>
+        <char id="392" left="84" top="632" right="87" bottom="644" value="I" confidence="36"/>
+        <char id="393" left="89" top="632" right="95" bottom="644" value="L" confidence="100"/>
+        <char id="394" left="97" top="632" right="99" bottom="644" value="I" confidence="100"/>
+        <char id="395" left="101" top="632" right="109" bottom="644" value="T" confidence="100"/>
+        <char id="396" left="111" top="632" right="113" bottom="644" value="I" confidence="100"/>
+        <char id="397" left="116" top="632" right="122" bottom="644" value="E" confidence="100"/>
+        <char id="398" left="124" top="632" right="131" bottom="644" value="S" confidence="100"/>
+      </word>
+      <word id="399" left="136" top="632" right="171" bottom="644" value="AND" confidence="89" font="MP">
+        <char id="400" left="136" top="632" right="147" bottom="644" value="A" confidence="100"/>
+        <char id="401" left="148" top="632" right="158" bottom="644" value="N" confidence="100"/>
+        <char id="402" left="161" top="632" right="171" bottom="643" value="D" confidence="69"/>
+      </word>
+      <word id="403" left="176" top="632" right="301" bottom="644" value="SHAREHOLDERS'" confidence="92" font="MP">
+        <char id="404" left="176" top="632" right="184" bottom="644" value="S" confidence="100"/>
+        <char id="405" left="186" top="632" right="195" bottom="644" value="H" confidence="100"/>
+        <char id="406" left="197" top="632" right="207" bottom="644" value="A" confidence="100"/>
+        <char id="407" left="209" top="632" right="218" bottom="644" value="R" confidence="100"/>
+        <char id="408" left="219" top="632" right="226" bottom="644" value="E" confidence="100"/>
+        <char id="409" left="227" top="632" right="237" bottom="644" value="H" confidence="100"/>
+        <char id="410" left="239" top="632" right="250" bottom="644" value="O" confidence="100"/>
+        <char id="411" left="251" top="632" right="258" bottom="644" value="L" confidence="100"/>
+        <char id="412" left="259" top="632" right="269" bottom="644" value="D" confidence="100"/>
+        <char id="413" left="271" top="632" right="278" bottom="644" value="E" confidence="100"/>
+        <char id="414" left="279" top="632" right="288" bottom="644" value="R" confidence="100"/>
+        <char id="415" left="289" top="632" right="297" bottom="644" value="S" confidence="100"/>
+        <char id="416" left="298" top="632" right="301" bottom="636" value="'" confidence="-1"/>
+      </word>
+      <word id="417" left="307" top="632" right="361" bottom="645" value="EQUITY" confidence="85" font="MP">
+        <char id="418" left="307" top="632" right="314" bottom="644" value="E" confidence="100"/>
+        <char id="419" left="315" top="632" right="326" bottom="645" value="Q" confidence="39"/>
+        <char id="420" left="328" top="632" right="337" bottom="644" value="U" confidence="100"/>
+        <char id="421" left="339" top="632" right="342" bottom="644" value="I" confidence="100"/>
+        <char id="422" left="343" top="632" right="352" bottom="644" value="T" confidence="100"/>
+        <char id="423" left="352" top="632" right="361" bottom="644" value="Y" confidence="76"/>
+      </word>
+    </line>
+  </block>
+  <block id="424" left="49" top="679" right="170" bottom="692">
+    <line id="425" left="49" top="679" right="170" bottom="692">
+      <word id="426" left="49" top="680" right="101" bottom="692" value="Current" confidence="82" font="MP">
+        <char id="427" left="49" top="680" right="58" bottom="692" value="C" confidence="55"/>
+        <char id="428" left="59" top="683" right="67" bottom="692" value="u" confidence="46"/>
+        <char id="429" left="68" top="683" right="73" bottom="692" value="r" confidence="100"/>
+        <char id="430" left="74" top="683" right="79" bottom="692" value="r" confidence="75"/>
+        <char id="431" left="79" top="683" right="87" bottom="692" value="e" confidence="100"/>
+        <char id="432" left="88" top="683" right="95" bottom="692" value="n" confidence="100"/>
+        <char id="433" left="96" top="681" right="101" bottom="692" value="t" confidence="100"/>
+      </word>
+      <word id="434" left="107" top="679" right="170" bottom="692" value="liabilities:" confidence="84" font="MP">
+        <char id="435" left="107" top="679" right="109" bottom="692" value="l" confidence="100"/>
+        <char id="436" left="111" top="680" right="113" bottom="692" value="i" confidence="100"/>
+        <char id="437" left="114" top="683" right="121" bottom="692" value="a" confidence="100"/>
+        <char id="438" left="123" top="679" right="131" bottom="692" value="b" confidence="58"/>
+        <char id="439" left="132" top="680" right="134" bottom="692" value="i" confidence="100"/>
+        <char id="440" left="136" top="679" right="138" bottom="692" value="l" confidence="100"/>
+        <char id="441" left="140" top="680" right="142" bottom="692" value="i" confidence="45"/>
+        <char id="442" left="143" top="681" right="148" bottom="692" value="t" confidence="100"/>
+        <char id="443" left="149" top="680" right="151" bottom="692" value="i" confidence="100"/>
+        <char id="444" left="153" top="683" right="160" bottom="692" value="e" confidence="64"/>
+        <char id="445" left="161" top="683" right="167" bottom="692" value="s" confidence="46"/>
+        <char id="446" left="168" top="683" right="170" bottom="692" value=":" confidence="100"/>
+      </word>
+    </line>
+  </block>
+  <block id="447" left="57" top="703" right="180" bottom="720">
+    <line id="448" left="57" top="703" right="180" bottom="720">
+      <word id="449" left="57" top="704" right="121" bottom="716" value="Accounts" confidence="79" font="MP">
+        <char id="450" left="57" top="704" right="67" bottom="716" value="A" confidence="100"/>
+        <char id="451" left="67" top="707" right="74" bottom="716" value="c" confidence="67"/>
+        <char id="452" left="75" top="707" right="81" bottom="716" value="c" confidence="65"/>
+        <char id="453" left="82" top="707" right="91" bottom="716" value="o" confidence="100"/>
+        <char id="454" left="92" top="707" right="99" bottom="716" value="u" confidence="64"/>
+        <char id="455" left="101" top="707" right="108" bottom="716" value="n" confidence="91"/>
+        <char id="456" left="109" top="705" right="114" bottom="716" value="t" confidence="100"/>
+        <char id="457" left="115" top="707" right="121" bottom="716" value="s" confidence="47"/>
+      </word>
+      <word id="458" left="127" top="703" right="180" bottom="720" value="payable" confidence="97" font="MP">
+        <char id="459" left="127" top="707" right="135" bottom="719" value="p" confidence="100"/>
+        <char id="460" left="135" top="707" right="142" bottom="716" value="a" confidence="92"/>
+        <char id="461" left="143" top="707" right="151" bottom="720" value="y" confidence="92"/>
+        <char id="462" left="151" top="707" right="158" bottom="716" value="a" confidence="99"/>
+        <char id="463" left="160" top="703" right="168" bottom="716" value="b" confidence="100"/>
+        <char id="464" left="169" top="704" right="172" bottom="716" value="l" confidence="100"/>
+        <char id="465" left="173" top="707" right="180" bottom="716" value="e" confidence="96"/>
+      </word>
+    </line>
+  </block>
+  <block id="466" left="57" top="727" right="307" bottom="789">
+    <line id="467" left="57" top="727" right="307" bottom="740">
+      <word id="468" left="57" top="727" right="113" bottom="740" value="Accrued" confidence="91" font="MP">
+        <char id="469" left="57" top="728" right="67" bottom="740" value="A" confidence="100"/>
+        <char id="470" left="67" top="731" right="74" bottom="740" value="c" confidence="100"/>
+        <char id="471" left="75" top="731" right="81" bottom="740" value="c" confidence="100"/>
+        <char id="472" left="83" top="731" right="88" bottom="740" value="r" confidence="100"/>
+        <char id="473" left="88" top="731" right="95" bottom="740" value="u" confidence="71"/>
+        <char id="474" left="97" top="731" right="104" bottom="740" value="e" confidence="69"/>
+        <char id="475" left="105" top="727" right="113" bottom="740" value="d" confidence="100"/>
+      </word>
+      <word id="476" left="119" top="727" right="144" bottom="740" value="and" confidence="100" font="MP">
+        <char id="477" left="119" top="731" right="126" bottom="740" value="a" confidence="100"/>
+        <char id="478" left="127" top="731" right="135" bottom="740" value="n" confidence="100"/>
+        <char id="479" left="136" top="727" right="144" bottom="740" value="d" confidence="100"/>
+      </word>
+      <word id="480" left="150" top="727" right="187" bottom="740" value="other" confidence="100" font="MP">
+        <char id="481" left="150" top="731" right="158" bottom="740" value="o" confidence="100"/>
+        <char id="482" left="159" top="729" right="164" bottom="740" value="t" confidence="100"/>
+        <char id="483" left="165" top="727" right="172" bottom="740" value="h" confidence="100"/>
+        <char id="484" left="173" top="731" right="181" bottom="740" value="e" confidence="100"/>
+        <char id="485" left="182" top="731" right="187" bottom="740" value="r" confidence="100"/>
+      </word>
+      <word id="486" left="192" top="729" right="242" bottom="740" value="current" confidence="92" font="MP">
+        <char id="487" left="192" top="731" right="198" bottom="740" value="c" confidence="100"/>
+        <char id="488" left="199" top="731" right="207" bottom="740" value="u" confidence="46"/>
+        <char id="489" left="209" top="731" right="213" bottom="740" value="r" confidence="100"/>
+        <char id="490" left="214" top="731" right="219" bottom="740" value="r" confidence="100"/>
+        <char id="491" left="219" top="731" right="227" bottom="740" value="e" confidence="100"/>
+        <char id="492" left="228" top="731" right="236" bottom="740" value="n" confidence="100"/>
+        <char id="493" left="236" top="729" right="242" bottom="740" value="t" confidence="100"/>
+      </word>
+      <word id="494" left="247" top="727" right="307" bottom="740" value="liabilities" confidence="82" font="MP">
+        <char id="495" left="247" top="727" right="249" bottom="740" value="l" confidence="100"/>
+        <char id="496" left="251" top="728" right="253" bottom="740" value="i" confidence="43"/>
+        <char id="497" left="254" top="731" right="261" bottom="740" value="a" confidence="100"/>
+        <char id="498" left="263" top="727" right="271" bottom="740" value="b" confidence="41"/>
+        <char id="499" left="272" top="728" right="274" bottom="740" value="i" confidence="100"/>
+        <char id="500" left="276" top="727" right="278" bottom="740" value="l" confidence="100"/>
+        <char id="501" left="280" top="728" right="282" bottom="740" value="i" confidence="100"/>
+        <char id="502" left="283" top="729" right="288" bottom="740" value="t" confidence="100"/>
+        <char id="503" left="289" top="728" right="292" bottom="740" value="i" confidence="100"/>
+        <char id="504" left="293" top="731" right="300" bottom="740" value="e" confidence="51"/>
+        <char id="505" left="301" top="731" right="307" bottom="740" value="s" confidence="77"/>
+      </word>
+    </line>
+    <line id="506" left="57" top="751" right="254" bottom="764">
+      <word id="507" left="57" top="751" right="137" bottom="764" value="Convertible" confidence="91" font="MP">
+        <char id="508" left="57" top="752" right="66" bottom="764" value="C" confidence="84"/>
+        <char id="509" left="67" top="755" right="75" bottom="764" value="o" confidence="49"/>
+        <char id="510" left="77" top="755" right="84" bottom="764" value="n" confidence="100"/>
+        <char id="511" left="85" top="755" right="93" bottom="764" value="v" confidence="100"/>
+        <char id="512" left="93" top="755" right="100" bottom="764" value="e" confidence="88"/>
+        <char id="513" left="102" top="755" right="106" bottom="764" value="r" confidence="100"/>
+        <char id="514" left="106" top="753" right="112" bottom="764" value="t" confidence="100"/>
+        <char id="515" left="113" top="752" right="115" bottom="764" value="i" confidence="100"/>
+        <char id="516" left="117" top="751" right="125" bottom="764" value="b" confidence="100"/>
+        <char id="517" left="126" top="751" right="128" bottom="764" value="l" confidence="100"/>
+        <char id="518" left="129" top="755" right="137" bottom="764" value="e" confidence="80"/>
+      </word>
+      <word id="519" left="142" top="751" right="217" bottom="764" value="short-term" confidence="81" font="MP">
+        <char id="520" left="142" top="755" right="148" bottom="764" value="s" confidence="72"/>
+        <char id="521" left="149" top="751" right="157" bottom="764" value="h" confidence="50"/>
+        <char id="522" left="158" top="755" right="167" bottom="764" value="o" confidence="45"/>
+        <char id="523" left="168" top="755" right="173" bottom="764" value="r" confidence="100"/>
+        <char id="524" left="173" top="753" right="178" bottom="764" value="t" confidence="100"/>
+        <char id="525" left="179" top="758" right="184" bottom="760" value="-" confidence="100"/>
+        <char id="526" left="184" top="753" right="190" bottom="764" value="t" confidence="100"/>
+        <char id="527" left="190" top="755" right="198" bottom="764" value="e" confidence="81"/>
+        <char id="528" left="199" top="755" right="204" bottom="764" value="r" confidence="69"/>
+        <char id="529" left="205" top="755" right="217" bottom="764" value="m" confidence="100"/>
+      </word>
+      <word id="530" left="222" top="751" right="254" bottom="764" value="debt" confidence="79" font="MP">
+        <char id="531" left="222" top="751" right="230" bottom="764" value="d" confidence="100"/>
+        <char id="532" left="232" top="755" right="239" bottom="764" value="e" confidence="81"/>
+        <char id="533" left="240" top="751" right="249" bottom="764" value="b" confidence="36"/>
+        <char id="534" left="249" top="753" right="254" bottom="764" value="t" confidence="100"/>
+      </word>
+    </line>
+    <line id="535" left="91" top="776" right="247" bottom="789">
+      <word id="536" left="91" top="776" right="126" bottom="789" value="Total" confidence="100" font="MP">
+        <char id="537" left="91" top="777" right="100" bottom="789" value="T" confidence="100"/>
+        <char id="538" left="100" top="780" right="109" bottom="789" value="o" confidence="100"/>
+        <char id="539" left="109" top="778" right="114" bottom="789" value="t" confidence="100"/>
+        <char id="540" left="115" top="780" right="122" bottom="789" value="a" confidence="100"/>
+        <char id="541" left="124" top="776" right="126" bottom="789" value="l" confidence="100"/>
+      </word>
+      <word id="542" left="131" top="778" right="181" bottom="789" value="current" confidence="86" font="MP">
+        <char id="543" left="131" top="780" right="138" bottom="789" value="c" confidence="100"/>
+        <char id="544" left="139" top="780" right="146" bottom="789" value="u" confidence="86"/>
+        <char id="545" left="148" top="780" right="153" bottom="789" value="r" confidence="100"/>
+        <char id="546" left="154" top="780" right="159" bottom="789" value="r" confidence="67"/>
+        <char id="547" left="159" top="780" right="166" bottom="789" value="e" confidence="50"/>
+        <char id="548" left="168" top="780" right="175" bottom="789" value="n" confidence="100"/>
+        <char id="549" left="176" top="778" right="181" bottom="789" value="t" confidence="100"/>
+      </word>
+      <word id="550" left="186" top="776" right="247" bottom="789" value="liabilities" confidence="85" font="MP">
+        <char id="551" left="186" top="776" right="189" bottom="789" value="l" confidence="100"/>
+        <char id="552" left="190" top="777" right="193" bottom="789" value="i" confidence="100"/>
+        <char id="553" left="194" top="780" right="201" bottom="789" value="a" confidence="100"/>
+        <char id="554" left="202" top="776" right="211" bottom="789" value="b" confidence="100"/>
+        <char id="555" left="212" top="777" right="214" bottom="789" value="i" confidence="46"/>
+        <char id="556" left="215" top="776" right="218" bottom="789" value="l" confidence="100"/>
+        <char id="557" left="219" top="777" right="222" bottom="789" value="i" confidence="83"/>
+        <char id="558" left="223" top="778" right="228" bottom="789" value="t" confidence="100"/>
+        <char id="559" left="229" top="777" right="231" bottom="789" value="i" confidence="44"/>
+        <char id="560" left="232" top="780" right="240" bottom="789" value="e" confidence="100"/>
+        <char id="561" left="241" top="780" right="247" bottom="789" value="s" confidence="67"/>
+      </word>
+    </line>
+  </block>
+  <block id="562" left="450" top="703" right="457" bottom="717">
+    <line id="563" left="450" top="703" right="457" bottom="717">
+      <word id="564" left="450" top="703" right="457" bottom="717" value="$" confidence="42" font="MP">
+        <char id="565" left="450" top="703" right="457" bottom="717" value="$" confidence="42"/>
+      </word>
+    </line>
+  </block>
+  <block id="566" left="49" top="824" right="230" bottom="886">
+    <line id="567" left="50" top="824" right="160" bottom="841">
+      <word id="568" left="50" top="825" right="123" bottom="841" value="Long-term" confidence="88" font="MP">
+        <char id="569" left="50" top="825" right="56" bottom="837" value="L" confidence="55"/>
+        <char id="570" left="57" top="828" right="65" bottom="837" value="o" confidence="100"/>
+        <char id="571" left="66" top="828" right="74" bottom="837" value="n" confidence="100"/>
+        <char id="572" left="75" top="828" right="83" bottom="841" value="g" confidence="80"/>
+        <char id="573" left="85" top="831" right="90" bottom="833" value="-" confidence="100"/>
+        <char id="574" left="90" top="826" right="96" bottom="837" value="t" confidence="96"/>
+        <char id="575" left="96" top="828" right="104" bottom="837" value="e" confidence="92"/>
+        <char id="576" left="105" top="828" right="110" bottom="837" value="r" confidence="69"/>
+        <char id="577" left="111" top="828" right="123" bottom="837" value="m" confidence="100"/>
+      </word>
+      <word id="578" left="128" top="824" right="160" bottom="837" value="debt" confidence="95" font="MP">
+        <char id="579" left="128" top="824" right="136" bottom="837" value="d" confidence="100"/>
+        <char id="580" left="138" top="828" right="145" bottom="837" value="e" confidence="81"/>
+        <char id="581" left="146" top="824" right="155" bottom="837" value="b" confidence="100"/>
+        <char id="582" left="155" top="826" right="160" bottom="837" value="t" confidence="100"/>
+      </word>
+    </line>
+    <line id="583" left="49" top="848" right="230" bottom="865">
+      <word id="584" left="49" top="848" right="89" bottom="861" value="Other" confidence="100" font="MP">
+        <char id="585" left="49" top="849" right="60" bottom="861" value="O" confidence="100"/>
+        <char id="586" left="60" top="850" right="66" bottom="861" value="t" confidence="100"/>
+        <char id="587" left="67" top="848" right="74" bottom="861" value="h" confidence="100"/>
+        <char id="588" left="75" top="852" right="83" bottom="861" value="e" confidence="100"/>
+        <char id="589" left="84" top="852" right="89" bottom="861" value="r" confidence="100"/>
+      </word>
+      <word id="590" left="94" top="848" right="164" bottom="865" value="long-term" confidence="99" font="MP">
+        <char id="591" left="94" top="848" right="97" bottom="861" value="l" confidence="94"/>
+        <char id="592" left="98" top="852" right="106" bottom="861" value="o" confidence="100"/>
+        <char id="593" left="107" top="852" right="115" bottom="861" value="n" confidence="100"/>
+        <char id="594" left="116" top="852" right="124" bottom="865" value="g" confidence="100"/>
+        <char id="595" left="126" top="855" right="131" bottom="857" value="-" confidence="100"/>
+        <char id="596" left="131" top="850" right="137" bottom="861" value="t" confidence="100"/>
+        <char id="597" left="137" top="852" right="145" bottom="861" value="e" confidence="100"/>
+        <char id="598" left="146" top="852" right="151" bottom="861" value="r" confidence="100"/>
+        <char id="599" left="152" top="852" right="164" bottom="861" value="m" confidence="100"/>
+      </word>
+      <word id="600" left="170" top="848" right="230" bottom="861" value="liabilities" confidence="72" font="MP">
+        <char id="601" left="170" top="848" right="172" bottom="861" value="l" confidence="100"/>
+        <char id="602" left="173" top="849" right="176" bottom="861" value="i" confidence="60"/>
+        <char id="603" left="177" top="852" right="184" bottom="861" value="a" confidence="100"/>
+        <char id="604" left="186" top="848" right="194" bottom="861" value="b" confidence="58"/>
+        <char id="605" left="195" top="849" right="197" bottom="861" value="i" confidence="46"/>
+        <char id="606" left="199" top="848" right="201" bottom="861" value="l" confidence="100"/>
+        <char id="607" left="203" top="849" right="205" bottom="861" value="i" confidence="31"/>
+        <char id="608" left="206" top="850" right="211" bottom="861" value="t" confidence="100"/>
+        <char id="609" left="212" top="849" right="214" bottom="861" value="i" confidence="100"/>
+        <char id="610" left="216" top="852" right="223" bottom="861" value="e" confidence="64"/>
+        <char id="611" left="224" top="852" right="230" bottom="861" value="s" confidence="43"/>
+      </word>
+    </line>
+    <line id="612" left="91" top="873" right="192" bottom="886">
+      <word id="613" left="91" top="873" right="126" bottom="886" value="Total" confidence="100" font="MP">
+        <char id="614" left="91" top="874" right="100" bottom="886" value="T" confidence="100"/>
+        <char id="615" left="100" top="877" right="109" bottom="886" value="o" confidence="100"/>
+        <char id="616" left="109" top="875" right="114" bottom="886" value="t" confidence="100"/>
+        <char id="617" left="115" top="877" right="122" bottom="886" value="a" confidence="100"/>
+        <char id="618" left="124" top="873" right="126" bottom="886" value="l" confidence="100"/>
+      </word>
+      <word id="619" left="132" top="873" right="192" bottom="886" value="liabilities" confidence="84" font="MP">
+        <char id="620" left="132" top="873" right="134" bottom="886" value="l" confidence="100"/>
+        <char id="621" left="136" top="874" right="138" bottom="886" value="i" confidence="100"/>
+        <char id="622" left="139" top="877" right="146" bottom="886" value="a" confidence="100"/>
+        <char id="623" left="148" top="873" right="156" bottom="886" value="b" confidence="100"/>
+        <char id="624" left="157" top="874" right="159" bottom="886" value="i" confidence="100"/>
+        <char id="625" left="161" top="873" right="163" bottom="886" value="l" confidence="100"/>
+        <char id="626" left="165" top="874" right="167" bottom="886" value="i" confidence="23"/>
+        <char id="627" left="168" top="875" right="173" bottom="886" value="t" confidence="100"/>
+        <char id="628" left="174" top="874" right="176" bottom="886" value="i" confidence="100"/>
+        <char id="629" left="178" top="877" right="185" bottom="886" value="e" confidence="64"/>
+        <char id="630" left="186" top="877" right="192" bottom="886" value="s" confidence="43"/>
+      </word>
+    </line>
+  </block>
+  <block id="631" left="49" top="921" right="335" bottom="964">
+    <line id="632" left="49" top="921" right="193" bottom="938">
+      <word id="633" left="49" top="921" right="144" bottom="934" value="Shareholders'" confidence="98" font="MP">
+        <char id="634" left="49" top="922" right="57" bottom="934" value="S" confidence="100"/>
+        <char id="635" left="58" top="921" right="66" bottom="934" value="h" confidence="100"/>
+        <char id="636" left="67" top="925" right="74" bottom="934" value="a" confidence="100"/>
+        <char id="637" left="75" top="925" right="80" bottom="934" value="r" confidence="100"/>
+        <char id="638" left="80" top="925" right="88" bottom="934" value="e" confidence="100"/>
+        <char id="639" left="89" top="921" right="97" bottom="934" value="h" confidence="100"/>
+        <char id="640" left="98" top="925" right="106" bottom="934" value="o" confidence="100"/>
+        <char id="641" left="107" top="921" right="110" bottom="934" value="l" confidence="100"/>
+        <char id="642" left="111" top="921" right="119" bottom="934" value="d" confidence="100"/>
+        <char id="643" left="120" top="925" right="128" bottom="934" value="e" confidence="100"/>
+        <char id="644" left="129" top="925" right="134" bottom="934" value="r" confidence="100"/>
+        <char id="645" left="134" top="925" right="140" bottom="934" value="s" confidence="77"/>
+        <char id="646" left="141" top="922" right="144" bottom="926" value="'" confidence="-100"/>
+      </word>
+      <word id="647" left="149" top="922" right="193" bottom="938" value="equity" confidence="85" font="MP">
+        <char id="648" left="149" top="925" right="157" bottom="934" value="e" confidence="77"/>
+        <char id="649" left="157" top="925" right="166" bottom="937" value="q" confidence="100"/>
+        <char id="650" left="167" top="925" right="174" bottom="934" value="u" confidence="97"/>
+        <char id="651" left="176" top="922" right="179" bottom="934" value="i" confidence="92"/>
+        <char id="652" left="179" top="923" right="185" bottom="934" value="t" confidence="100"/>
+        <char id="653" left="185" top="925" right="193" bottom="938" value="y" confidence="46"/>
+      </word>
+    </line>
+    <line id="654" left="57" top="947" right="335" bottom="964">
+      <word id="655" left="57" top="947" right="91" bottom="960" value="Total" confidence="99" font="MP">
+        <char id="656" left="57" top="948" right="65" bottom="960" value="T" confidence="100"/>
+        <char id="657" left="65" top="951" right="74" bottom="960" value="o" confidence="97"/>
+        <char id="658" left="75" top="949" right="80" bottom="960" value="t" confidence="100"/>
+        <char id="659" left="80" top="951" right="87" bottom="960" value="a" confidence="100"/>
+        <char id="660" left="89" top="947" right="91" bottom="960" value="l" confidence="100"/>
+      </word>
+      <word id="661" left="97" top="947" right="158" bottom="960" value="liabilities" confidence="89" font="MP">
+        <char id="662" left="97" top="947" right="99" bottom="960" value="l" confidence="100"/>
+        <char id="663" left="101" top="948" right="103" bottom="960" value="i" confidence="100"/>
+        <char id="664" left="104" top="951" right="111" bottom="960" value="a" confidence="100"/>
+        <char id="665" left="113" top="947" right="121" bottom="960" value="b" confidence="61"/>
+        <char id="666" left="122" top="948" right="125" bottom="960" value="i" confidence="100"/>
+        <char id="667" left="126" top="947" right="129" bottom="960" value="l" confidence="100"/>
+        <char id="668" left="130" top="948" right="132" bottom="960" value="i" confidence="100"/>
+        <char id="669" left="133" top="949" right="139" bottom="960" value="t" confidence="100"/>
+        <char id="670" left="140" top="948" right="142" bottom="960" value="i" confidence="100"/>
+        <char id="671" left="143" top="951" right="151" bottom="960" value="e" confidence="52"/>
+        <char id="672" left="151" top="951" right="158" bottom="960" value="s" confidence="68"/>
+      </word>
+      <word id="673" left="162" top="948" right="188" bottom="960" value="and" confidence="100" font="MP">
+        <char id="674" left="162" top="951" right="169" bottom="960" value="a" confidence="100"/>
+        <char id="675" left="171" top="951" right="179" bottom="960" value="n" confidence="100"/>
+        <char id="676" left="180" top="948" right="188" bottom="960" value="d" confidence="100"/>
+      </word>
+      <word id="677" left="193" top="947" right="286" bottom="960" value="shareholders'" confidence="82" font="MP">
+        <char id="678" left="193" top="951" right="199" bottom="960" value="s" confidence="88"/>
+        <char id="679" left="201" top="947" right="208" bottom="960" value="h" confidence="66"/>
+        <char id="680" left="209" top="951" right="216" bottom="960" value="a" confidence="55"/>
+        <char id="681" left="218" top="951" right="223" bottom="960" value="r" confidence="100"/>
+        <char id="682" left="223" top="951" right="230" bottom="960" value="e" confidence="48"/>
+        <char id="683" left="232" top="947" right="239" bottom="960" value="h" confidence="71"/>
+        <char id="684" left="240" top="951" right="249" bottom="960" value="o" confidence="100"/>
+        <char id="685" left="250" top="947" right="252" bottom="960" value="l" confidence="100"/>
+        <char id="686" left="253" top="948" right="262" bottom="960" value="d" confidence="100"/>
+        <char id="687" left="263" top="951" right="270" bottom="960" value="e" confidence="48"/>
+        <char id="688" left="272" top="951" right="277" bottom="960" value="r" confidence="100"/>
+        <char id="689" left="277" top="951" right="283" bottom="960" value="s" confidence="100"/>
+        <char id="690" left="284" top="948" right="286" bottom="952" value="'" confidence="100"/>
+      </word>
+      <word id="691" left="292" top="948" right="335" bottom="964" value="equity" confidence="85" font="MP">
+        <char id="692" left="292" top="951" right="299" bottom="960" value="e" confidence="82"/>
+        <char id="693" left="300" top="951" right="308" bottom="964" value="q" confidence="100"/>
+        <char id="694" left="310" top="951" right="317" bottom="960" value="u" confidence="89"/>
+        <char id="695" left="319" top="948" right="321" bottom="960" value="i" confidence="43"/>
+        <char id="696" left="322" top="949" right="327" bottom="960" value="t" confidence="100"/>
+        <char id="697" left="327" top="951" right="335" bottom="964" value="y" confidence="100"/>
+      </word>
+    </line>
+  </block>
+</ocr>

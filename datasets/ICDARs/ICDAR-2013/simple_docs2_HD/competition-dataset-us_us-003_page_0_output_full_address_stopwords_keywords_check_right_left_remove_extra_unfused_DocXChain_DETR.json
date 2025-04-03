@@ -1,0 +1,242 @@
+{
+    "TD": [
+        297.0,
+        1446,
+        2248.0,
+        1552.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.16980392156862745,
+                0.4393939393939394,
+                0.21803921568627452,
+                0.4509090909090909
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "middle",
+            "normalized_cell_text": "middle",
+            "full_bbox": [
+                433,
+                1450,
+                556,
+                1488
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.3015686274509804,
+                0.4381818181818182,
+                0.4176470588235294,
+                0.45212121212121215
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "$17,993-$25,771",
+            "normalized_cell_text": "$17,993-$25,771",
+            "full_bbox": [
+                769,
+                1446,
+                1065,
+                1492
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.47843137254901963,
+                0.4381818181818182,
+                0.5956862745098039,
+                0.45212121212121215
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "$29,993-$40,888",
+            "normalized_cell_text": "$29,993-$40,888",
+            "full_bbox": [
+                1220,
+                1446,
+                1519,
+                1492
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6831372549019608,
+                0.4381818181818182,
+                0.8031372549019608,
+                0.45212121212121215
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "$48,001-$66,900",
+            "normalized_cell_text": "$48,001-$66,900",
+            "full_bbox": [
+                1742,
+                1446,
+                2048,
+                1492
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.12313725490196079,
+                0.45,
+                0.18,
+                0.4696969696969697
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Highest",
+            "normalized_cell_text": "Highest",
+            "full_bbox": [
+                314,
+                1485,
+                459,
+                1550
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.3015686274509804,
+                0.4509090909090909,
+                0.4427450980392157,
+                0.4666666666666667
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Greater than $25,771",
+            "normalized_cell_text": "Greater than $25,771",
+            "full_bbox": [
+                769,
+                1488,
+                1129,
+                1540
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.4768627450980392,
+                0.45212121212121215,
+                0.62,
+                0.4666666666666667
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Greater than $40,888",
+            "normalized_cell_text": "Greater than $40,888",
+            "full_bbox": [
+                1216,
+                1492,
+                1581,
+                1540
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        },
+        {
+            "bbox": [
+                0.6819607843137255,
+                0.45212121212121215,
+                0.8258823529411765,
+                0.4666666666666667
+            ],
+            "column_nums": [
+                3
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Greater than S66,900",
+            "normalized_cell_text": "Greater than S66,900",
+            "full_bbox": [
+                1739,
+                1492,
+                2106,
+                1540
+            ],
+            "img_size": [
+                2550,
+                3300
+            ]
+        }
+    ]
+}

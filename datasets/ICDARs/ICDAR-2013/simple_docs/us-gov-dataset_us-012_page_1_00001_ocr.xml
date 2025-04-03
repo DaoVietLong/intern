@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<ocr lastid="0" left="0" top="0" right="792" bottom="611" Dpi="300" DataLeft="101" DataTop="90" DataRight="238" DataBottom="99" Version="10">
+  <block id="1" left="101" top="90" right="238" bottom="99">
+    <line id="2" left="101" top="90" right="238" bottom="99">
+      <word id="3" left="101" top="90" right="172" bottom="99" value="PORTFOLIO" confidence="67" font="MP">
+        <char id="4" left="101" top="90" right="108" bottom="99" value="P" confidence="27"/>
+        <char id="5" left="108" top="90" right="117" bottom="99" value="O" confidence="86"/>
+        <char id="6" left="118" top="90" right="126" bottom="99" value="R" confidence="68"/>
+        <char id="7" left="125" top="90" right="133" bottom="99" value="T" confidence="100"/>
+        <char id="8" left="134" top="90" right="141" bottom="99" value="F" confidence="32"/>
+        <char id="9" left="141" top="90" right="150" bottom="99" value="O" confidence="96"/>
+        <char id="10" left="150" top="90" right="158" bottom="99" value="L" confidence="38"/>
+        <char id="11" left="158" top="90" right="162" bottom="99" value="I" confidence="100"/>
+        <char id="12" left="163" top="90" right="172" bottom="99" value="O" confidence="60"/>
+      </word>
+      <word id="13" left="175" top="90" right="238" bottom="99" value="SUMMARY" confidence="56" font="MP">
+        <char id="14" left="175" top="90" right="181" bottom="99" value="S" confidence="67"/>
+        <char id="15" left="182" top="90" right="190" bottom="99" value="U" confidence="35"/>
+        <char id="16" left="191" top="90" right="201" bottom="99" value="M" confidence="50"/>
+        <char id="17" left="202" top="90" right="212" bottom="99" value="M" confidence="59"/>
+        <char id="18" left="213" top="90" right="221" bottom="99" value="A" confidence="42"/>
+        <char id="19" left="222" top="90" right="230" bottom="99" value="R" confidence="100"/>
+        <char id="20" left="230" top="90" right="238" bottom="99" value="Y" confidence="45"/>
+      </word>
+    </line>
+  </block>
+</ocr>

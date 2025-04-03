@@ -1,0 +1,793 @@
+{
+    "TD": [
+        346.0,
+        561.0,
+        2137.0,
+        1827.0
+    ],
+    "TSR": [
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.15702479338842976,
+                0.2221774193548387,
+                0.17184383015104018
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Category",
+            "normalized_cell_text": "Category",
+            "full_bbox": [
+                359,
+                551,
+                551,
+                603
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.44193548387096776,
+                0.15616984895981761,
+                0.5604838709677419,
+                0.17184383015104018
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "European HICP",
+            "normalized_cell_text": "European HICP",
+            "full_bbox": [
+                1096,
+                548,
+                1390,
+                603
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.7209677419354839,
+                0.15616984895981761,
+                0.7693548387096775,
+                0.170703904246224
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                0
+            ],
+            "column_header": true,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "CPI-U",
+            "normalized_cell_text": "CPI-U",
+            "full_bbox": [
+                1788,
+                548,
+                1908,
+                599
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14596774193548387,
+                0.1775434596751211,
+                0.21653225806451612,
+                0.18922770019948704
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Definition",
+            "normalized_cell_text": "Definition",
+            "full_bbox": [
+                362,
+                623,
+                537,
+                664
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.36451612903225805,
+                0.17668851524650897,
+                0.6173387096774193,
+                0.25876318039327445
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Measure of the average change in the prices of goods and services economic territory of the member available for purchase n the State for purposes of directly satisfying consumer's needs",
+            "normalized_cell_text": "Measure of the average change in the prices of goods and services economic territory of the member available for purchase n the State for purposes of directly satisfying consumer's needs",
+            "full_bbox": [
+                904,
+                620,
+                1531,
+                908
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6282258064516129,
+                0.17668851524650897,
+                0.8564516129032258,
+                0.25762325448845824
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                1
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Measure of the average change over time in the prices goods and services that of consumer items-that is, people buy for day-to-day living",
+            "normalized_cell_text": "Measure of the average change over time in the prices goods and services that of consumer items-that is, people buy for day-to-day living",
+            "full_bbox": [
+                1558,
+                620,
+                2124,
+                904
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.26047306925049873,
+                0.3407258064516129,
+                0.28697634653747506
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Geographic. and population coverage",
+            "normalized_cell_text": "Geographic. and population coverage",
+            "full_bbox": [
+                359,
+                914,
+                845,
+                1007
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.36451612903225805,
+                0.25876318039327445,
+                0.6060483870967742,
+                0.2878312909660872
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "the member State All households in the territory of",
+            "normalized_cell_text": "the member State All households in the territory of",
+            "full_bbox": [
+                904,
+                908,
+                1503,
+                1010
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6310483870967742,
+                0.26047306925049873,
+                0.8092741935483871,
+                0.30065545739526933
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                2
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "population of the United States Non-institutional urban",
+            "normalized_cell_text": "population of the United States Non-institutional urban",
+            "full_bbox": [
+                1565,
+                914,
+                2007,
+                1055
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.3055001424907381,
+                0.2536290322580645,
+                0.3183243089199202
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Item coverage",
+            "normalized_cell_text": "Item coverage",
+            "full_bbox": [
+                359,
+                1072,
+                629,
+                1117
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.3657258064516129,
+                0.304645198062126,
+                0.6298387096774194,
+                0.34653747506412086
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "occupied housing, gambling, lotteries, and life insurance Private consumption, except owner-",
+            "normalized_cell_text": "occupied housing, gambling, lotteries, and life insurance Private consumption, except owner-",
+            "full_bbox": [
+                907,
+                1069,
+                1562,
+                1216
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6298387096774194,
+                0.30350527215730977,
+                0.834274193548387,
+                0.3593616414933029
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                3
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "housing and exdludes gambling, lotteries, and life insurance Includes owner-occupied",
+            "normalized_cell_text": "housing and exdludes gambling, lotteries, and life insurance Includes owner-occupied",
+            "full_bbox": [
+                1562,
+                1065,
+                2069,
+                1261
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.35822171558848676,
+                0.2068548387096774,
+                0.36990595611285265
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Formula",
+            "normalized_cell_text": "Formula",
+            "full_bbox": [
+                359,
+                1257,
+                513,
+                1298
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.3685483870967742,
+                0.35822171558848676,
+                0.4459677419354839,
+                0.3730407523510972
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Laspeyres",
+            "normalized_cell_text": "Laspeyres",
+            "full_bbox": [
+                914,
+                1257,
+                1106,
+                1309
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6310483870967742,
+                0.35822171558848676,
+                0.7096774193548387,
+                0.3730407523510972
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                4
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Laspeyres",
+            "normalized_cell_text": "Laspeyres",
+            "full_bbox": [
+                1565,
+                1257,
+                1760,
+                1309
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.3767455115417498,
+                0.3133064516129032,
+                0.3915645483043602
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Weight update interval",
+            "normalized_cell_text": "Weight update interval",
+            "full_bbox": [
+                359,
+                1322,
+                777,
+                1374
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.3657258064516129,
+                0.3758905671131376,
+                0.6104838709677419,
+                0.40210886292390996
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "review At least 5 yearly updates, annual",
+            "normalized_cell_text": "review At least 5 yearly updates, annual",
+            "full_bbox": [
+                907,
+                1319,
+                1514,
+                1411
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6326612903225807,
+                0.377885437446566,
+                0.6931451612903226,
+                0.3895696779709319
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                5
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Biennial",
+            "normalized_cell_text": "Biennial",
+            "full_bbox": [
+                1569,
+                1326,
+                1719,
+                1367
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14475806451612902,
+                0.4080934739241949,
+                0.3685483870967742,
+                0.4226275292106013
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Elementary aggregate formulal",
+            "normalized_cell_text": "Elementary aggregate formulal",
+            "full_bbox": [
+                359,
+                1432,
+                914,
+                1483
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.3685483870967742,
+                0.4080934739241949,
+                0.6008064516129032,
+                0.4334568253063551
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "mean Ratio of geometric to arthmetic",
+            "normalized_cell_text": "mean Ratio of geometric to arthmetic",
+            "full_bbox": [
+                914,
+                1432,
+                1490,
+                1521
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6326612903225807,
+                0.40894841835280704,
+                0.8012096774193549,
+                0.4334568253063551
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                6
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Weighted geometric or arithmetic mean",
+            "normalized_cell_text": "Weighted geometric or arithmetic mean",
+            "full_bbox": [
+                1569,
+                1435,
+                1987,
+                1521
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.14596774193548387,
+                0.44029638073525224,
+                0.24153225806451614,
+                0.45198062125961813
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Classification",
+            "normalized_cell_text": "Classification",
+            "full_bbox": [
+                362,
+                1545,
+                599,
+                1586
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.369758064516129,
+                0.44029638073525224,
+                0.6229838709677419,
+                0.4676546024508407
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Classification of ndividual consumption by purpose (COICOP)",
+            "normalized_cell_text": "Classification of ndividual consumption by purpose (COICOP)",
+            "full_bbox": [
+                917,
+                1545,
+                1545,
+                1641
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6310483870967742,
+                0.44029638073525224,
+                0.8274193548387097,
+                0.46565973211741235
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                7
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "U.S. CPI item classification structure",
+            "normalized_cell_text": "U.S. CPI item classification structure",
+            "full_bbox": [
+                1565,
+                1545,
+                2052,
+                1634
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.1431451612903226,
+                0.48332858364206327,
+                0.2495967741935484,
+                0.49786263892846966
+            ],
+            "column_nums": [
+                0
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "Level of detail",
+            "normalized_cell_text": "Level of detail",
+            "full_bbox": [
+                355,
+                1696,
+                619,
+                1747
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.36451612903225805,
+                0.48218865773724706,
+                0.5745967741935484,
+                0.4990025648332858
+            ],
+            "column_nums": [
+                1
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "94 classes, 160 sub-indexes",
+            "normalized_cell_text": "94 classes, 160 sub-indexes",
+            "full_bbox": [
+                904,
+                1692,
+                1425,
+                1751
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        },
+        {
+            "bbox": [
+                0.6298387096774194,
+                0.48218865773724706,
+                0.8205645161290323,
+                0.5115417497862639
+            ],
+            "column_nums": [
+                2
+            ],
+            "row_nums": [
+                8
+            ],
+            "column_header": false,
+            "subcell": false,
+            "projected_row_header": false,
+            "cell_text": "211 item strata, 38 index areas",
+            "normalized_cell_text": "211 item strata, 38 index areas",
+            "full_bbox": [
+                1562,
+                1692,
+                2035,
+                1795
+            ],
+            "img_size": [
+                2480,
+                3509
+            ]
+        }
+    ]
+}
