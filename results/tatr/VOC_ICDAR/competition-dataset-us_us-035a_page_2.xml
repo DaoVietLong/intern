@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>competition-dataset-us_us-035a_page_2.jpg</filename>
+  <size>
+    <width>2550</width>
+    <height>3300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>309</xmin>
+      <ymin>417</ymin>
+      <xmax>933</xmax>
+      <ymax>2505</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>975</xmin>
+      <ymin>417</ymin>
+      <xmax>1491</xmax>
+      <ymax>2505</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>1537</xmin>
+      <ymin>417</ymin>
+      <xmax>2092</xmax>
+      <ymax>2505</ymax>
+    </bndbox>
+  </object>
+</annotation>

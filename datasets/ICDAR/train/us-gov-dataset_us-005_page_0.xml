@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>us-gov-dataset_us-005_page_0.jpg</filename>
+  <size>
+    <width>3000</width>
+    <height>2250</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>180</xmin>
+      <ymin>556</ymin>
+      <xmax>1381</xmax>
+      <ymax>2031</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>1555</xmin>
+      <ymin>565</ymin>
+      <xmax>2758</xmax>
+      <ymax>1386</ymax>
+    </bndbox>
+  </object>
+</annotation>

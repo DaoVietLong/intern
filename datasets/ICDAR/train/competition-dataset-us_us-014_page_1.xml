@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>competition-dataset-us_us-014_page_1.jpg</filename>
+  <size>
+    <width>2550</width>
+    <height>3300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>311</xmin>
+      <ymin>1410</ymin>
+      <xmax>2224</xmax>
+      <ymax>2005</ymax>
+    </bndbox>
+  </object>
+</annotation>

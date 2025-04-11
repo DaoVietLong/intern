@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>eu-dataset_eu-011_page_2.jpg</filename>
+  <size>
+    <width>2480</width>
+    <height>3509</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>363</xmin>
+      <ymin>1065</ymin>
+      <xmax>2108</xmax>
+      <ymax>2769</ymax>
+    </bndbox>
+  </object>
+</annotation>

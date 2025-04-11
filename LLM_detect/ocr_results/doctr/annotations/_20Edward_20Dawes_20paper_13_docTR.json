@@ -1,0 +1,7189 @@
+{
+  "tokens": [
+    {
+      "value": "3.2",
+      "bbox_relative": [
+        0.1468,
+        0.0859,
+        0.1813,
+        0.1016
+      ],
+      "bbox_absolute": [
+        87,
+        72,
+        108,
+        85
+      ]
+    },
+    {
+      "value": "Objective",
+      "bbox_relative": [
+        0.1979,
+        0.0879,
+        0.2806,
+        0.1025
+      ],
+      "bbox_absolute": [
+        117,
+        74,
+        167,
+        86
+      ]
+    },
+    {
+      "value": "2",
+      "bbox_relative": [
+        0.2793,
+        0.0859,
+        0.2986,
+        0.1016
+      ],
+      "bbox_absolute": [
+        166,
+        72,
+        177,
+        85
+      ]
+    },
+    {
+      "value": "3.2.1",
+      "bbox_relative": [
+        0.1496,
+        0.1201,
+        0.1951,
+        0.1318
+      ],
+      "bbox_absolute": [
+        89,
+        101,
+        116,
+        111
+      ]
+    },
+    {
+      "value": "Comparison",
+      "bbox_relative": [
+        0.2103,
+        0.1201,
+        0.3151,
+        0.1348
+      ],
+      "bbox_absolute": [
+        125,
+        101,
+        187,
+        113
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3165,
+        0.1191,
+        0.3413,
+        0.1328
+      ],
+      "bbox_absolute": [
+        188,
+        100,
+        203,
+        111
+      ]
+    },
+    {
+      "value": "Capital",
+      "bbox_relative": [
+        0.34,
+        0.1191,
+        0.4034,
+        0.1348
+      ],
+      "bbox_absolute": [
+        202,
+        100,
+        240,
+        113
+      ]
+    },
+    {
+      "value": "Indicators",
+      "bbox_relative": [
+        0.4076,
+        0.1201,
+        0.4945,
+        0.1318
+      ],
+      "bbox_absolute": [
+        242,
+        101,
+        294,
+        111
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.4959,
+        0.1191,
+        0.5193,
+        0.1328
+      ],
+      "bbox_absolute": [
+        295,
+        100,
+        309,
+        111
+      ]
+    },
+    {
+      "value": "Gentrification",
+      "bbox_relative": [
+        0.5193,
+        0.1191,
+        0.6421,
+        0.1328
+      ],
+      "bbox_absolute": [
+        309,
+        100,
+        382,
+        111
+      ]
+    },
+    {
+      "value": "The",
+      "bbox_relative": [
+        0.1496,
+        0.1504,
+        0.1827,
+        0.1631
+      ],
+      "bbox_absolute": [
+        89,
+        126,
+        108,
+        137
+      ]
+    },
+    {
+      "value": "results",
+      "bbox_relative": [
+        0.1841,
+        0.1514,
+        0.2406,
+        0.1631
+      ],
+      "bbox_absolute": [
+        109,
+        127,
+        143,
+        137
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.242,
+        0.1494,
+        0.2875,
+        0.1641
+      ],
+      "bbox_absolute": [
+        144,
+        125,
+        171,
+        138
+      ]
+    },
+    {
+      "value": "comparing",
+      "bbox_relative": [
+        0.2875,
+        0.1494,
+        0.3786,
+        0.167
+      ],
+      "bbox_absolute": [
+        171,
+        125,
+        225,
+        140
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3786,
+        0.1504,
+        0.4103,
+        0.1631
+      ],
+      "bbox_absolute": [
+        225,
+        126,
+        244,
+        137
+      ]
+    },
+    {
+      "value": "changes",
+      "bbox_relative": [
+        0.4117,
+        0.1504,
+        0.4807,
+        0.166
+      ],
+      "bbox_absolute": [
+        245,
+        126,
+        286,
+        139
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4807,
+        0.1494,
+        0.5014,
+        0.1641
+      ],
+      "bbox_absolute": [
+        286,
+        125,
+        298,
+        138
+      ]
+    },
+    {
+      "value": "average",
+      "bbox_relative": [
+        0.5028,
+        0.1533,
+        0.569,
+        0.165
+      ],
+      "bbox_absolute": [
+        299,
+        129,
+        339,
+        138
+      ]
+    },
+    {
+      "value": "price",
+      "bbox_relative": [
+        0.5704,
+        0.1504,
+        0.6159,
+        0.166
+      ],
+      "bbox_absolute": [
+        339,
+        126,
+        367,
+        139
+      ]
+    },
+    {
+      "value": "paid",
+      "bbox_relative": [
+        0.6159,
+        0.1504,
+        0.6559,
+        0.166
+      ],
+      "bbox_absolute": [
+        367,
+        126,
+        390,
+        139
+      ]
+    },
+    {
+      "value": "data",
+      "bbox_relative": [
+        0.6573,
+        0.1514,
+        0.6945,
+        0.1631
+      ],
+      "bbox_absolute": [
+        391,
+        127,
+        413,
+        137
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.6973,
+        0.1504,
+        0.7304,
+        0.1631
+      ],
+      "bbox_absolute": [
+        415,
+        126,
+        435,
+        137
+      ]
+    },
+    {
+      "value": "rates",
+      "bbox_relative": [
+        0.7332,
+        0.1514,
+        0.7773,
+        0.1631
+      ],
+      "bbox_absolute": [
+        436,
+        127,
+        463,
+        137
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7773,
+        0.1494,
+        0.8008,
+        0.1641
+      ],
+      "bbox_absolute": [
+        463,
+        125,
+        477,
+        138
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.1496,
+        0.1699,
+        0.2255,
+        0.1846
+      ],
+      "bbox_absolute": [
+        89,
+        143,
+        134,
+        155
+      ]
+    },
+    {
+      "value": "turnover",
+      "bbox_relative": [
+        0.2255,
+        0.1699,
+        0.3,
+        0.1807
+      ],
+      "bbox_absolute": [
+        134,
+        143,
+        178,
+        152
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.3013,
+        0.168,
+        0.3289,
+        0.1816
+      ],
+      "bbox_absolute": [
+        179,
+        141,
+        196,
+        152
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3275,
+        0.167,
+        0.362,
+        0.1826
+      ],
+      "bbox_absolute": [
+        195,
+        140,
+        215,
+        153
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.3607,
+        0.1699,
+        0.4034,
+        0.1816
+      ],
+      "bbox_absolute": [
+        214,
+        143,
+        240,
+        152
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.4062,
+        0.1689,
+        0.4738,
+        0.1807
+      ],
+      "bbox_absolute": [
+        242,
+        142,
+        282,
+        152
+      ]
+    },
+    {
+      "value": "against",
+      "bbox_relative": [
+        0.4752,
+        0.168,
+        0.5373,
+        0.1836
+      ],
+      "bbox_absolute": [
+        283,
+        141,
+        320,
+        154
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5386,
+        0.168,
+        0.569,
+        0.1807
+      ],
+      "bbox_absolute": [
+        321,
+        141,
+        339,
+        152
+      ]
+    },
+    {
+      "value": "control",
+      "bbox_relative": [
+        0.5704,
+        0.167,
+        0.6324,
+        0.1816
+      ],
+      "bbox_absolute": [
+        339,
+        140,
+        376,
+        152
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.6352,
+        0.1689,
+        0.7028,
+        0.1807
+      ],
+      "bbox_absolute": [
+        378,
+        142,
+        418,
+        152
+      ]
+    },
+    {
+      "value": "between",
+      "bbox_relative": [
+        0.7056,
+        0.1689,
+        0.7787,
+        0.1807
+      ],
+      "bbox_absolute": [
+        420,
+        142,
+        464,
+        152
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.7814,
+        0.1689,
+        0.8228,
+        0.1807
+      ],
+      "bbox_absolute": [
+        465,
+        142,
+        490,
+        152
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.1468,
+        0.1846,
+        0.1841,
+        0.2002
+      ],
+      "bbox_absolute": [
+        87,
+        155,
+        109,
+        168
+      ]
+    },
+    {
+      "value": "2011",
+      "bbox_relative": [
+        0.1854,
+        0.1865,
+        0.2268,
+        0.1982
+      ],
+      "bbox_absolute": [
+        110,
+        157,
+        135,
+        166
+      ]
+    },
+    {
+      "value": "are",
+      "bbox_relative": [
+        0.2296,
+        0.1875,
+        0.2599,
+        0.1992
+      ],
+      "bbox_absolute": [
+        136,
+        157,
+        154,
+        167
+      ]
+    },
+    {
+      "value": "included",
+      "bbox_relative": [
+        0.2613,
+        0.1865,
+        0.3331,
+        0.1982
+      ],
+      "bbox_absolute": [
+        155,
+        157,
+        198,
+        166
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.3344,
+        0.1855,
+        0.3538,
+        0.2002
+      ],
+      "bbox_absolute": [
+        199,
+        156,
+        210,
+        168
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3538,
+        0.1846,
+        0.3882,
+        0.2002
+      ],
+      "bbox_absolute": [
+        210,
+        155,
+        231,
+        168
+      ]
+    },
+    {
+      "value": "summary",
+      "bbox_relative": [
+        0.3882,
+        0.1885,
+        0.4669,
+        0.2002
+      ],
+      "bbox_absolute": [
+        231,
+        158,
+        278,
+        168
+      ]
+    },
+    {
+      "value": "table",
+      "bbox_relative": [
+        0.4683,
+        0.1865,
+        0.5124,
+        0.1982
+      ],
+      "bbox_absolute": [
+        279,
+        157,
+        305,
+        166
+      ]
+    },
+    {
+      "value": "below",
+      "bbox_relative": [
+        0.5152,
+        0.1865,
+        0.5662,
+        0.1982
+      ],
+      "bbox_absolute": [
+        307,
+        157,
+        337,
+        166
+      ]
+    },
+    {
+      "value": "(Table",
+      "bbox_relative": [
+        0.5676,
+        0.1855,
+        0.6228,
+        0.2012
+      ],
+      "bbox_absolute": [
+        338,
+        156,
+        371,
+        169
+      ]
+    },
+    {
+      "value": "3.2).",
+      "bbox_relative": [
+        0.6242,
+        0.1855,
+        0.6642,
+        0.2012
+      ],
+      "bbox_absolute": [
+        372,
+        156,
+        395,
+        169
+      ]
+    },
+    {
+      "value": "It",
+      "bbox_relative": [
+        0.6628,
+        0.1855,
+        0.6821,
+        0.2002
+      ],
+      "bbox_absolute": [
+        395,
+        156,
+        406,
+        168
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.6794,
+        0.1875,
+        0.718,
+        0.1992
+      ],
+      "bbox_absolute": [
+        404,
+        157,
+        427,
+        167
+      ]
+    },
+    {
+      "value": "found",
+      "bbox_relative": [
+        0.718,
+        0.1865,
+        0.769,
+        0.1982
+      ],
+      "bbox_absolute": [
+        427,
+        157,
+        458,
+        166
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.7704,
+        0.1865,
+        0.8077,
+        0.1982
+      ],
+      "bbox_absolute": [
+        459,
+        157,
+        481,
+        166
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.8077,
+        0.1855,
+        0.8284,
+        0.1992
+      ],
+      "bbox_absolute": [
+        481,
+        156,
+        493,
+        167
+      ]
+    },
+    {
+      "value": "aggregate,",
+      "bbox_relative": [
+        0.1468,
+        0.2021,
+        0.2392,
+        0.2197
+      ],
+      "bbox_absolute": [
+        87,
+        170,
+        142,
+        185
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2392,
+        0.2012,
+        0.2724,
+        0.2168
+      ],
+      "bbox_absolute": [
+        142,
+        169,
+        162,
+        182
+      ]
+    },
+    {
+      "value": "light-rail",
+      "bbox_relative": [
+        0.2724,
+        0.2021,
+        0.3441,
+        0.2188
+      ],
+      "bbox_absolute": [
+        162,
+        170,
+        205,
+        184
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.3455,
+        0.2031,
+        0.4131,
+        0.2148
+      ],
+      "bbox_absolute": [
+        205,
+        171,
+        246,
+        180
+      ]
+    },
+    {
+      "value": "significantly",
+      "bbox_relative": [
+        0.4158,
+        0.2031,
+        0.5152,
+        0.2178
+      ],
+      "bbox_absolute": [
+        247,
+        171,
+        307,
+        183
+      ]
+    },
+    {
+      "value": "underperformed",
+      "bbox_relative": [
+        0.5152,
+        0.2012,
+        0.6573,
+        0.2188
+      ],
+      "bbox_absolute": [
+        307,
+        169,
+        391,
+        184
+      ]
+    },
+    {
+      "value": "against",
+      "bbox_relative": [
+        0.6587,
+        0.2021,
+        0.7194,
+        0.2178
+      ],
+      "bbox_absolute": [
+        392,
+        170,
+        428,
+        183
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7194,
+        0.2031,
+        0.7511,
+        0.2158
+      ],
+      "bbox_absolute": [
+        428,
+        171,
+        447,
+        181
+      ]
+    },
+    {
+      "value": "control",
+      "bbox_relative": [
+        0.7525,
+        0.2031,
+        0.8132,
+        0.2148
+      ],
+      "bbox_absolute": [
+        448,
+        171,
+        484,
+        180
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.151,
+        0.2207,
+        0.2186,
+        0.2324
+      ],
+      "bbox_absolute": [
+        89,
+        185,
+        130,
+        195
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.2199,
+        0.2207,
+        0.253,
+        0.2334
+      ],
+      "bbox_absolute": [
+        131,
+        185,
+        150,
+        196
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2544,
+        0.2207,
+        0.2862,
+        0.2334
+      ],
+      "bbox_absolute": [
+        151,
+        185,
+        170,
+        196
+      ]
+    },
+    {
+      "value": "wider",
+      "bbox_relative": [
+        0.2862,
+        0.2197,
+        0.3386,
+        0.2344
+      ],
+      "bbox_absolute": [
+        170,
+        185,
+        201,
+        197
+      ]
+    },
+    {
+      "value": "urban",
+      "bbox_relative": [
+        0.3386,
+        0.2207,
+        0.3882,
+        0.2324
+      ],
+      "bbox_absolute": [
+        201,
+        185,
+        231,
+        195
+      ]
+    },
+    {
+      "value": "area",
+      "bbox_relative": [
+        0.391,
+        0.2227,
+        0.431,
+        0.2334
+      ],
+      "bbox_absolute": [
+        233,
+        187,
+        256,
+        196
+      ]
+    },
+    {
+      "value": "on",
+      "bbox_relative": [
+        0.4296,
+        0.2217,
+        0.4559,
+        0.2344
+      ],
+      "bbox_absolute": [
+        256,
+        186,
+        271,
+        197
+      ]
+    },
+    {
+      "value": "all",
+      "bbox_relative": [
+        0.4559,
+        0.2197,
+        0.4807,
+        0.2334
+      ],
+      "bbox_absolute": [
+        271,
+        185,
+        286,
+        196
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.4807,
+        0.2197,
+        0.5028,
+        0.2344
+      ],
+      "bbox_absolute": [
+        286,
+        185,
+        299,
+        197
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5014,
+        0.2207,
+        0.5317,
+        0.2334
+      ],
+      "bbox_absolute": [
+        298,
+        185,
+        316,
+        196
+      ]
+    },
+    {
+      "value": "capital",
+      "bbox_relative": [
+        0.5331,
+        0.2207,
+        0.5911,
+        0.2354
+      ],
+      "bbox_absolute": [
+        317,
+        185,
+        352,
+        198
+      ]
+    },
+    {
+      "value": "indicators",
+      "bbox_relative": [
+        0.5938,
+        0.2207,
+        0.6766,
+        0.2324
+      ],
+      "bbox_absolute": [
+        353,
+        185,
+        403,
+        195
+      ]
+    },
+    {
+      "value": "measured.",
+      "bbox_relative": [
+        0.6794,
+        0.2207,
+        0.7663,
+        0.2324
+      ],
+      "bbox_absolute": [
+        404,
+        185,
+        456,
+        195
+      ]
+    },
+    {
+      "value": "Average",
+      "bbox_relative": [
+        0.769,
+        0.2207,
+        0.8408,
+        0.2373
+      ],
+      "bbox_absolute": [
+        458,
+        185,
+        501,
+        199
+      ]
+    },
+    {
+      "value": "prices",
+      "bbox_relative": [
+        0.1482,
+        0.2354,
+        0.2034,
+        0.2539
+      ],
+      "bbox_absolute": [
+        88,
+        198,
+        121,
+        213
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.202,
+        0.2363,
+        0.2213,
+        0.251
+      ],
+      "bbox_absolute": [
+        120,
+        198,
+        131,
+        211
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2227,
+        0.2373,
+        0.253,
+        0.25
+      ],
+      "bbox_absolute": [
+        132,
+        199,
+        150,
+        210
+      ]
+    },
+    {
+      "value": "control",
+      "bbox_relative": [
+        0.253,
+        0.2363,
+        0.3151,
+        0.251
+      ],
+      "bbox_absolute": [
+        150,
+        198,
+        187,
+        211
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.3179,
+        0.2373,
+        0.3855,
+        0.249
+      ],
+      "bbox_absolute": [
+        189,
+        199,
+        229,
+        209
+      ]
+    },
+    {
+      "value": "increased",
+      "bbox_relative": [
+        0.3882,
+        0.2373,
+        0.4683,
+        0.249
+      ],
+      "bbox_absolute": [
+        231,
+        199,
+        279,
+        209
+      ]
+    },
+    {
+      "value": "by",
+      "bbox_relative": [
+        0.4683,
+        0.2354,
+        0.4959,
+        0.2529
+      ],
+      "bbox_absolute": [
+        279,
+        198,
+        295,
+        212
+      ]
+    },
+    {
+      "value": "75%,",
+      "bbox_relative": [
+        0.4945,
+        0.2363,
+        0.5373,
+        0.2529
+      ],
+      "bbox_absolute": [
+        294,
+        198,
+        320,
+        212
+      ]
+    },
+    {
+      "value": "higher",
+      "bbox_relative": [
+        0.54,
+        0.2363,
+        0.5952,
+        0.252
+      ],
+      "bbox_absolute": [
+        321,
+        198,
+        354,
+        212
+      ]
+    },
+    {
+      "value": "than",
+      "bbox_relative": [
+        0.5966,
+        0.2373,
+        0.6366,
+        0.251
+      ],
+      "bbox_absolute": [
+        355,
+        199,
+        379,
+        211
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.638,
+        0.2373,
+        0.6683,
+        0.25
+      ],
+      "bbox_absolute": [
+        380,
+        199,
+        398,
+        210
+      ]
+    },
+    {
+      "value": "city",
+      "bbox_relative": [
+        0.6697,
+        0.2373,
+        0.7042,
+        0.2529
+      ],
+      "bbox_absolute": [
+        399,
+        199,
+        419,
+        212
+      ]
+    },
+    {
+      "value": "average",
+      "bbox_relative": [
+        0.7042,
+        0.2402,
+        0.7704,
+        0.252
+      ],
+      "bbox_absolute": [
+        419,
+        202,
+        459,
+        212
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7718,
+        0.2363,
+        0.7952,
+        0.251
+      ],
+      "bbox_absolute": [
+        459,
+        198,
+        473,
+        211
+      ]
+    },
+    {
+      "value": "73%",
+      "bbox_relative": [
+        0.7952,
+        0.2373,
+        0.8325,
+        0.25
+      ],
+      "bbox_absolute": [
+        473,
+        199,
+        496,
+        210
+      ]
+    },
+    {
+      "value": "while",
+      "bbox_relative": [
+        0.1482,
+        0.2539,
+        0.1965,
+        0.2686
+      ],
+      "bbox_absolute": [
+        88,
+        213,
+        117,
+        226
+      ]
+    },
+    {
+      "value": "prices",
+      "bbox_relative": [
+        0.1979,
+        0.2549,
+        0.2489,
+        0.2705
+      ],
+      "bbox_absolute": [
+        117,
+        214,
+        148,
+        227
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2503,
+        0.2549,
+        0.2696,
+        0.2686
+      ],
+      "bbox_absolute": [
+        149,
+        214,
+        160,
+        226
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.271,
+        0.2549,
+        0.3013,
+        0.2676
+      ],
+      "bbox_absolute": [
+        161,
+        214,
+        179,
+        225
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.3027,
+        0.2559,
+        0.3441,
+        0.2676
+      ],
+      "bbox_absolute": [
+        180,
+        215,
+        205,
+        225
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.3469,
+        0.2559,
+        0.4145,
+        0.2676
+      ],
+      "bbox_absolute": [
+        206,
+        215,
+        247,
+        225
+      ]
+    },
+    {
+      "value": "increased",
+      "bbox_relative": [
+        0.4158,
+        0.2539,
+        0.4986,
+        0.2686
+      ],
+      "bbox_absolute": [
+        247,
+        213,
+        297,
+        226
+      ]
+    },
+    {
+      "value": "by.",
+      "bbox_relative": [
+        0.4986,
+        0.2529,
+        0.5248,
+        0.2715
+      ],
+      "bbox_absolute": [
+        297,
+        212,
+        312,
+        228
+      ]
+    },
+    {
+      "value": "just",
+      "bbox_relative": [
+        0.5221,
+        0.2539,
+        0.5579,
+        0.2705
+      ],
+      "bbox_absolute": [
+        311,
+        213,
+        332,
+        227
+      ]
+    },
+    {
+      "value": "65%.",
+      "bbox_relative": [
+        0.5579,
+        0.2539,
+        0.6021,
+        0.2686
+      ],
+      "bbox_absolute": [
+        332,
+        213,
+        358,
+        226
+      ]
+    },
+    {
+      "value": "In",
+      "bbox_relative": [
+        0.6021,
+        0.2549,
+        0.6228,
+        0.2686
+      ],
+      "bbox_absolute": [
+        358,
+        214,
+        371,
+        226
+      ]
+    },
+    {
+      "value": "addition",
+      "bbox_relative": [
+        0.6242,
+        0.2559,
+        0.6931,
+        0.2676
+      ],
+      "bbox_absolute": [
+        372,
+        215,
+        413,
+        225
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.6945,
+        0.2559,
+        0.7166,
+        0.2686
+      ],
+      "bbox_absolute": [
+        413,
+        215,
+        427,
+        226
+      ]
+    },
+    {
+      "value": "this,",
+      "bbox_relative": [
+        0.7166,
+        0.2549,
+        0.7552,
+        0.2705
+      ],
+      "bbox_absolute": [
+        427,
+        214,
+        450,
+        227
+      ]
+    },
+    {
+      "value": "although",
+      "bbox_relative": [
+        0.7566,
+        0.2539,
+        0.8339,
+        0.2715
+      ],
+      "bbox_absolute": [
+        450,
+        213,
+        496,
+        228
+      ]
+    },
+    {
+      "value": "all",
+      "bbox_relative": [
+        0.1482,
+        0.2715,
+        0.1716,
+        0.2861
+      ],
+      "bbox_absolute": [
+        88,
+        228,
+        102,
+        240
+      ]
+    },
+    {
+      "value": "areas",
+      "bbox_relative": [
+        0.1716,
+        0.2744,
+        0.2199,
+        0.2861
+      ],
+      "bbox_absolute": [
+        102,
+        231,
+        131,
+        240
+      ]
+    },
+    {
+      "value": "experienced",
+      "bbox_relative": [
+        0.2213,
+        0.2725,
+        0.3234,
+        0.2871
+      ],
+      "bbox_absolute": [
+        131,
+        229,
+        192,
+        241
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.3262,
+        0.2734,
+        0.34,
+        0.2861
+      ],
+      "bbox_absolute": [
+        194,
+        230,
+        202,
+        240
+      ]
+    },
+    {
+      "value": "decline",
+      "bbox_relative": [
+        0.34,
+        0.2715,
+        0.4034,
+        0.2861
+      ],
+      "bbox_absolute": [
+        202,
+        228,
+        240,
+        240
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4034,
+        0.2715,
+        0.4227,
+        0.2861
+      ],
+      "bbox_absolute": [
+        240,
+        228,
+        251,
+        240
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4214,
+        0.2715,
+        0.4559,
+        0.2871
+      ],
+      "bbox_absolute": [
+        251,
+        228,
+        271,
+        241
+      ]
+    },
+    {
+      "value": "rate",
+      "bbox_relative": [
+        0.4545,
+        0.2734,
+        0.4945,
+        0.2871
+      ],
+      "bbox_absolute": [
+        270,
+        230,
+        294,
+        241
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.4931,
+        0.2715,
+        0.5152,
+        0.2861
+      ],
+      "bbox_absolute": [
+        293,
+        228,
+        307,
+        240
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.5152,
+        0.2734,
+        0.5911,
+        0.2881
+      ],
+      "bbox_absolute": [
+        307,
+        230,
+        352,
+        242
+      ]
+    },
+    {
+      "value": "turnover",
+      "bbox_relative": [
+        0.5911,
+        0.2744,
+        0.6656,
+        0.2852
+      ],
+      "bbox_absolute": [
+        352,
+        231,
+        396,
+        240
+      ]
+    },
+    {
+      "value": "(number",
+      "bbox_relative": [
+        0.6669,
+        0.2725,
+        0.7414,
+        0.2871
+      ],
+      "bbox_absolute": [
+        397,
+        229,
+        441,
+        241
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7414,
+        0.2715,
+        0.7635,
+        0.2861
+      ],
+      "bbox_absolute": [
+        441,
+        228,
+        455,
+        240
+      ]
+    },
+    {
+      "value": "recorded",
+      "bbox_relative": [
+        0.7635,
+        0.2715,
+        0.8408,
+        0.2861
+      ],
+      "bbox_absolute": [
+        455,
+        228,
+        501,
+        240
+      ]
+    },
+    {
+      "value": "annual",
+      "bbox_relative": [
+        0.1496,
+        0.29,
+        0.2075,
+        0.3018
+      ],
+      "bbox_absolute": [
+        89,
+        244,
+        123,
+        254
+      ]
+    },
+    {
+      "value": "transactions)",
+      "bbox_relative": [
+        0.2089,
+        0.2891,
+        0.3179,
+        0.3037
+      ],
+      "bbox_absolute": [
+        124,
+        243,
+        189,
+        255
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3193,
+        0.2881,
+        0.3524,
+        0.3037
+      ],
+      "bbox_absolute": [
+        190,
+        242,
+        210,
+        255
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.3524,
+        0.291,
+        0.3951,
+        0.3027
+      ],
+      "bbox_absolute": [
+        210,
+        245,
+        235,
+        254
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.3965,
+        0.29,
+        0.4641,
+        0.3018
+      ],
+      "bbox_absolute": [
+        236,
+        244,
+        276,
+        254
+      ]
+    },
+    {
+      "value": "decreased",
+      "bbox_relative": [
+        0.4683,
+        0.29,
+        0.5524,
+        0.3018
+      ],
+      "bbox_absolute": [
+        279,
+        244,
+        329,
+        254
+      ]
+    },
+    {
+      "value": "at",
+      "bbox_relative": [
+        0.5538,
+        0.29,
+        0.5759,
+        0.3027
+      ],
+      "bbox_absolute": [
+        330,
+        244,
+        343,
+        254
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.5759,
+        0.29,
+        0.5897,
+        0.3027
+      ],
+      "bbox_absolute": [
+        343,
+        244,
+        351,
+        254
+      ]
+    },
+    {
+      "value": "faster",
+      "bbox_relative": [
+        0.5897,
+        0.2881,
+        0.6421,
+        0.3027
+      ],
+      "bbox_absolute": [
+        351,
+        242,
+        382,
+        254
+      ]
+    },
+    {
+      "value": "rate",
+      "bbox_relative": [
+        0.6421,
+        0.29,
+        0.6794,
+        0.3027
+      ],
+      "bbox_absolute": [
+        382,
+        244,
+        404,
+        254
+      ]
+    },
+    {
+      "value": "(-62%)",
+      "bbox_relative": [
+        0.6807,
+        0.2891,
+        0.7359,
+        0.3047
+      ],
+      "bbox_absolute": [
+        405,
+        243,
+        438,
+        256
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.7373,
+        0.29,
+        0.758,
+        0.3027
+      ],
+      "bbox_absolute": [
+        439,
+        244,
+        451,
+        254
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.7608,
+        0.2891,
+        0.7966,
+        0.3018
+      ],
+      "bbox_absolute": [
+        453,
+        243,
+        474,
+        254
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7966,
+        0.2881,
+        0.8201,
+        0.3027
+      ],
+      "bbox_absolute": [
+        474,
+        242,
+        488,
+        254
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1482,
+        0.3057,
+        0.1813,
+        0.3213
+      ],
+      "bbox_absolute": [
+        88,
+        257,
+        108,
+        270
+      ]
+    },
+    {
+      "value": "control",
+      "bbox_relative": [
+        0.1813,
+        0.3076,
+        0.242,
+        0.3193
+      ],
+      "bbox_absolute": [
+        108,
+        259,
+        144,
+        268
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.2448,
+        0.3076,
+        0.3124,
+        0.3193
+      ],
+      "bbox_absolute": [
+        145,
+        259,
+        186,
+        268
+      ]
+    },
+    {
+      "value": "(-41%)",
+      "bbox_relative": [
+        0.3151,
+        0.3066,
+        0.3717,
+        0.3223
+      ],
+      "bbox_absolute": [
+        187,
+        258,
+        221,
+        271
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.3731,
+        0.3076,
+        0.4062,
+        0.3203
+      ],
+      "bbox_absolute": [
+        222,
+        259,
+        242,
+        269
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4062,
+        0.3057,
+        0.4393,
+        0.3213
+      ],
+      "bbox_absolute": [
+        242,
+        257,
+        261,
+        270
+      ]
+    },
+    {
+      "value": "wider",
+      "bbox_relative": [
+        0.4407,
+        0.3076,
+        0.489,
+        0.3193
+      ],
+      "bbox_absolute": [
+        262,
+        259,
+        291,
+        268
+      ]
+    },
+    {
+      "value": "urban",
+      "bbox_relative": [
+        0.4917,
+        0.3076,
+        0.5414,
+        0.3193
+      ],
+      "bbox_absolute": [
+        293,
+        259,
+        322,
+        268
+      ]
+    },
+    {
+      "value": "area",
+      "bbox_relative": [
+        0.5428,
+        0.3086,
+        0.5842,
+        0.3203
+      ],
+      "bbox_absolute": [
+        323,
+        259,
+        348,
+        269
+      ]
+    },
+    {
+      "value": "(-53%).",
+      "bbox_relative": [
+        0.5855,
+        0.3066,
+        0.6449,
+        0.3223
+      ],
+      "bbox_absolute": [
+        348,
+        258,
+        384,
+        271
+      ]
+    },
+    {
+      "value": "This",
+      "bbox_relative": [
+        0.6476,
+        0.3076,
+        0.6835,
+        0.3193
+      ],
+      "bbox_absolute": [
+        385,
+        259,
+        407,
+        268
+      ]
+    },
+    {
+      "value": "highlights",
+      "bbox_relative": [
+        0.6849,
+        0.3076,
+        0.7649,
+        0.3223
+      ],
+      "bbox_absolute": [
+        408,
+        259,
+        455,
+        271
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.769,
+        0.3076,
+        0.8049,
+        0.3193
+      ],
+      "bbox_absolute": [
+        458,
+        259,
+        479,
+        268
+      ]
+    },
+    {
+      "value": "there",
+      "bbox_relative": [
+        0.1482,
+        0.3242,
+        0.1979,
+        0.3389
+      ],
+      "bbox_absolute": [
+        88,
+        272,
+        117,
+        285
+      ]
+    },
+    {
+      "value": "is",
+      "bbox_relative": [
+        0.1965,
+        0.3242,
+        0.2158,
+        0.3389
+      ],
+      "bbox_absolute": [
+        117,
+        272,
+        128,
+        285
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.213,
+        0.3252,
+        0.231,
+        0.3398
+      ],
+      "bbox_absolute": [
+        126,
+        273,
+        137,
+        286
+      ]
+    },
+    {
+      "value": "considerably",
+      "bbox_relative": [
+        0.2296,
+        0.3252,
+        0.3358,
+        0.3398
+      ],
+      "bbox_absolute": [
+        136,
+        273,
+        200,
+        286
+      ]
+    },
+    {
+      "value": "lower",
+      "bbox_relative": [
+        0.3372,
+        0.3242,
+        0.3882,
+        0.3389
+      ],
+      "bbox_absolute": [
+        200,
+        272,
+        231,
+        285
+      ]
+    },
+    {
+      "value": "amount",
+      "bbox_relative": [
+        0.3896,
+        0.3262,
+        0.4559,
+        0.3379
+      ],
+      "bbox_absolute": [
+        232,
+        274,
+        271,
+        284
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.4559,
+        0.3242,
+        0.4779,
+        0.3389
+      ],
+      "bbox_absolute": [
+        271,
+        272,
+        284,
+        285
+      ]
+    },
+    {
+      "value": "people",
+      "bbox_relative": [
+        0.4793,
+        0.3252,
+        0.5386,
+        0.3398
+      ],
+      "bbox_absolute": [
+        285,
+        273,
+        321,
+        286
+      ]
+    },
+    {
+      "value": "moving",
+      "bbox_relative": [
+        0.54,
+        0.3252,
+        0.6035,
+        0.3408
+      ],
+      "bbox_absolute": [
+        321,
+        273,
+        359,
+        286
+      ]
+    },
+    {
+      "value": "into",
+      "bbox_relative": [
+        0.6049,
+        0.3252,
+        0.6393,
+        0.3379
+      ],
+      "bbox_absolute": [
+        360,
+        273,
+        381,
+        284
+      ]
+    },
+    {
+      "value": "areas",
+      "bbox_relative": [
+        0.6407,
+        0.3271,
+        0.689,
+        0.3379
+      ],
+      "bbox_absolute": [
+        381,
+        275,
+        410,
+        284
+      ]
+    },
+    {
+      "value": "along",
+      "bbox_relative": [
+        0.6904,
+        0.3252,
+        0.7387,
+        0.3408
+      ],
+      "bbox_absolute": [
+        411,
+        273,
+        440,
+        286
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7387,
+        0.3252,
+        0.7704,
+        0.3379
+      ],
+      "bbox_absolute": [
+        440,
+        273,
+        459,
+        284
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.7718,
+        0.3262,
+        0.8132,
+        0.3379
+      ],
+      "bbox_absolute": [
+        459,
+        274,
+        484,
+        284
+      ]
+    },
+    {
+      "value": "corridor.",
+      "bbox_relative": [
+        0.1482,
+        0.3408,
+        0.2227,
+        0.3555
+      ],
+      "bbox_absolute": [
+        88,
+        286,
+        132,
+        299
+      ]
+    },
+    {
+      "value": "N.ET",
+      "bbox_relative": [
+        0.2586,
+        0.376,
+        0.3013,
+        0.3906
+      ],
+      "bbox_absolute": [
+        154,
+        316,
+        179,
+        328
+      ]
+    },
+    {
+      "value": "Corridor",
+      "bbox_relative": [
+        0.2986,
+        0.376,
+        0.362,
+        0.3906
+      ],
+      "bbox_absolute": [
+        177,
+        316,
+        215,
+        328
+      ]
+    },
+    {
+      "value": "(LRT)",
+      "bbox_relative": [
+        0.3593,
+        0.376,
+        0.3993,
+        0.3916
+      ],
+      "bbox_absolute": [
+        214,
+        316,
+        237,
+        329
+      ]
+    },
+    {
+      "value": "Control",
+      "bbox_relative": [
+        0.4283,
+        0.3779,
+        0.4821,
+        0.3896
+      ],
+      "bbox_absolute": [
+        255,
+        318,
+        287,
+        328
+      ]
+    },
+    {
+      "value": "Corridor",
+      "bbox_relative": [
+        0.4821,
+        0.3779,
+        0.5428,
+        0.3887
+      ],
+      "bbox_absolute": [
+        287,
+        318,
+        323,
+        327
+      ]
+    },
+    {
+      "value": "(Non-LRT)",
+      "bbox_relative": [
+        0.5428,
+        0.377,
+        0.6159,
+        0.3916
+      ],
+      "bbox_absolute": [
+        323,
+        317,
+        367,
+        329
+      ]
+    },
+    {
+      "value": "City",
+      "bbox_relative": [
+        0.6421,
+        0.377,
+        0.678,
+        0.3926
+      ],
+      "bbox_absolute": [
+        382,
+        317,
+        404,
+        330
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.6738,
+        0.376,
+        0.6945,
+        0.3906
+      ],
+      "bbox_absolute": [
+        401,
+        316,
+        413,
+        328
+      ]
+    },
+    {
+      "value": "Nottingham",
+      "bbox_relative": [
+        0.6931,
+        0.377,
+        0.7787,
+        0.3916
+      ],
+      "bbox_absolute": [
+        413,
+        317,
+        464,
+        329
+      ]
+    },
+    {
+      "value": "Average",
+      "bbox_relative": [
+        0.3979,
+        0.3926,
+        0.4586,
+        0.4072
+      ],
+      "bbox_absolute": [
+        237,
+        330,
+        273,
+        342
+      ]
+    },
+    {
+      "value": "Price",
+      "bbox_relative": [
+        0.4586,
+        0.3926,
+        0.4959,
+        0.4053
+      ],
+      "bbox_absolute": [
+        273,
+        330,
+        295,
+        341
+      ]
+    },
+    {
+      "value": "Paid",
+      "bbox_relative": [
+        0.4959,
+        0.3926,
+        0.529,
+        0.4053
+      ],
+      "bbox_absolute": [
+        295,
+        330,
+        315,
+        341
+      ]
+    },
+    {
+      "value": "(É)",
+      "bbox_relative": [
+        0.5276,
+        0.3916,
+        0.5524,
+        0.4062
+      ],
+      "bbox_absolute": [
+        314,
+        329,
+        329,
+        342
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.1758,
+        0.4082,
+        0.213,
+        0.4209
+      ],
+      "bbox_absolute": [
+        104,
+        343,
+        126,
+        354
+      ]
+    },
+    {
+      "value": "62380",
+      "bbox_relative": [
+        0.3069,
+        0.4082,
+        0.3524,
+        0.4199
+      ],
+      "bbox_absolute": [
+        182,
+        343,
+        210,
+        353
+      ]
+    },
+    {
+      "value": "73509",
+      "bbox_relative": [
+        0.4986,
+        0.4082,
+        0.5441,
+        0.4199
+      ],
+      "bbox_absolute": [
+        297,
+        343,
+        324,
+        353
+      ]
+    },
+    {
+      "value": "68026",
+      "bbox_relative": [
+        0.6876,
+        0.4082,
+        0.7345,
+        0.4199
+      ],
+      "bbox_absolute": [
+        409,
+        343,
+        437,
+        353
+      ]
+    },
+    {
+      "value": "2011",
+      "bbox_relative": [
+        0.1758,
+        0.4248,
+        0.2158,
+        0.4385
+      ],
+      "bbox_absolute": [
+        104,
+        357,
+        128,
+        369
+      ]
+    },
+    {
+      "value": "102677",
+      "bbox_relative": [
+        0.3027,
+        0.4248,
+        0.3579,
+        0.4365
+      ],
+      "bbox_absolute": [
+        180,
+        357,
+        213,
+        367
+      ]
+    },
+    {
+      "value": "128366",
+      "bbox_relative": [
+        0.4945,
+        0.4258,
+        0.5497,
+        0.4365
+      ],
+      "bbox_absolute": [
+        294,
+        358,
+        327,
+        367
+      ]
+    },
+    {
+      "value": "118018",
+      "bbox_relative": [
+        0.6849,
+        0.4248,
+        0.7387,
+        0.4365
+      ],
+      "bbox_absolute": [
+        408,
+        357,
+        440,
+        367
+      ]
+    },
+    {
+      "value": "%",
+      "bbox_relative": [
+        0.1565,
+        0.4395,
+        0.1785,
+        0.4531
+      ],
+      "bbox_absolute": [
+        93,
+        370,
+        106,
+        381
+      ]
+    },
+    {
+      "value": "Change",
+      "bbox_relative": [
+        0.1744,
+        0.4395,
+        0.231,
+        0.4551
+      ],
+      "bbox_absolute": [
+        103,
+        370,
+        137,
+        383
+      ]
+    },
+    {
+      "value": "64.60%",
+      "bbox_relative": [
+        0.3027,
+        0.4404,
+        0.3579,
+        0.4521
+      ],
+      "bbox_absolute": [
+        180,
+        370,
+        213,
+        380
+      ]
+    },
+    {
+      "value": "74.63%",
+      "bbox_relative": [
+        0.4917,
+        0.4395,
+        0.551,
+        0.4541
+      ],
+      "bbox_absolute": [
+        293,
+        370,
+        328,
+        382
+      ]
+    },
+    {
+      "value": "73.07%",
+      "bbox_relative": [
+        0.6835,
+        0.4395,
+        0.7414,
+        0.4541
+      ],
+      "bbox_absolute": [
+        407,
+        370,
+        441,
+        382
+      ]
+    },
+    {
+      "value": "Rate",
+      "bbox_relative": [
+        0.2958,
+        0.4561,
+        0.3317,
+        0.4678
+      ],
+      "bbox_absolute": [
+        176,
+        383,
+        197,
+        393
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3303,
+        0.4561,
+        0.351,
+        0.4688
+      ],
+      "bbox_absolute": [
+        196,
+        383,
+        209,
+        394
+      ]
+    },
+    {
+      "value": "Property",
+      "bbox_relative": [
+        0.351,
+        0.457,
+        0.4117,
+        0.4688
+      ],
+      "bbox_absolute": [
+        209,
+        384,
+        245,
+        394
+      ]
+    },
+    {
+      "value": "Turnover",
+      "bbox_relative": [
+        0.4131,
+        0.4561,
+        0.4779,
+        0.4678
+      ],
+      "bbox_absolute": [
+        246,
+        383,
+        284,
+        393
+      ]
+    },
+    {
+      "value": "transactions",
+      "bbox_relative": [
+        0.4793,
+        0.457,
+        0.5704,
+        0.4688
+      ],
+      "bbox_absolute": [
+        285,
+        384,
+        339,
+        394
+      ]
+    },
+    {
+      "value": "per",
+      "bbox_relative": [
+        0.5704,
+        0.457,
+        0.598,
+        0.4697
+      ],
+      "bbox_absolute": [
+        339,
+        384,
+        356,
+        395
+      ]
+    },
+    {
+      "value": "annum)",
+      "bbox_relative": [
+        0.598,
+        0.457,
+        0.6531,
+        0.4688
+      ],
+      "bbox_absolute": [
+        356,
+        384,
+        389,
+        394
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.1758,
+        0.4727,
+        0.2144,
+        0.4844
+      ],
+      "bbox_absolute": [
+        104,
+        397,
+        127,
+        407
+      ]
+    },
+    {
+      "value": "1,175",
+      "bbox_relative": [
+        0.3082,
+        0.4717,
+        0.351,
+        0.4863
+      ],
+      "bbox_absolute": [
+        183,
+        397,
+        209,
+        409
+      ]
+    },
+    {
+      "value": "445",
+      "bbox_relative": [
+        0.5055,
+        0.4717,
+        0.5359,
+        0.4844
+      ],
+      "bbox_absolute": [
+        301,
+        397,
+        319,
+        407
+      ]
+    },
+    {
+      "value": "5,627",
+      "bbox_relative": [
+        0.689,
+        0.4717,
+        0.7345,
+        0.4863
+      ],
+      "bbox_absolute": [
+        410,
+        397,
+        437,
+        409
+      ]
+    },
+    {
+      "value": "2011",
+      "bbox_relative": [
+        0.1758,
+        0.4873,
+        0.2158,
+        0.501
+      ],
+      "bbox_absolute": [
+        104,
+        410,
+        128,
+        421
+      ]
+    },
+    {
+      "value": "441",
+      "bbox_relative": [
+        0.3137,
+        0.4873,
+        0.3441,
+        0.5
+      ],
+      "bbox_absolute": [
+        186,
+        410,
+        205,
+        421
+      ]
+    },
+    {
+      "value": "263",
+      "bbox_relative": [
+        0.5055,
+        0.4883,
+        0.5373,
+        0.5
+      ],
+      "bbox_absolute": [
+        301,
+        411,
+        320,
+        421
+      ]
+    },
+    {
+      "value": "2,637",
+      "bbox_relative": [
+        0.689,
+        0.4873,
+        0.7345,
+        0.502
+      ],
+      "bbox_absolute": [
+        410,
+        410,
+        437,
+        422
+      ]
+    },
+    {
+      "value": "%",
+      "bbox_relative": [
+        0.1578,
+        0.502,
+        0.1785,
+        0.5166
+      ],
+      "bbox_absolute": [
+        94,
+        422,
+        106,
+        434
+      ]
+    },
+    {
+      "value": "Change",
+      "bbox_relative": [
+        0.1744,
+        0.5029,
+        0.231,
+        0.5176
+      ],
+      "bbox_absolute": [
+        103,
+        423,
+        137,
+        435
+      ]
+    },
+    {
+      "value": "-62%",
+      "bbox_relative": [
+        0.3069,
+        0.502,
+        0.351,
+        0.5166
+      ],
+      "bbox_absolute": [
+        182,
+        422,
+        209,
+        434
+      ]
+    },
+    {
+      "value": "-41%",
+      "bbox_relative": [
+        0.4986,
+        0.502,
+        0.5428,
+        0.5166
+      ],
+      "bbox_absolute": [
+        297,
+        422,
+        323,
+        434
+      ]
+    },
+    {
+      "value": "-53%",
+      "bbox_relative": [
+        0.6904,
+        0.502,
+        0.7332,
+        0.5166
+      ],
+      "bbox_absolute": [
+        411,
+        422,
+        436,
+        434
+      ]
+    },
+    {
+      "value": "Table",
+      "bbox_relative": [
+        0.1482,
+        0.5264,
+        0.1882,
+        0.5381
+      ],
+      "bbox_absolute": [
+        88,
+        443,
+        112,
+        453
+      ]
+    },
+    {
+      "value": "3.2",
+      "bbox_relative": [
+        0.1868,
+        0.5264,
+        0.2117,
+        0.5381
+      ],
+      "bbox_absolute": [
+        111,
+        443,
+        126,
+        453
+      ]
+    },
+    {
+      "value": "Change",
+      "bbox_relative": [
+        0.2213,
+        0.5273,
+        0.2696,
+        0.5391
+      ],
+      "bbox_absolute": [
+        131,
+        444,
+        160,
+        453
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2668,
+        0.5254,
+        0.2862,
+        0.5391
+      ],
+      "bbox_absolute": [
+        159,
+        442,
+        170,
+        453
+      ]
+    },
+    {
+      "value": "capital",
+      "bbox_relative": [
+        0.2848,
+        0.5273,
+        0.3275,
+        0.5391
+      ],
+      "bbox_absolute": [
+        169,
+        444,
+        195,
+        453
+      ]
+    },
+    {
+      "value": "indicators",
+      "bbox_relative": [
+        0.3289,
+        0.5264,
+        0.3924,
+        0.5381
+      ],
+      "bbox_absolute": [
+        196,
+        443,
+        233,
+        453
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3896,
+        0.5254,
+        0.4103,
+        0.5381
+      ],
+      "bbox_absolute": [
+        232,
+        442,
+        244,
+        453
+      ]
+    },
+    {
+      "value": "gentrification",
+      "bbox_relative": [
+        0.4089,
+        0.5273,
+        0.4931,
+        0.5391
+      ],
+      "bbox_absolute": [
+        243,
+        444,
+        293,
+        453
+      ]
+    },
+    {
+      "value": "by",
+      "bbox_relative": [
+        0.4931,
+        0.5264,
+        0.5138,
+        0.54
+      ],
+      "bbox_absolute": [
+        293,
+        443,
+        306,
+        454
+      ]
+    },
+    {
+      "value": "study",
+      "bbox_relative": [
+        0.5124,
+        0.5264,
+        0.5497,
+        0.5391
+      ],
+      "bbox_absolute": [
+        305,
+        443,
+        327,
+        453
+      ]
+    },
+    {
+      "value": "area",
+      "bbox_relative": [
+        0.5483,
+        0.5293,
+        0.5786,
+        0.5371
+      ],
+      "bbox_absolute": [
+        326,
+        445,
+        344,
+        452
+      ]
+    },
+    {
+      "value": "Analysing",
+      "bbox_relative": [
+        0.1482,
+        0.5566,
+        0.231,
+        0.5742
+      ],
+      "bbox_absolute": [
+        88,
+        468,
+        137,
+        483
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.231,
+        0.5566,
+        0.2641,
+        0.5723
+      ],
+      "bbox_absolute": [
+        137,
+        468,
+        157,
+        481
+      ]
+    },
+    {
+      "value": "change.",
+      "bbox_relative": [
+        0.2641,
+        0.5576,
+        0.3248,
+        0.5732
+      ],
+      "bbox_absolute": [
+        157,
+        469,
+        193,
+        482
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.3262,
+        0.5566,
+        0.3455,
+        0.5713
+      ],
+      "bbox_absolute": [
+        194,
+        468,
+        205,
+        481
+      ]
+    },
+    {
+      "value": "these",
+      "bbox_relative": [
+        0.3455,
+        0.5566,
+        0.3951,
+        0.5713
+      ],
+      "bbox_absolute": [
+        205,
+        468,
+        235,
+        481
+      ]
+    },
+    {
+      "value": "capital",
+      "bbox_relative": [
+        0.3951,
+        0.5576,
+        0.4531,
+        0.5732
+      ],
+      "bbox_absolute": [
+        235,
+        469,
+        270,
+        482
+      ]
+    },
+    {
+      "value": "indicators",
+      "bbox_relative": [
+        0.4559,
+        0.5586,
+        0.5386,
+        0.5703
+      ],
+      "bbox_absolute": [
+        271,
+        470,
+        321,
+        480
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.54,
+        0.5586,
+        0.5621,
+        0.5713
+      ],
+      "bbox_absolute": [
+        321,
+        470,
+        335,
+        481
+      ]
+    },
+    {
+      "value": "an",
+      "bbox_relative": [
+        0.5607,
+        0.5596,
+        0.5855,
+        0.5713
+      ],
+      "bbox_absolute": [
+        334,
+        471,
+        348,
+        481
+      ]
+    },
+    {
+      "value": "index",
+      "bbox_relative": [
+        0.5855,
+        0.5566,
+        0.6352,
+        0.5713
+      ],
+      "bbox_absolute": [
+        348,
+        468,
+        378,
+        481
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.6352,
+        0.5586,
+        0.6573,
+        0.5713
+      ],
+      "bbox_absolute": [
+        378,
+        470,
+        391,
+        481
+      ]
+    },
+    {
+      "value": "measure",
+      "bbox_relative": [
+        0.6573,
+        0.5596,
+        0.7318,
+        0.5713
+      ],
+      "bbox_absolute": [
+        391,
+        471,
+        436,
+        481
+      ]
+    },
+    {
+      "value": "growth",
+      "bbox_relative": [
+        0.7332,
+        0.5576,
+        0.7952,
+        0.5732
+      ],
+      "bbox_absolute": [
+        436,
+        469,
+        473,
+        482
+      ]
+    },
+    {
+      "value": "annually",
+      "bbox_relative": [
+        0.1482,
+        0.5762,
+        0.2227,
+        0.5908
+      ],
+      "bbox_absolute": [
+        88,
+        485,
+        132,
+        497
+      ]
+    },
+    {
+      "value": "between",
+      "bbox_relative": [
+        0.2241,
+        0.5762,
+        0.2972,
+        0.5879
+      ],
+      "bbox_absolute": [
+        133,
+        485,
+        177,
+        495
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.3,
+        0.5762,
+        0.3427,
+        0.5879
+      ],
+      "bbox_absolute": [
+        178,
+        485,
+        204,
+        495
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.3455,
+        0.5752,
+        0.3772,
+        0.5879
+      ],
+      "bbox_absolute": [
+        205,
+        484,
+        224,
+        495
+      ]
+    },
+    {
+      "value": "2011",
+      "bbox_relative": [
+        0.3814,
+        0.5762,
+        0.4241,
+        0.5879
+      ],
+      "bbox_absolute": [
+        227,
+        485,
+        252,
+        495
+      ]
+    },
+    {
+      "value": "revealed",
+      "bbox_relative": [
+        0.4269,
+        0.5762,
+        0.4986,
+        0.5879
+      ],
+      "bbox_absolute": [
+        254,
+        485,
+        297,
+        495
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.5,
+        0.5762,
+        0.5138,
+        0.5889
+      ],
+      "bbox_absolute": [
+        298,
+        485,
+        306,
+        495
+      ]
+    },
+    {
+      "value": "different",
+      "bbox_relative": [
+        0.5166,
+        0.5762,
+        0.5897,
+        0.5879
+      ],
+      "bbox_absolute": [
+        307,
+        485,
+        351,
+        495
+      ]
+    },
+    {
+      "value": "picture",
+      "bbox_relative": [
+        0.5911,
+        0.5762,
+        0.6531,
+        0.5908
+      ],
+      "bbox_absolute": [
+        352,
+        485,
+        389,
+        497
+      ]
+    },
+    {
+      "value": "however",
+      "bbox_relative": [
+        0.6545,
+        0.5762,
+        0.7276,
+        0.5879
+      ],
+      "bbox_absolute": [
+        390,
+        485,
+        433,
+        495
+      ]
+    },
+    {
+      "value": "(Figure",
+      "bbox_relative": [
+        0.7304,
+        0.5752,
+        0.7897,
+        0.5908
+      ],
+      "bbox_absolute": [
+        435,
+        484,
+        470,
+        497
+      ]
+    },
+    {
+      "value": "3.4).",
+      "bbox_relative": [
+        0.7911,
+        0.5752,
+        0.8311,
+        0.5908
+      ],
+      "bbox_absolute": [
+        471,
+        484,
+        495,
+        497
+      ]
+    },
+    {
+      "value": "It",
+      "bbox_relative": [
+        0.8311,
+        0.5752,
+        0.8504,
+        0.5898
+      ],
+      "bbox_absolute": [
+        495,
+        484,
+        506,
+        496
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.1482,
+        0.5938,
+        0.1854,
+        0.6055
+      ],
+      "bbox_absolute": [
+        88,
+        499,
+        110,
+        509
+      ]
+    },
+    {
+      "value": "discovered",
+      "bbox_relative": [
+        0.1868,
+        0.5928,
+        0.2765,
+        0.6045
+      ],
+      "bbox_absolute": [
+        111,
+        499,
+        164,
+        508
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.2793,
+        0.5928,
+        0.3151,
+        0.6045
+      ],
+      "bbox_absolute": [
+        166,
+        499,
+        187,
+        508
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3165,
+        0.5918,
+        0.3482,
+        0.6045
+      ],
+      "bbox_absolute": [
+        188,
+        498,
+        207,
+        508
+      ]
+    },
+    {
+      "value": "relative",
+      "bbox_relative": [
+        0.3496,
+        0.5928,
+        0.4131,
+        0.6045
+      ],
+      "bbox_absolute": [
+        208,
+        499,
+        246,
+        508
+      ]
+    },
+    {
+      "value": "growth",
+      "bbox_relative": [
+        0.4145,
+        0.5918,
+        0.4765,
+        0.6074
+      ],
+      "bbox_absolute": [
+        247,
+        498,
+        284,
+        511
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4779,
+        0.5918,
+        0.4972,
+        0.6055
+      ],
+      "bbox_absolute": [
+        284,
+        498,
+        296,
+        509
+      ]
+    },
+    {
+      "value": "housing",
+      "bbox_relative": [
+        0.4972,
+        0.5928,
+        0.5648,
+        0.6074
+      ],
+      "bbox_absolute": [
+        296,
+        499,
+        336,
+        511
+      ]
+    },
+    {
+      "value": "value",
+      "bbox_relative": [
+        0.5648,
+        0.5908,
+        0.6145,
+        0.6064
+      ],
+      "bbox_absolute": [
+        336,
+        497,
+        366,
+        510
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.6145,
+        0.5918,
+        0.6338,
+        0.6055
+      ],
+      "bbox_absolute": [
+        366,
+        498,
+        377,
+        509
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6324,
+        0.5908,
+        0.6669,
+        0.6064
+      ],
+      "bbox_absolute": [
+        376,
+        497,
+        397,
+        510
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.6669,
+        0.5928,
+        0.7125,
+        0.6045
+      ],
+      "bbox_absolute": [
+        397,
+        499,
+        424,
+        508
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.7138,
+        0.5908,
+        0.7842,
+        0.6055
+      ],
+      "bbox_absolute": [
+        425,
+        497,
+        467,
+        509
+      ]
+    },
+    {
+      "value": "rose",
+      "bbox_relative": [
+        0.7842,
+        0.5938,
+        0.8228,
+        0.6055
+      ],
+      "bbox_absolute": [
+        467,
+        499,
+        490,
+        509
+      ]
+    },
+    {
+      "value": "slightly",
+      "bbox_relative": [
+        0.1496,
+        0.6104,
+        0.2103,
+        0.625
+      ],
+      "bbox_absolute": [
+        89,
+        513,
+        125,
+        526
+      ]
+    },
+    {
+      "value": "greater",
+      "bbox_relative": [
+        0.2117,
+        0.6113,
+        0.2751,
+        0.626
+      ],
+      "bbox_absolute": [
+        126,
+        514,
+        163,
+        527
+      ]
+    },
+    {
+      "value": "than",
+      "bbox_relative": [
+        0.2765,
+        0.6104,
+        0.3151,
+        0.6221
+      ],
+      "bbox_absolute": [
+        164,
+        513,
+        187,
+        523
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.3179,
+        0.6104,
+        0.3551,
+        0.623
+      ],
+      "bbox_absolute": [
+        189,
+        513,
+        211,
+        524
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3551,
+        0.6094,
+        0.3772,
+        0.623
+      ],
+      "bbox_absolute": [
+        211,
+        513,
+        224,
+        524
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3772,
+        0.6104,
+        0.4076,
+        0.623
+      ],
+      "bbox_absolute": [
+        224,
+        513,
+        242,
+        524
+      ]
+    },
+    {
+      "value": "comparator",
+      "bbox_relative": [
+        0.4103,
+        0.6123,
+        0.5083,
+        0.624
+      ],
+      "bbox_absolute": [
+        244,
+        515,
+        302,
+        525
+      ]
+    },
+    {
+      "value": "areas",
+      "bbox_relative": [
+        0.5097,
+        0.6113,
+        0.5579,
+        0.623
+      ],
+      "bbox_absolute": [
+        303,
+        514,
+        332,
+        524
+      ]
+    },
+    {
+      "value": "during",
+      "bbox_relative": [
+        0.5579,
+        0.6104,
+        0.6145,
+        0.626
+      ],
+      "bbox_absolute": [
+        332,
+        513,
+        366,
+        527
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6145,
+        0.6084,
+        0.6476,
+        0.624
+      ],
+      "bbox_absolute": [
+        366,
+        512,
+        385,
+        525
+      ]
+    },
+    {
+      "value": "pre-scheme",
+      "bbox_relative": [
+        0.649,
+        0.6104,
+        0.7456,
+        0.625
+      ],
+      "bbox_absolute": [
+        386,
+        513,
+        444,
+        526
+      ]
+    },
+    {
+      "value": "phase",
+      "bbox_relative": [
+        0.7483,
+        0.6104,
+        0.8008,
+        0.626
+      ],
+      "bbox_absolute": [
+        446,
+        513,
+        477,
+        527
+      ]
+    },
+    {
+      "value": "between",
+      "bbox_relative": [
+        0.1496,
+        0.627,
+        0.2241,
+        0.6416
+      ],
+      "bbox_absolute": [
+        89,
+        527,
+        133,
+        540
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.2255,
+        0.627,
+        0.271,
+        0.6416
+      ],
+      "bbox_absolute": [
+        134,
+        527,
+        161,
+        540
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.2724,
+        0.6279,
+        0.3041,
+        0.6406
+      ],
+      "bbox_absolute": [
+        162,
+        528,
+        181,
+        539
+      ]
+    },
+    {
+      "value": "2004,",
+      "bbox_relative": [
+        0.3069,
+        0.6279,
+        0.3551,
+        0.6426
+      ],
+      "bbox_absolute": [
+        182,
+        528,
+        211,
+        541
+      ]
+    },
+    {
+      "value": "potentially",
+      "bbox_relative": [
+        0.3579,
+        0.6279,
+        0.4476,
+        0.6426
+      ],
+      "bbox_absolute": [
+        213,
+        528,
+        266,
+        541
+      ]
+    },
+    {
+      "value": "indicating",
+      "bbox_relative": [
+        0.449,
+        0.6279,
+        0.5317,
+        0.6426
+      ],
+      "bbox_absolute": [
+        267,
+        528,
+        316,
+        541
+      ]
+    },
+    {
+      "value": "how",
+      "bbox_relative": [
+        0.5345,
+        0.6279,
+        0.5717,
+        0.6406
+      ],
+      "bbox_absolute": [
+        318,
+        528,
+        340,
+        539
+      ]
+    },
+    {
+      "value": "land",
+      "bbox_relative": [
+        0.5731,
+        0.6279,
+        0.6131,
+        0.6416
+      ],
+      "bbox_absolute": [
+        341,
+        528,
+        365,
+        540
+      ]
+    },
+    {
+      "value": "values",
+      "bbox_relative": [
+        0.6118,
+        0.627,
+        0.6683,
+        0.6416
+      ],
+      "bbox_absolute": [
+        364,
+        527,
+        398,
+        540
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.6697,
+        0.6279,
+        0.7028,
+        0.6406
+      ],
+      "bbox_absolute": [
+        399,
+        528,
+        418,
+        539
+      ]
+    },
+    {
+      "value": "speculation",
+      "bbox_relative": [
+        0.7042,
+        0.627,
+        0.8035,
+        0.6445
+      ],
+      "bbox_absolute": [
+        419,
+        527,
+        478,
+        542
+      ]
+    },
+    {
+      "value": "by",
+      "bbox_relative": [
+        0.8021,
+        0.626,
+        0.8284,
+        0.6445
+      ],
+      "bbox_absolute": [
+        478,
+        527,
+        493,
+        542
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.1496,
+        0.6455,
+        0.2241,
+        0.6602
+      ],
+      "bbox_absolute": [
+        89,
+        543,
+        133,
+        555
+      ]
+    },
+    {
+      "value": "developers",
+      "bbox_relative": [
+        0.2255,
+        0.6445,
+        0.3179,
+        0.6592
+      ],
+      "bbox_absolute": [
+        134,
+        542,
+        189,
+        555
+      ]
+    },
+    {
+      "value": "helped",
+      "bbox_relative": [
+        0.3206,
+        0.6445,
+        0.3786,
+        0.6592
+      ],
+      "bbox_absolute": [
+        191,
+        542,
+        225,
+        555
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.38,
+        0.6455,
+        0.402,
+        0.6582
+      ],
+      "bbox_absolute": [
+        226,
+        543,
+        239,
+        554
+      ]
+    },
+    {
+      "value": "drive",
+      "bbox_relative": [
+        0.402,
+        0.6436,
+        0.4476,
+        0.6582
+      ],
+      "bbox_absolute": [
+        239,
+        541,
+        266,
+        554
+      ]
+    },
+    {
+      "value": "up",
+      "bbox_relative": [
+        0.4476,
+        0.6465,
+        0.4738,
+        0.6602
+      ],
+      "bbox_absolute": [
+        266,
+        544,
+        282,
+        555
+      ]
+    },
+    {
+      "value": "prices",
+      "bbox_relative": [
+        0.4738,
+        0.6445,
+        0.5248,
+        0.6602
+      ],
+      "bbox_absolute": [
+        282,
+        542,
+        312,
+        555
+      ]
+    },
+    {
+      "value": "before",
+      "bbox_relative": [
+        0.5276,
+        0.6436,
+        0.5855,
+        0.6582
+      ],
+      "bbox_absolute": [
+        314,
+        541,
+        348,
+        554
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5842,
+        0.6436,
+        0.6186,
+        0.6592
+      ],
+      "bbox_absolute": [
+        348,
+        541,
+        368,
+        555
+      ]
+    },
+    {
+      "value": "scheme's",
+      "bbox_relative": [
+        0.6173,
+        0.6436,
+        0.6973,
+        0.6582
+      ],
+      "bbox_absolute": [
+        367,
+        541,
+        415,
+        554
+      ]
+    },
+    {
+      "value": "opening",
+      "bbox_relative": [
+        0.6987,
+        0.6445,
+        0.7677,
+        0.6602
+      ],
+      "bbox_absolute": [
+        416,
+        542,
+        457,
+        555
+      ]
+    },
+    {
+      "value": "(CTOD,",
+      "bbox_relative": [
+        0.7677,
+        0.6426,
+        0.8297,
+        0.6611
+      ],
+      "bbox_absolute": [
+        457,
+        541,
+        494,
+        556
+      ]
+    },
+    {
+      "value": "2008).",
+      "bbox_relative": [
+        0.1482,
+        0.6602,
+        0.2061,
+        0.6787
+      ],
+      "bbox_absolute": [
+        88,
+        555,
+        122,
+        571
+      ]
+    },
+    {
+      "value": "After",
+      "bbox_relative": [
+        0.2048,
+        0.6611,
+        0.2517,
+        0.6758
+      ],
+      "bbox_absolute": [
+        122,
+        556,
+        149,
+        569
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2503,
+        0.6611,
+        0.2834,
+        0.6768
+      ],
+      "bbox_absolute": [
+        149,
+        556,
+        168,
+        569
+      ]
+    },
+    {
+      "value": "introduction",
+      "bbox_relative": [
+        0.2848,
+        0.6631,
+        0.3869,
+        0.6748
+      ],
+      "bbox_absolute": [
+        169,
+        558,
+        230,
+        568
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3882,
+        0.6611,
+        0.4103,
+        0.6758
+      ],
+      "bbox_absolute": [
+        231,
+        556,
+        244,
+        569
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.4117,
+        0.6631,
+        0.4586,
+        0.6748
+      ],
+      "bbox_absolute": [
+        245,
+        558,
+        273,
+        568
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4572,
+        0.6611,
+        0.4765,
+        0.6758
+      ],
+      "bbox_absolute": [
+        272,
+        556,
+        284,
+        569
+      ]
+    },
+    {
+      "value": "2004,",
+      "bbox_relative": [
+        0.4779,
+        0.6621,
+        0.5262,
+        0.6768
+      ],
+      "bbox_absolute": [
+        284,
+        557,
+        313,
+        569
+      ]
+    },
+    {
+      "value": "housing",
+      "bbox_relative": [
+        0.5276,
+        0.6621,
+        0.5952,
+        0.6777
+      ],
+      "bbox_absolute": [
+        314,
+        557,
+        354,
+        570
+      ]
+    },
+    {
+      "value": "value",
+      "bbox_relative": [
+        0.5966,
+        0.6611,
+        0.6449,
+        0.6758
+      ],
+      "bbox_absolute": [
+        355,
+        556,
+        384,
+        569
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.6449,
+        0.6621,
+        0.6642,
+        0.6758
+      ],
+      "bbox_absolute": [
+        384,
+        557,
+        395,
+        569
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6656,
+        0.6621,
+        0.6959,
+        0.6748
+      ],
+      "bbox_absolute": [
+        396,
+        557,
+        414,
+        568
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.6973,
+        0.6611,
+        0.7663,
+        0.6758
+      ],
+      "bbox_absolute": [
+        415,
+        556,
+        456,
+        569
+      ]
+    },
+    {
+      "value": "grew",
+      "bbox_relative": [
+        0.7663,
+        0.6641,
+        0.8132,
+        0.6787
+      ],
+      "bbox_absolute": [
+        456,
+        559,
+        484,
+        571
+      ]
+    },
+    {
+      "value": "at",
+      "bbox_relative": [
+        0.8118,
+        0.6631,
+        0.8339,
+        0.6758
+      ],
+      "bbox_absolute": [
+        483,
+        558,
+        496,
+        569
+      ]
+    },
+    {
+      "value": "an",
+      "bbox_relative": [
+        0.1482,
+        0.6816,
+        0.173,
+        0.6943
+      ],
+      "bbox_absolute": [
+        88,
+        573,
+        103,
+        584
+      ]
+    },
+    {
+      "value": "even",
+      "bbox_relative": [
+        0.173,
+        0.6816,
+        0.2172,
+        0.6934
+      ],
+      "bbox_absolute": [
+        103,
+        573,
+        129,
+        583
+      ]
+    },
+    {
+      "value": "more",
+      "bbox_relative": [
+        0.2186,
+        0.6826,
+        0.2655,
+        0.6934
+      ],
+      "bbox_absolute": [
+        130,
+        574,
+        158,
+        583
+      ]
+    },
+    {
+      "value": "substantial",
+      "bbox_relative": [
+        0.2668,
+        0.6807,
+        0.3579,
+        0.6924
+      ],
+      "bbox_absolute": [
+        159,
+        573,
+        213,
+        582
+      ]
+    },
+    {
+      "value": "rate,",
+      "bbox_relative": [
+        0.3593,
+        0.6807,
+        0.402,
+        0.6953
+      ],
+      "bbox_absolute": [
+        214,
+        573,
+        239,
+        585
+      ]
+    },
+    {
+      "value": "potentially",
+      "bbox_relative": [
+        0.4034,
+        0.6807,
+        0.4945,
+        0.6953
+      ],
+      "bbox_absolute": [
+        240,
+        573,
+        294,
+        585
+      ]
+    },
+    {
+      "value": "indicating",
+      "bbox_relative": [
+        0.4945,
+        0.6787,
+        0.58,
+        0.6963
+      ],
+      "bbox_absolute": [
+        294,
+        571,
+        345,
+        586
+      ]
+    },
+    {
+      "value": "how",
+      "bbox_relative": [
+        0.58,
+        0.6807,
+        0.6173,
+        0.6924
+      ],
+      "bbox_absolute": [
+        345,
+        573,
+        367,
+        582
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6186,
+        0.6787,
+        0.6518,
+        0.6943
+      ],
+      "bbox_absolute": [
+        368,
+        571,
+        388,
+        584
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.6518,
+        0.6807,
+        0.7263,
+        0.6953
+      ],
+      "bbox_absolute": [
+        388,
+        573,
+        432,
+        585
+      ]
+    },
+    {
+      "value": "market",
+      "bbox_relative": [
+        0.729,
+        0.6807,
+        0.7883,
+        0.6924
+      ],
+      "bbox_absolute": [
+        434,
+        573,
+        469,
+        582
+      ]
+    },
+    {
+      "value": "responds",
+      "bbox_relative": [
+        0.1496,
+        0.6973,
+        0.2268,
+        0.7119
+      ],
+      "bbox_absolute": [
+        89,
+        587,
+        135,
+        599
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.2282,
+        0.6973,
+        0.2503,
+        0.71
+      ],
+      "bbox_absolute": [
+        136,
+        587,
+        149,
+        597
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2489,
+        0.6953,
+        0.282,
+        0.7109
+      ],
+      "bbox_absolute": [
+        148,
+        585,
+        168,
+        598
+      ]
+    },
+    {
+      "value": "introduction",
+      "bbox_relative": [
+        0.2834,
+        0.6973,
+        0.3855,
+        0.709
+      ],
+      "bbox_absolute": [
+        168,
+        587,
+        229,
+        596
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3882,
+        0.6953,
+        0.4103,
+        0.71
+      ],
+      "bbox_absolute": [
+        231,
+        585,
+        244,
+        597
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4089,
+        0.6953,
+        0.4421,
+        0.7109
+      ],
+      "bbox_absolute": [
+        243,
+        585,
+        263,
+        598
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.4421,
+        0.6982,
+        0.4834,
+        0.71
+      ],
+      "bbox_absolute": [
+        263,
+        587,
+        288,
+        597
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4848,
+        0.6963,
+        0.5041,
+        0.71
+      ],
+      "bbox_absolute": [
+        288,
+        586,
+        300,
+        597
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5041,
+        0.6953,
+        0.5373,
+        0.7109
+      ],
+      "bbox_absolute": [
+        300,
+        585,
+        320,
+        598
+      ]
+    },
+    {
+      "value": "shorter",
+      "bbox_relative": [
+        0.5386,
+        0.6973,
+        0.6007,
+        0.709
+      ],
+      "bbox_absolute": [
+        321,
+        587,
+        358,
+        596
+      ]
+    },
+    {
+      "value": "term.",
+      "bbox_relative": [
+        0.6021,
+        0.6973,
+        0.6476,
+        0.709
+      ],
+      "bbox_absolute": [
+        358,
+        587,
+        385,
+        596
+      ]
+    },
+    {
+      "value": "However,",
+      "bbox_relative": [
+        0.6518,
+        0.6973,
+        0.7332,
+        0.7119
+      ],
+      "bbox_absolute": [
+        388,
+        587,
+        436,
+        599
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.7345,
+        0.6973,
+        0.7759,
+        0.709
+      ],
+      "bbox_absolute": [
+        437,
+        587,
+        462,
+        596
+      ]
+    },
+    {
+      "value": "2006/7",
+      "bbox_relative": [
+        0.7773,
+        0.6943,
+        0.8408,
+        0.7129
+      ],
+      "bbox_absolute": [
+        463,
+        584,
+        501,
+        600
+      ]
+    },
+    {
+      "value": "onwards,",
+      "bbox_relative": [
+        0.1482,
+        0.7148,
+        0.2268,
+        0.7295
+      ],
+      "bbox_absolute": [
+        88,
+        601,
+        135,
+        614
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2296,
+        0.7148,
+        0.2599,
+        0.7275
+      ],
+      "bbox_absolute": [
+        136,
+        601,
+        154,
+        612
+      ]
+    },
+    {
+      "value": "value",
+      "bbox_relative": [
+        0.2599,
+        0.7139,
+        0.3096,
+        0.7285
+      ],
+      "bbox_absolute": [
+        154,
+        601,
+        184,
+        613
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3082,
+        0.7139,
+        0.3317,
+        0.7285
+      ],
+      "bbox_absolute": [
+        183,
+        601,
+        197,
+        613
+      ]
+    },
+    {
+      "value": "housing",
+      "bbox_relative": [
+        0.3303,
+        0.7148,
+        0.3979,
+        0.7295
+      ],
+      "bbox_absolute": [
+        196,
+        601,
+        237,
+        614
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.3993,
+        0.7139,
+        0.4186,
+        0.7285
+      ],
+      "bbox_absolute": [
+        237,
+        601,
+        249,
+        613
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.42,
+        0.7148,
+        0.4503,
+        0.7275
+      ],
+      "bbox_absolute": [
+        250,
+        601,
+        268,
+        612
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.4503,
+        0.7139,
+        0.4986,
+        0.7285
+      ],
+      "bbox_absolute": [
+        268,
+        601,
+        297,
+        613
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.4986,
+        0.7139,
+        0.569,
+        0.7285
+      ],
+      "bbox_absolute": [
+        297,
+        601,
+        339,
+        613
+      ]
+    },
+    {
+      "value": "fell",
+      "bbox_relative": [
+        0.569,
+        0.7139,
+        0.5993,
+        0.7285
+      ],
+      "bbox_absolute": [
+        339,
+        601,
+        357,
+        613
+      ]
+    },
+    {
+      "value": "at",
+      "bbox_relative": [
+        0.598,
+        0.7148,
+        0.62,
+        0.7285
+      ],
+      "bbox_absolute": [
+        356,
+        601,
+        369,
+        613
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.6186,
+        0.7158,
+        0.6324,
+        0.7285
+      ],
+      "bbox_absolute": [
+        368,
+        602,
+        376,
+        613
+      ]
+    },
+    {
+      "value": "considerably",
+      "bbox_relative": [
+        0.6324,
+        0.7148,
+        0.7401,
+        0.7295
+      ],
+      "bbox_absolute": [
+        376,
+        601,
+        441,
+        614
+      ]
+    },
+    {
+      "value": "greater",
+      "bbox_relative": [
+        0.7414,
+        0.7148,
+        0.8049,
+        0.7305
+      ],
+      "bbox_absolute": [
+        441,
+        601,
+        479,
+        615
+      ]
+    },
+    {
+      "value": "rate",
+      "bbox_relative": [
+        0.8063,
+        0.7148,
+        0.8422,
+        0.7275
+      ],
+      "bbox_absolute": [
+        480,
+        601,
+        501,
+        612
+      ]
+    },
+    {
+      "value": "than",
+      "bbox_relative": [
+        0.1482,
+        0.7314,
+        0.191,
+        0.7461
+      ],
+      "bbox_absolute": [
+        88,
+        615,
+        113,
+        628
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.191,
+        0.7324,
+        0.2213,
+        0.7451
+      ],
+      "bbox_absolute": [
+        113,
+        616,
+        131,
+        627
+      ]
+    },
+    {
+      "value": "other",
+      "bbox_relative": [
+        0.2213,
+        0.7314,
+        0.2724,
+        0.7461
+      ],
+      "bbox_absolute": [
+        131,
+        615,
+        162,
+        628
+      ]
+    },
+    {
+      "value": "comparator",
+      "bbox_relative": [
+        0.2724,
+        0.7334,
+        0.3731,
+        0.748
+      ],
+      "bbox_absolute": [
+        162,
+        617,
+        222,
+        629
+      ]
+    },
+    {
+      "value": "areas,",
+      "bbox_relative": [
+        0.3745,
+        0.7354,
+        0.4241,
+        0.7471
+      ],
+      "bbox_absolute": [
+        223,
+        619,
+        252,
+        629
+      ]
+    },
+    {
+      "value": "which",
+      "bbox_relative": [
+        0.4269,
+        0.7314,
+        0.4793,
+        0.7461
+      ],
+      "bbox_absolute": [
+        254,
+        615,
+        285,
+        628
+      ]
+    },
+    {
+      "value": "appeared",
+      "bbox_relative": [
+        0.4793,
+        0.7314,
+        0.5621,
+        0.749
+      ],
+      "bbox_absolute": [
+        285,
+        615,
+        335,
+        630
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.5621,
+        0.7334,
+        0.5842,
+        0.7461
+      ],
+      "bbox_absolute": [
+        335,
+        617,
+        348,
+        628
+      ]
+    },
+    {
+      "value": "remain",
+      "bbox_relative": [
+        0.5855,
+        0.7334,
+        0.6449,
+        0.7451
+      ],
+      "bbox_absolute": [
+        348,
+        617,
+        384,
+        627
+      ]
+    },
+    {
+      "value": "more",
+      "bbox_relative": [
+        0.6462,
+        0.7344,
+        0.6945,
+        0.7451
+      ],
+      "bbox_absolute": [
+        385,
+        618,
+        413,
+        627
+      ]
+    },
+    {
+      "value": "buoyant",
+      "bbox_relative": [
+        0.6959,
+        0.7324,
+        0.7649,
+        0.748
+      ],
+      "bbox_absolute": [
+        414,
+        616,
+        455,
+        629
+      ]
+    },
+    {
+      "value": "during",
+      "bbox_relative": [
+        0.7677,
+        0.7324,
+        0.8228,
+        0.748
+      ],
+      "bbox_absolute": [
+        457,
+        616,
+        490,
+        629
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1482,
+        0.749,
+        0.1799,
+        0.7617
+      ],
+      "bbox_absolute": [
+        88,
+        630,
+        107,
+        641
+      ]
+    },
+    {
+      "value": "economic",
+      "bbox_relative": [
+        0.1813,
+        0.75,
+        0.2627,
+        0.7617
+      ],
+      "bbox_absolute": [
+        108,
+        631,
+        156,
+        641
+      ]
+    },
+    {
+      "value": "recession.",
+      "bbox_relative": [
+        0.2641,
+        0.748,
+        0.3496,
+        0.7627
+      ],
+      "bbox_absolute": [
+        157,
+        629,
+        208,
+        642
+      ]
+    },
+    {
+      "value": "Due",
+      "bbox_relative": [
+        0.3524,
+        0.749,
+        0.3869,
+        0.7617
+      ],
+      "bbox_absolute": [
+        210,
+        630,
+        230,
+        641
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.3882,
+        0.749,
+        0.4103,
+        0.7627
+      ],
+      "bbox_absolute": [
+        231,
+        630,
+        244,
+        642
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4103,
+        0.749,
+        0.4421,
+        0.7617
+      ],
+      "bbox_absolute": [
+        244,
+        630,
+        263,
+        641
+      ]
+    },
+    {
+      "value": "declines",
+      "bbox_relative": [
+        0.4421,
+        0.748,
+        0.5138,
+        0.7627
+      ],
+      "bbox_absolute": [
+        263,
+        629,
+        306,
+        642
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.5138,
+        0.748,
+        0.5331,
+        0.7627
+      ],
+      "bbox_absolute": [
+        306,
+        629,
+        317,
+        642
+      ]
+    },
+    {
+      "value": "growth",
+      "bbox_relative": [
+        0.5331,
+        0.749,
+        0.5952,
+        0.7646
+      ],
+      "bbox_absolute": [
+        317,
+        630,
+        354,
+        643
+      ]
+    },
+    {
+      "value": "over",
+      "bbox_relative": [
+        0.5966,
+        0.751,
+        0.638,
+        0.7627
+      ],
+      "bbox_absolute": [
+        355,
+        632,
+        380,
+        642
+      ]
+    },
+    {
+      "value": "this",
+      "bbox_relative": [
+        0.638,
+        0.749,
+        0.6711,
+        0.7617
+      ],
+      "bbox_absolute": [
+        380,
+        630,
+        399,
+        641
+      ]
+    },
+    {
+      "value": "period,",
+      "bbox_relative": [
+        0.6725,
+        0.749,
+        0.7345,
+        0.7637
+      ],
+      "bbox_absolute": [
+        400,
+        630,
+        437,
+        643
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7345,
+        0.749,
+        0.7663,
+        0.7617
+      ],
+      "bbox_absolute": [
+        437,
+        630,
+        456,
+        641
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.7663,
+        0.748,
+        0.8146,
+        0.7627
+      ],
+      "bbox_absolute": [
+        456,
+        629,
+        485,
+        642
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.1496,
+        0.7656,
+        0.2186,
+        0.7803
+      ],
+      "bbox_absolute": [
+        89,
+        644,
+        130,
+        656
+      ]
+    },
+    {
+      "value": "actually",
+      "bbox_relative": [
+        0.2199,
+        0.7666,
+        0.2862,
+        0.7822
+      ],
+      "bbox_absolute": [
+        131,
+        645,
+        170,
+        658
+      ]
+    },
+    {
+      "value": "ended",
+      "bbox_relative": [
+        0.2889,
+        0.7676,
+        0.3427,
+        0.7793
+      ],
+      "bbox_absolute": [
+        172,
+        646,
+        204,
+        656
+      ]
+    },
+    {
+      "value": "up",
+      "bbox_relative": [
+        0.3441,
+        0.7686,
+        0.3689,
+        0.7822
+      ],
+      "bbox_absolute": [
+        205,
+        647,
+        219,
+        658
+      ]
+    },
+    {
+      "value": "being",
+      "bbox_relative": [
+        0.3689,
+        0.7666,
+        0.4186,
+        0.7822
+      ],
+      "bbox_absolute": [
+        219,
+        645,
+        249,
+        658
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4172,
+        0.7656,
+        0.4503,
+        0.7812
+      ],
+      "bbox_absolute": [
+        248,
+        644,
+        268,
+        657
+      ]
+    },
+    {
+      "value": "lowest",
+      "bbox_relative": [
+        0.4517,
+        0.7676,
+        0.5083,
+        0.7793
+      ],
+      "bbox_absolute": [
+        269,
+        646,
+        302,
+        656
+      ]
+    },
+    {
+      "value": "performer",
+      "bbox_relative": [
+        0.5097,
+        0.7656,
+        0.5993,
+        0.7832
+      ],
+      "bbox_absolute": [
+        303,
+        644,
+        357,
+        659
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.598,
+        0.7666,
+        0.6173,
+        0.7803
+      ],
+      "bbox_absolute": [
+        356,
+        645,
+        367,
+        656
+      ]
+    },
+    {
+      "value": "terms",
+      "bbox_relative": [
+        0.6186,
+        0.7686,
+        0.6683,
+        0.7793
+      ],
+      "bbox_absolute": [
+        368,
+        647,
+        398,
+        656
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.6697,
+        0.7656,
+        0.6931,
+        0.7803
+      ],
+      "bbox_absolute": [
+        399,
+        644,
+        413,
+        656
+      ]
+    },
+    {
+      "value": "overall",
+      "bbox_relative": [
+        0.6918,
+        0.7676,
+        0.7497,
+        0.7793
+      ],
+      "bbox_absolute": [
+        412,
+        646,
+        446,
+        656
+      ]
+    },
+    {
+      "value": "growth",
+      "bbox_relative": [
+        0.7525,
+        0.7666,
+        0.8132,
+        0.7822
+      ],
+      "bbox_absolute": [
+        448,
+        645,
+        484,
+        658
+      ]
+    },
+    {
+      "value": "over",
+      "bbox_relative": [
+        0.1482,
+        0.7861,
+        0.191,
+        0.7979
+      ],
+      "bbox_absolute": [
+        88,
+        661,
+        113,
+        671
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1882,
+        0.7832,
+        0.2227,
+        0.7988
+      ],
+      "bbox_absolute": [
+        112,
+        659,
+        132,
+        672
+      ]
+    },
+    {
+      "value": "ten-year",
+      "bbox_relative": [
+        0.2213,
+        0.7852,
+        0.2958,
+        0.7998
+      ],
+      "bbox_absolute": [
+        131,
+        661,
+        176,
+        673
+      ]
+    },
+    {
+      "value": "period.",
+      "bbox_relative": [
+        0.2958,
+        0.7842,
+        0.3565,
+        0.7998
+      ],
+      "bbox_absolute": [
+        176,
+        660,
+        212,
+        673
+      ]
+    },
+    {
+      "value": "Although.",
+      "bbox_relative": [
+        0.3579,
+        0.7832,
+        0.4379,
+        0.8008
+      ],
+      "bbox_absolute": [
+        213,
+        659,
+        260,
+        674
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4365,
+        0.7832,
+        0.4696,
+        0.7988
+      ],
+      "bbox_absolute": [
+        260,
+        659,
+        279,
+        672
+      ]
+    },
+    {
+      "value": "change",
+      "bbox_relative": [
+        0.4696,
+        0.7842,
+        0.5304,
+        0.7998
+      ],
+      "bbox_absolute": [
+        279,
+        660,
+        316,
+        673
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.5317,
+        0.7842,
+        0.5524,
+        0.7979
+      ],
+      "bbox_absolute": [
+        316,
+        660,
+        329,
+        671
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.551,
+        0.7832,
+        0.5855,
+        0.7988
+      ],
+      "bbox_absolute": [
+        328,
+        659,
+        348,
+        672
+      ]
+    },
+    {
+      "value": "rate",
+      "bbox_relative": [
+        0.5842,
+        0.7852,
+        0.6214,
+        0.7979
+      ],
+      "bbox_absolute": [
+        348,
+        661,
+        370,
+        671
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.6228,
+        0.7832,
+        0.6449,
+        0.7979
+      ],
+      "bbox_absolute": [
+        371,
+        659,
+        384,
+        671
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.6462,
+        0.7871,
+        0.7166,
+        0.7988
+      ],
+      "bbox_absolute": [
+        385,
+        662,
+        427,
+        672
+      ]
+    },
+    {
+      "value": "turnover",
+      "bbox_relative": [
+        0.7207,
+        0.7861,
+        0.7952,
+        0.7969
+      ],
+      "bbox_absolute": [
+        429,
+        661,
+        473,
+        670
+      ]
+    },
+    {
+      "value": "varied",
+      "bbox_relative": [
+        0.1496,
+        0.8018,
+        0.2034,
+        0.8135
+      ],
+      "bbox_absolute": [
+        89,
+        675,
+        121,
+        684
+      ]
+    },
+    {
+      "value": "yearly",
+      "bbox_relative": [
+        0.2034,
+        0.8008,
+        0.2572,
+        0.8164
+      ],
+      "bbox_absolute": [
+        121,
+        674,
+        153,
+        687
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2586,
+        0.8008,
+        0.2779,
+        0.8154
+      ],
+      "bbox_absolute": [
+        154,
+        674,
+        165,
+        686
+      ]
+    },
+    {
+      "value": "each",
+      "bbox_relative": [
+        0.2779,
+        0.8018,
+        0.3193,
+        0.8135
+      ],
+      "bbox_absolute": [
+        165,
+        675,
+        190,
+        684
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3206,
+        0.8008,
+        0.3427,
+        0.8145
+      ],
+      "bbox_absolute": [
+        191,
+        674,
+        204,
+        685
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3413,
+        0.7998,
+        0.3745,
+        0.8154
+      ],
+      "bbox_absolute": [
+        203,
+        673,
+        223,
+        686
+      ]
+    },
+    {
+      "value": "corridors,",
+      "bbox_relative": [
+        0.3745,
+        0.8008,
+        0.4559,
+        0.8154
+      ],
+      "bbox_absolute": [
+        223,
+        674,
+        271,
+        686
+      ]
+    },
+    {
+      "value": "there",
+      "bbox_relative": [
+        0.46,
+        0.8018,
+        0.5041,
+        0.8135
+      ],
+      "bbox_absolute": [
+        274,
+        675,
+        300,
+        684
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.5055,
+        0.8027,
+        0.5428,
+        0.8145
+      ],
+      "bbox_absolute": [
+        301,
+        675,
+        323,
+        685
+      ]
+    },
+    {
+      "value": "an",
+      "bbox_relative": [
+        0.5428,
+        0.8027,
+        0.5676,
+        0.8145
+      ],
+      "bbox_absolute": [
+        323,
+        675,
+        338,
+        685
+      ]
+    },
+    {
+      "value": "overall",
+      "bbox_relative": [
+        0.5676,
+        0.8018,
+        0.6255,
+        0.8135
+      ],
+      "bbox_absolute": [
+        338,
+        675,
+        372,
+        684
+      ]
+    },
+    {
+      "value": "decreasing",
+      "bbox_relative": [
+        0.6283,
+        0.8018,
+        0.718,
+        0.8164
+      ],
+      "bbox_absolute": [
+        374,
+        675,
+        427,
+        687
+      ]
+    },
+    {
+      "value": "trend",
+      "bbox_relative": [
+        0.7221,
+        0.8018,
+        0.7677,
+        0.8135
+      ],
+      "bbox_absolute": [
+        430,
+        675,
+        457,
+        684
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.769,
+        0.8008,
+        0.7994,
+        0.8154
+      ],
+      "bbox_absolute": [
+        458,
+        674,
+        476,
+        686
+      ]
+    },
+    {
+      "value": "each",
+      "bbox_relative": [
+        0.7994,
+        0.8018,
+        0.838,
+        0.8135
+      ],
+      "bbox_absolute": [
+        476,
+        675,
+        499,
+        684
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.1496,
+        0.8193,
+        0.2172,
+        0.8311
+      ],
+      "bbox_absolute": [
+        89,
+        689,
+        129,
+        699
+      ]
+    },
+    {
+      "value": "(Figure",
+      "bbox_relative": [
+        0.2199,
+        0.8193,
+        0.2793,
+        0.834
+      ],
+      "bbox_absolute": [
+        131,
+        689,
+        166,
+        702
+      ]
+    },
+    {
+      "value": "3.5).",
+      "bbox_relative": [
+        0.2806,
+        0.8184,
+        0.322,
+        0.834
+      ],
+      "bbox_absolute": [
+        167,
+        689,
+        191,
+        702
+      ]
+    },
+    {
+      "value": "Property",
+      "bbox_relative": [
+        0.3234,
+        0.8193,
+        0.3979,
+        0.834
+      ],
+      "bbox_absolute": [
+        192,
+        689,
+        237,
+        702
+      ]
+    },
+    {
+      "value": "turnover",
+      "bbox_relative": [
+        0.3993,
+        0.8203,
+        0.4738,
+        0.832
+      ],
+      "bbox_absolute": [
+        237,
+        690,
+        282,
+        700
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.4738,
+        0.8184,
+        0.4931,
+        0.833
+      ],
+      "bbox_absolute": [
+        282,
+        689,
+        293,
+        701
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4931,
+        0.8193,
+        0.5248,
+        0.832
+      ],
+      "bbox_absolute": [
+        293,
+        689,
+        312,
+        700
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.5248,
+        0.8184,
+        0.5731,
+        0.833
+      ],
+      "bbox_absolute": [
+        312,
+        689,
+        341,
+        701
+      ]
+    },
+    {
+      "value": "corridor",
+      "bbox_relative": [
+        0.5745,
+        0.8193,
+        0.6421,
+        0.8311
+      ],
+      "bbox_absolute": [
+        342,
+        689,
+        382,
+        699
+      ]
+    },
+    {
+      "value": "decreased",
+      "bbox_relative": [
+        0.6449,
+        0.8193,
+        0.7304,
+        0.8311
+      ],
+      "bbox_absolute": [
+        384,
+        689,
+        435,
+        699
+      ]
+    },
+    {
+      "value": "marginally",
+      "bbox_relative": [
+        0.7332,
+        0.8193,
+        0.8187,
+        0.834
+      ],
+      "bbox_absolute": [
+        436,
+        689,
+        487,
+        702
+      ]
+    },
+    {
+      "value": "between",
+      "bbox_relative": [
+        0.1496,
+        0.8379,
+        0.2241,
+        0.8496
+      ],
+      "bbox_absolute": [
+        89,
+        705,
+        133,
+        715
+      ]
+    },
+    {
+      "value": "2002",
+      "bbox_relative": [
+        0.2255,
+        0.8359,
+        0.271,
+        0.8506
+      ],
+      "bbox_absolute": [
+        134,
+        703,
+        161,
+        716
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.271,
+        0.8369,
+        0.3055,
+        0.8496
+      ],
+      "bbox_absolute": [
+        161,
+        704,
+        182,
+        715
+      ]
+    },
+    {
+      "value": "2004",
+      "bbox_relative": [
+        0.3055,
+        0.8359,
+        0.351,
+        0.8506
+      ],
+      "bbox_absolute": [
+        182,
+        703,
+        209,
+        716
+      ]
+    },
+    {
+      "value": "possible",
+      "bbox_relative": [
+        0.3524,
+        0.8369,
+        0.4214,
+        0.8516
+      ],
+      "bbox_absolute": [
+        210,
+        704,
+        251,
+        717
+      ]
+    },
+    {
+      "value": "due",
+      "bbox_relative": [
+        0.4241,
+        0.8369,
+        0.4572,
+        0.8496
+      ],
+      "bbox_absolute": [
+        252,
+        704,
+        272,
+        715
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.4572,
+        0.8369,
+        0.4793,
+        0.8506
+      ],
+      "bbox_absolute": [
+        272,
+        704,
+        285,
+        716
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4807,
+        0.8369,
+        0.511,
+        0.8496
+      ],
+      "bbox_absolute": [
+        286,
+        704,
+        304,
+        715
+      ]
+    },
+    {
+      "value": "disruption",
+      "bbox_relative": [
+        0.5138,
+        0.8389,
+        0.5966,
+        0.8506
+      ],
+      "bbox_absolute": [
+        306,
+        706,
+        355,
+        716
+      ]
+    },
+    {
+      "value": "caused",
+      "bbox_relative": [
+        0.5993,
+        0.8359,
+        0.6614,
+        0.8506
+      ],
+      "bbox_absolute": [
+        357,
+        703,
+        394,
+        716
+      ]
+    },
+    {
+      "value": "by",
+      "bbox_relative": [
+        0.6614,
+        0.8369,
+        0.6863,
+        0.8516
+      ],
+      "bbox_absolute": [
+        394,
+        704,
+        409,
+        717
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6863,
+        0.8369,
+        0.7166,
+        0.8496
+      ],
+      "bbox_absolute": [
+        409,
+        704,
+        427,
+        715
+      ]
+    },
+    {
+      "value": "scheme's",
+      "bbox_relative": [
+        0.718,
+        0.8359,
+        0.7966,
+        0.8506
+      ],
+      "bbox_absolute": [
+        427,
+        703,
+        474,
+        716
+      ]
+    },
+    {
+      "value": "construction,",
+      "bbox_relative": [
+        0.1482,
+        0.8535,
+        0.2586,
+        0.8682
+      ],
+      "bbox_absolute": [
+        88,
+        718,
+        154,
+        730
+      ]
+    },
+    {
+      "value": "while",
+      "bbox_relative": [
+        0.2599,
+        0.8525,
+        0.3096,
+        0.8672
+      ],
+      "bbox_absolute": [
+        154,
+        717,
+        184,
+        730
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.311,
+        0.8535,
+        0.3413,
+        0.8662
+      ],
+      "bbox_absolute": [
+        185,
+        718,
+        203,
+        729
+      ]
+    },
+    {
+      "value": "control",
+      "bbox_relative": [
+        0.3413,
+        0.8525,
+        0.4048,
+        0.8672
+      ],
+      "bbox_absolute": [
+        203,
+        717,
+        241,
+        730
+      ]
+    },
+    {
+      "value": "area",
+      "bbox_relative": [
+        0.4034,
+        0.8535,
+        0.4462,
+        0.8682
+      ],
+      "bbox_absolute": [
+        240,
+        718,
+        265,
+        730
+      ]
+    },
+    {
+      "value": "increased",
+      "bbox_relative": [
+        0.4462,
+        0.8545,
+        0.5262,
+        0.8662
+      ],
+      "bbox_absolute": [
+        265,
+        719,
+        313,
+        729
+      ]
+    },
+    {
+      "value": "rapidly.",
+      "bbox_relative": [
+        0.529,
+        0.8516,
+        0.5938,
+        0.8701
+      ],
+      "bbox_absolute": [
+        315,
+        717,
+        353,
+        732
+      ]
+    },
+    {
+      "value": "Interestingly,",
+      "bbox_relative": [
+        0.5952,
+        0.8535,
+        0.7042,
+        0.8682
+      ],
+      "bbox_absolute": [
+        354,
+        718,
+        419,
+        730
+      ]
+    },
+    {
+      "value": "after",
+      "bbox_relative": [
+        0.7056,
+        0.8525,
+        0.7511,
+        0.8672
+      ],
+      "bbox_absolute": [
+        420,
+        717,
+        447,
+        730
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7511,
+        0.8535,
+        0.7814,
+        0.8662
+      ],
+      "bbox_absolute": [
+        447,
+        718,
+        465,
+        729
+      ]
+    },
+    {
+      "value": "beginning",
+      "bbox_relative": [
+        0.1482,
+        0.8701,
+        0.2337,
+        0.8877
+      ],
+      "bbox_absolute": [
+        88,
+        732,
+        139,
+        747
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2337,
+        0.8701,
+        0.2558,
+        0.8848
+      ],
+      "bbox_absolute": [
+        139,
+        732,
+        152,
+        744
+      ]
+    },
+    {
+      "value": "operation",
+      "bbox_relative": [
+        0.2558,
+        0.8721,
+        0.3372,
+        0.8867
+      ],
+      "bbox_absolute": [
+        152,
+        734,
+        200,
+        746
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.3386,
+        0.8701,
+        0.3593,
+        0.8848
+      ],
+      "bbox_absolute": [
+        201,
+        732,
+        214,
+        744
+      ]
+    },
+    {
+      "value": "2004,",
+      "bbox_relative": [
+        0.3593,
+        0.8711,
+        0.4089,
+        0.8867
+      ],
+      "bbox_absolute": [
+        214,
+        733,
+        243,
+        746
+      ]
+    },
+    {
+      "value": "there",
+      "bbox_relative": [
+        0.4117,
+        0.8721,
+        0.4572,
+        0.8838
+      ],
+      "bbox_absolute": [
+        245,
+        734,
+        272,
+        744
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.4586,
+        0.873,
+        0.4945,
+        0.8848
+      ],
+      "bbox_absolute": [
+        273,
+        735,
+        294,
+        744
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.4945,
+        0.873,
+        0.5097,
+        0.8848
+      ],
+      "bbox_absolute": [
+        294,
+        735,
+        303,
+        744
+      ]
+    },
+    {
+      "value": "sharp",
+      "bbox_relative": [
+        0.5097,
+        0.8711,
+        0.5579,
+        0.8867
+      ],
+      "bbox_absolute": [
+        303,
+        733,
+        332,
+        746
+      ]
+    },
+    {
+      "value": "decline",
+      "bbox_relative": [
+        0.5607,
+        0.8721,
+        0.6214,
+        0.8838
+      ],
+      "bbox_absolute": [
+        334,
+        734,
+        370,
+        744
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.6228,
+        0.8711,
+        0.6421,
+        0.8848
+      ],
+      "bbox_absolute": [
+        371,
+        733,
+        382,
+        744
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6421,
+        0.8701,
+        0.6752,
+        0.8857
+      ],
+      "bbox_absolute": [
+        382,
+        732,
+        402,
+        745
+      ]
+    },
+    {
+      "value": "rate",
+      "bbox_relative": [
+        0.6738,
+        0.8721,
+        0.7111,
+        0.8848
+      ],
+      "bbox_absolute": [
+        401,
+        734,
+        423,
+        744
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7111,
+        0.8701,
+        0.7345,
+        0.8848
+      ],
+      "bbox_absolute": [
+        423,
+        732,
+        437,
+        744
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.7332,
+        0.8711,
+        0.8104,
+        0.8887
+      ],
+      "bbox_absolute": [
+        436,
+        733,
+        483,
+        748
+      ]
+    },
+    {
+      "value": "turnover,",
+      "bbox_relative": [
+        0.1482,
+        0.8887,
+        0.2282,
+        0.9033
+      ],
+      "bbox_absolute": [
+        88,
+        748,
+        136,
+        760
+      ]
+    },
+    {
+      "value": "but",
+      "bbox_relative": [
+        0.2296,
+        0.8877,
+        0.2613,
+        0.9004
+      ],
+      "bbox_absolute": [
+        136,
+        747,
+        155,
+        758
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.2627,
+        0.8867,
+        0.3055,
+        0.9014
+      ],
+      "bbox_absolute": [
+        156,
+        746,
+        182,
+        758
+      ]
+    },
+    {
+      "value": "2005",
+      "bbox_relative": [
+        0.3055,
+        0.8867,
+        0.351,
+        0.9014
+      ],
+      "bbox_absolute": [
+        182,
+        746,
+        209,
+        758
+      ]
+    },
+    {
+      "value": "onwards",
+      "bbox_relative": [
+        0.3524,
+        0.8887,
+        0.4255,
+        0.9004
+      ],
+      "bbox_absolute": [
+        210,
+        748,
+        253,
+        758
+      ]
+    },
+    {
+      "value": "this",
+      "bbox_relative": [
+        0.4283,
+        0.8887,
+        0.46,
+        0.9004
+      ],
+      "bbox_absolute": [
+        255,
+        748,
+        274,
+        758
+      ]
+    },
+    {
+      "value": "grew",
+      "bbox_relative": [
+        0.4614,
+        0.8896,
+        0.5069,
+        0.9043
+      ],
+      "bbox_absolute": [
+        274,
+        749,
+        302,
+        761
+      ]
+    },
+    {
+      "value": "rapidly",
+      "bbox_relative": [
+        0.5069,
+        0.8877,
+        0.5676,
+        0.9033
+      ],
+      "bbox_absolute": [
+        302,
+        747,
+        338,
+        760
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.5662,
+        0.8887,
+        0.5883,
+        0.9014
+      ],
+      "bbox_absolute": [
+        337,
+        748,
+        350,
+        758
+      ]
+    },
+    {
+      "value": "almost",
+      "bbox_relative": [
+        0.5911,
+        0.8887,
+        0.6476,
+        0.9004
+      ],
+      "bbox_absolute": [
+        352,
+        748,
+        385,
+        758
+      ]
+    },
+    {
+      "value": "draw",
+      "bbox_relative": [
+        0.649,
+        0.8867,
+        0.6945,
+        0.9014
+      ],
+      "bbox_absolute": [
+        386,
+        746,
+        413,
+        758
+      ]
+    },
+    {
+      "value": "in-line",
+      "bbox_relative": [
+        0.6959,
+        0.8867,
+        0.7511,
+        0.9014
+      ],
+      "bbox_absolute": [
+        414,
+        746,
+        447,
+        758
+      ]
+    },
+    {
+      "value": "with",
+      "bbox_relative": [
+        0.7525,
+        0.8877,
+        0.7897,
+        0.9004
+      ],
+      "bbox_absolute": [
+        448,
+        747,
+        470,
+        758
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.7925,
+        0.8887,
+        0.8297,
+        0.9004
+      ],
+      "bbox_absolute": [
+        472,
+        748,
+        494,
+        758
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>competition-dataset-eu_eu-015_page_1.jpg</filename>
+  <size>
+    <width>3509</width>
+    <height>2480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>242</xmin>
+      <ymin>379</ymin>
+      <xmax>709</xmax>
+      <ymax>1682</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>770</xmin>
+      <ymin>337</ymin>
+      <xmax>1238</xmax>
+      <ymax>1723</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <bndbox>
+      <xmin>1317</xmin>
+      <ymin>337</ymin>
+      <xmax>1784</xmax>
+      <ymax>1723</ymax>
+    </bndbox>
+  </object>
+</annotation>

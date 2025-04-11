@@ -1,0 +1,6169 @@
+{
+  "tokens": [
+    {
+      "value": "obtained",
+      "bbox_relative": [
+        0.1482,
+        0.0869,
+        0.2255,
+        0.1016
+      ],
+      "bbox_absolute": [
+        88,
+        73,
+        134,
+        85
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.2282,
+        0.0879,
+        0.2613,
+        0.1006
+      ],
+      "bbox_absolute": [
+        136,
+        74,
+        155,
+        84
+      ]
+    },
+    {
+      "value": "processed",
+      "bbox_relative": [
+        0.2627,
+        0.0879,
+        0.3469,
+        0.1025
+      ],
+      "bbox_absolute": [
+        156,
+        74,
+        206,
+        86
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.3496,
+        0.0869,
+        0.3772,
+        0.1006
+      ],
+      "bbox_absolute": [
+        208,
+        73,
+        224,
+        84
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3758,
+        0.0859,
+        0.4103,
+        0.1016
+      ],
+      "bbox_absolute": [
+        223,
+        72,
+        244,
+        85
+      ]
+    },
+    {
+      "value": "City",
+      "bbox_relative": [
+        0.4089,
+        0.0869,
+        0.4462,
+        0.1035
+      ],
+      "bbox_absolute": [
+        243,
+        73,
+        265,
+        87
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.4448,
+        0.0869,
+        0.4669,
+        0.1016
+      ],
+      "bbox_absolute": [
+        265,
+        73,
+        278,
+        85
+      ]
+    },
+    {
+      "value": "Nottingham",
+      "bbox_relative": [
+        0.4683,
+        0.0879,
+        0.5662,
+        0.1025
+      ],
+      "bbox_absolute": [
+        279,
+        74,
+        337,
+        86
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.569,
+        0.0879,
+        0.5911,
+        0.1006
+      ],
+      "bbox_absolute": [
+        339,
+        74,
+        352,
+        84
+      ]
+    },
+    {
+      "value": "account",
+      "bbox_relative": [
+        0.5911,
+        0.0889,
+        0.66,
+        0.0996
+      ],
+      "bbox_absolute": [
+        352,
+        74,
+        393,
+        83
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.66,
+        0.0869,
+        0.6904,
+        0.1016
+      ],
+      "bbox_absolute": [
+        393,
+        73,
+        411,
+        85
+      ]
+    },
+    {
+      "value": "manifestations",
+      "bbox_relative": [
+        0.689,
+        0.0869,
+        0.8132,
+        0.1006
+      ],
+      "bbox_absolute": [
+        410,
+        73,
+        484,
+        84
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.8146,
+        0.0869,
+        0.8366,
+        0.1006
+      ],
+      "bbox_absolute": [
+        485,
+        73,
+        498,
+        84
+      ]
+    },
+    {
+      "value": "gentrification",
+      "bbox_relative": [
+        0.1482,
+        0.1045,
+        0.2627,
+        0.1221
+      ],
+      "bbox_absolute": [
+        88,
+        87,
+        156,
+        102
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2613,
+        0.1045,
+        0.2834,
+        0.1191
+      ],
+      "bbox_absolute": [
+        155,
+        87,
+        168,
+        100
+      ]
+    },
+    {
+      "value": "apta/production-based",
+      "bbox_relative": [
+        0.2848,
+        0.1055,
+        0.4917,
+        0.1201
+      ],
+      "bbox_absolute": [
+        169,
+        88,
+        293,
+        101
+      ]
+    },
+    {
+      "value": "changes",
+      "bbox_relative": [
+        0.4945,
+        0.1055,
+        0.5648,
+        0.1201
+      ],
+      "bbox_absolute": [
+        294,
+        88,
+        336,
+        101
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.5648,
+        0.1064,
+        0.5869,
+        0.1191
+      ],
+      "bbox_absolute": [
+        336,
+        89,
+        349,
+        100
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5869,
+        0.1055,
+        0.6186,
+        0.1182
+      ],
+      "bbox_absolute": [
+        349,
+        88,
+        368,
+        99
+      ]
+    },
+    {
+      "value": "housing",
+      "bbox_relative": [
+        0.62,
+        0.1055,
+        0.6863,
+        0.1201
+      ],
+      "bbox_absolute": [
+        369,
+        88,
+        409,
+        101
+      ]
+    },
+    {
+      "value": "stock.",
+      "bbox_relative": [
+        0.6876,
+        0.1045,
+        0.7387,
+        0.1191
+      ],
+      "bbox_absolute": [
+        409,
+        87,
+        440,
+        100
+      ]
+    },
+    {
+      "value": "There",
+      "bbox_relative": [
+        0.1482,
+        0.1387,
+        0.2006,
+        0.1533
+      ],
+      "bbox_absolute": [
+        88,
+        116,
+        119,
+        129
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.2006,
+        0.1416,
+        0.2365,
+        0.1533
+      ],
+      "bbox_absolute": [
+        119,
+        119,
+        140,
+        129
+      ]
+    },
+    {
+      "value": "also",
+      "bbox_relative": [
+        0.2379,
+        0.1396,
+        0.2724,
+        0.1523
+      ],
+      "bbox_absolute": [
+        141,
+        117,
+        162,
+        128
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2751,
+        0.1396,
+        0.3055,
+        0.1523
+      ],
+      "bbox_absolute": [
+        163,
+        117,
+        182,
+        128
+      ]
+    },
+    {
+      "value": "need",
+      "bbox_relative": [
+        0.3055,
+        0.1387,
+        0.351,
+        0.1533
+      ],
+      "bbox_absolute": [
+        182,
+        116,
+        209,
+        129
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.351,
+        0.1396,
+        0.3731,
+        0.1533
+      ],
+      "bbox_absolute": [
+        209,
+        117,
+        222,
+        129
+      ]
+    },
+    {
+      "value": "consider",
+      "bbox_relative": [
+        0.3745,
+        0.1387,
+        0.4476,
+        0.1533
+      ],
+      "bbox_absolute": [
+        223,
+        116,
+        266,
+        129
+      ]
+    },
+    {
+      "value": "more",
+      "bbox_relative": [
+        0.4476,
+        0.1416,
+        0.4959,
+        0.1533
+      ],
+      "bbox_absolute": [
+        266,
+        119,
+        295,
+        129
+      ]
+    },
+    {
+      "value": "demographic",
+      "bbox_relative": [
+        0.4972,
+        0.1396,
+        0.6076,
+        0.1543
+      ],
+      "bbox_absolute": [
+        296,
+        117,
+        362,
+        129
+      ]
+    },
+    {
+      "value": "aspects",
+      "bbox_relative": [
+        0.609,
+        0.1406,
+        0.6738,
+        0.1553
+      ],
+      "bbox_absolute": [
+        362,
+        118,
+        401,
+        130
+      ]
+    },
+    {
+      "value": "associated",
+      "bbox_relative": [
+        0.6752,
+        0.1406,
+        0.7621,
+        0.1523
+      ],
+      "bbox_absolute": [
+        402,
+        118,
+        454,
+        128
+      ]
+    },
+    {
+      "value": "with",
+      "bbox_relative": [
+        0.7649,
+        0.1396,
+        0.8049,
+        0.1533
+      ],
+      "bbox_absolute": [
+        455,
+        117,
+        479,
+        129
+      ]
+    },
+    {
+      "value": "gentrification",
+      "bbox_relative": [
+        0.1482,
+        0.1562,
+        0.2613,
+        0.1738
+      ],
+      "bbox_absolute": [
+        88,
+        131,
+        155,
+        146
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.2641,
+        0.1582,
+        0.3,
+        0.1709
+      ],
+      "bbox_absolute": [
+        157,
+        133,
+        178,
+        143
+      ]
+    },
+    {
+      "value": "can",
+      "bbox_relative": [
+        0.3013,
+        0.1592,
+        0.3344,
+        0.1709
+      ],
+      "bbox_absolute": [
+        179,
+        134,
+        199,
+        143
+      ]
+    },
+    {
+      "value": "be",
+      "bbox_relative": [
+        0.3344,
+        0.1572,
+        0.3593,
+        0.1709
+      ],
+      "bbox_absolute": [
+        199,
+        132,
+        214,
+        143
+      ]
+    },
+    {
+      "value": "indicated",
+      "bbox_relative": [
+        0.3607,
+        0.1582,
+        0.4379,
+        0.1699
+      ],
+      "bbox_absolute": [
+        214,
+        133,
+        260,
+        143
+      ]
+    },
+    {
+      "value": "through",
+      "bbox_relative": [
+        0.4407,
+        0.1572,
+        0.5083,
+        0.1729
+      ],
+      "bbox_absolute": [
+        262,
+        132,
+        302,
+        145
+      ]
+    },
+    {
+      "value": "changes",
+      "bbox_relative": [
+        0.5097,
+        0.1572,
+        0.5814,
+        0.1738
+      ],
+      "bbox_absolute": [
+        303,
+        132,
+        346,
+        146
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.58,
+        0.1572,
+        0.5993,
+        0.1709
+      ],
+      "bbox_absolute": [
+        345,
+        132,
+        357,
+        143
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6007,
+        0.1572,
+        0.6311,
+        0.1699
+      ],
+      "bbox_absolute": [
+        358,
+        132,
+        376,
+        143
+      ]
+    },
+    {
+      "value": "socio-economic",
+      "bbox_relative": [
+        0.6324,
+        0.1572,
+        0.7649,
+        0.1709
+      ],
+      "bbox_absolute": [
+        376,
+        132,
+        455,
+        143
+      ]
+    },
+    {
+      "value": "composition",
+      "bbox_relative": [
+        0.1496,
+        0.1748,
+        0.253,
+        0.1895
+      ],
+      "bbox_absolute": [
+        89,
+        147,
+        150,
+        159
+      ]
+    },
+    {
+      "value": "reflecting",
+      "bbox_relative": [
+        0.2544,
+        0.1729,
+        0.3372,
+        0.1904
+      ],
+      "bbox_absolute": [
+        151,
+        145,
+        200,
+        160
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3358,
+        0.1729,
+        0.3689,
+        0.1885
+      ],
+      "bbox_absolute": [
+        200,
+        145,
+        219,
+        158
+      ]
+    },
+    {
+      "value": "changing",
+      "bbox_relative": [
+        0.3689,
+        0.1748,
+        0.4448,
+        0.1895
+      ],
+      "bbox_absolute": [
+        219,
+        147,
+        265,
+        159
+      ]
+    },
+    {
+      "value": "preferences",
+      "bbox_relative": [
+        0.4462,
+        0.1729,
+        0.5497,
+        0.1904
+      ],
+      "bbox_absolute": [
+        265,
+        145,
+        327,
+        160
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.5483,
+        0.1729,
+        0.5842,
+        0.1885
+      ],
+      "bbox_absolute": [
+        326,
+        145,
+        348,
+        158
+      ]
+    },
+    {
+      "value": "tastes",
+      "bbox_relative": [
+        0.5855,
+        0.1748,
+        0.6352,
+        0.1865
+      ],
+      "bbox_absolute": [
+        348,
+        147,
+        378,
+        157
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.6366,
+        0.1729,
+        0.66,
+        0.1875
+      ],
+      "bbox_absolute": [
+        379,
+        145,
+        393,
+        157
+      ]
+    },
+    {
+      "value": "consumers",
+      "bbox_relative": [
+        0.66,
+        0.1758,
+        0.7511,
+        0.1865
+      ],
+      "bbox_absolute": [
+        393,
+        148,
+        447,
+        157
+      ]
+    },
+    {
+      "value": "over",
+      "bbox_relative": [
+        0.7511,
+        0.1758,
+        0.7939,
+        0.1875
+      ],
+      "bbox_absolute": [
+        447,
+        148,
+        473,
+        157
+      ]
+    },
+    {
+      "value": "time",
+      "bbox_relative": [
+        0.7939,
+        0.1748,
+        0.8339,
+        0.1865
+      ],
+      "bbox_absolute": [
+        473,
+        147,
+        496,
+        157
+      ]
+    },
+    {
+      "value": "(Ley,",
+      "bbox_relative": [
+        0.1482,
+        0.1895,
+        0.1923,
+        0.209
+      ],
+      "bbox_absolute": [
+        88,
+        159,
+        114,
+        175
+      ]
+    },
+    {
+      "value": "1980).",
+      "bbox_relative": [
+        0.1937,
+        0.1914,
+        0.2475,
+        0.207
+      ],
+      "bbox_absolute": [
+        115,
+        161,
+        147,
+        174
+      ]
+    },
+    {
+      "value": "Data",
+      "bbox_relative": [
+        0.2503,
+        0.1924,
+        0.2889,
+        0.2041
+      ],
+      "bbox_absolute": [
+        149,
+        161,
+        172,
+        171
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.2903,
+        0.1934,
+        0.3275,
+        0.2051
+      ],
+      "bbox_absolute": [
+        173,
+        162,
+        195,
+        172
+      ]
+    },
+    {
+      "value": "obtained",
+      "bbox_relative": [
+        0.3289,
+        0.1924,
+        0.4034,
+        0.2041
+      ],
+      "bbox_absolute": [
+        196,
+        161,
+        240,
+        171
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.4048,
+        0.1904,
+        0.449,
+        0.2051
+      ],
+      "bbox_absolute": [
+        241,
+        160,
+        267,
+        172
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.449,
+        0.1904,
+        0.4821,
+        0.2061
+      ],
+      "bbox_absolute": [
+        267,
+        160,
+        287,
+        173
+      ]
+    },
+    {
+      "value": "census",
+      "bbox_relative": [
+        0.4821,
+        0.1934,
+        0.54,
+        0.2051
+      ],
+      "bbox_absolute": [
+        287,
+        162,
+        321,
+        172
+      ]
+    },
+    {
+      "value": "points",
+      "bbox_relative": [
+        0.5428,
+        0.1924,
+        0.5952,
+        0.207
+      ],
+      "bbox_absolute": [
+        323,
+        161,
+        354,
+        174
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.598,
+        0.1924,
+        0.6338,
+        0.2041
+      ],
+      "bbox_absolute": [
+        356,
+        161,
+        377,
+        171
+      ]
+    },
+    {
+      "value": "included",
+      "bbox_relative": [
+        0.638,
+        0.1924,
+        0.7069,
+        0.2041
+      ],
+      "bbox_absolute": [
+        380,
+        161,
+        421,
+        171
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7097,
+        0.1924,
+        0.7401,
+        0.2051
+      ],
+      "bbox_absolute": [
+        422,
+        161,
+        441,
+        172
+      ]
+    },
+    {
+      "value": "level",
+      "bbox_relative": [
+        0.7428,
+        0.1924,
+        0.7828,
+        0.2041
+      ],
+      "bbox_absolute": [
+        442,
+        161,
+        466,
+        171
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7842,
+        0.1914,
+        0.8063,
+        0.2051
+      ],
+      "bbox_absolute": [
+        467,
+        161,
+        480,
+        172
+      ]
+    },
+    {
+      "value": "higher",
+      "bbox_relative": [
+        0.1496,
+        0.209,
+        0.2061,
+        0.2236
+      ],
+      "bbox_absolute": [
+        89,
+        175,
+        122,
+        188
+      ]
+    },
+    {
+      "value": "educational",
+      "bbox_relative": [
+        0.2075,
+        0.209,
+        0.3041,
+        0.2207
+      ],
+      "bbox_absolute": [
+        123,
+        175,
+        181,
+        185
+      ]
+    },
+    {
+      "value": "attainment",
+      "bbox_relative": [
+        0.3069,
+        0.209,
+        0.4007,
+        0.2207
+      ],
+      "bbox_absolute": [
+        182,
+        175,
+        238,
+        185
+      ]
+    },
+    {
+      "value": "(level",
+      "bbox_relative": [
+        0.402,
+        0.208,
+        0.449,
+        0.2236
+      ],
+      "bbox_absolute": [
+        239,
+        175,
+        267,
+        188
+      ]
+    },
+    {
+      "value": "4),",
+      "bbox_relative": [
+        0.449,
+        0.207,
+        0.4765,
+        0.2246
+      ],
+      "bbox_absolute": [
+        267,
+        174,
+        284,
+        189
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4752,
+        0.207,
+        0.5097,
+        0.2227
+      ],
+      "bbox_absolute": [
+        283,
+        174,
+        303,
+        187
+      ]
+    },
+    {
+      "value": "proportion",
+      "bbox_relative": [
+        0.5083,
+        0.208,
+        0.6007,
+        0.2256
+      ],
+      "bbox_absolute": [
+        302,
+        175,
+        358,
+        189
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.6021,
+        0.208,
+        0.6242,
+        0.2217
+      ],
+      "bbox_absolute": [
+        358,
+        175,
+        372,
+        186
+      ]
+    },
+    {
+      "value": "higher",
+      "bbox_relative": [
+        0.6228,
+        0.209,
+        0.6794,
+        0.2236
+      ],
+      "bbox_absolute": [
+        371,
+        175,
+        404,
+        188
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.6807,
+        0.209,
+        0.7138,
+        0.2207
+      ],
+      "bbox_absolute": [
+        405,
+        175,
+        425,
+        185
+      ]
+    },
+    {
+      "value": "lower",
+      "bbox_relative": [
+        0.7166,
+        0.209,
+        0.7649,
+        0.2207
+      ],
+      "bbox_absolute": [
+        427,
+        175,
+        455,
+        185
+      ]
+    },
+    {
+      "value": "managerial",
+      "bbox_relative": [
+        0.1482,
+        0.2256,
+        0.2448,
+        0.2432
+      ],
+      "bbox_absolute": [
+        88,
+        189,
+        145,
+        204
+      ]
+    },
+    {
+      "value": "occupations",
+      "bbox_relative": [
+        0.2448,
+        0.2266,
+        0.3455,
+        0.2412
+      ],
+      "bbox_absolute": [
+        145,
+        190,
+        205,
+        203
+      ]
+    },
+    {
+      "value": "(NS-Sec)",
+      "bbox_relative": [
+        0.3469,
+        0.2246,
+        0.4214,
+        0.2422
+      ],
+      "bbox_absolute": [
+        206,
+        189,
+        251,
+        203
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.42,
+        0.2266,
+        0.4545,
+        0.2393
+      ],
+      "bbox_absolute": [
+        250,
+        190,
+        270,
+        201
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.4545,
+        0.2246,
+        0.4876,
+        0.2402
+      ],
+      "bbox_absolute": [
+        270,
+        189,
+        290,
+        202
+      ]
+    },
+    {
+      "value": "degree",
+      "bbox_relative": [
+        0.4876,
+        0.2266,
+        0.5483,
+        0.2412
+      ],
+      "bbox_absolute": [
+        290,
+        190,
+        326,
+        203
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.5483,
+        0.2256,
+        0.5717,
+        0.2402
+      ],
+      "bbox_absolute": [
+        326,
+        189,
+        340,
+        202
+      ]
+    },
+    {
+      "value": "owner-occupied",
+      "bbox_relative": [
+        0.5717,
+        0.2266,
+        0.7056,
+        0.2412
+      ],
+      "bbox_absolute": [
+        340,
+        190,
+        420,
+        203
+      ]
+    },
+    {
+      "value": "housing",
+      "bbox_relative": [
+        0.7083,
+        0.2266,
+        0.7759,
+        0.2412
+      ],
+      "bbox_absolute": [
+        422,
+        190,
+        462,
+        203
+      ]
+    },
+    {
+      "value": "(OCC).",
+      "bbox_relative": [
+        0.7759,
+        0.2246,
+        0.8325,
+        0.2432
+      ],
+      "bbox_absolute": [
+        462,
+        189,
+        496,
+        204
+      ]
+    },
+    {
+      "value": "A",
+      "bbox_relative": [
+        0.8297,
+        0.2256,
+        0.8504,
+        0.2402
+      ],
+      "bbox_absolute": [
+        494,
+        189,
+        506,
+        202
+      ]
+    },
+    {
+      "value": "list",
+      "bbox_relative": [
+        0.1468,
+        0.2422,
+        0.1785,
+        0.2588
+      ],
+      "bbox_absolute": [
+        87,
+        203,
+        106,
+        217
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.1772,
+        0.2432,
+        0.1992,
+        0.2578
+      ],
+      "bbox_absolute": [
+        105,
+        204,
+        118,
+        217
+      ]
+    },
+    {
+      "value": "all",
+      "bbox_relative": [
+        0.1979,
+        0.2432,
+        0.2227,
+        0.2578
+      ],
+      "bbox_absolute": [
+        117,
+        204,
+        132,
+        217
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2213,
+        0.2432,
+        0.2434,
+        0.2578
+      ],
+      "bbox_absolute": [
+        131,
+        204,
+        145,
+        217
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2434,
+        0.2441,
+        0.2751,
+        0.2568
+      ],
+      "bbox_absolute": [
+        145,
+        205,
+        163,
+        216
+      ]
+    },
+    {
+      "value": "capital",
+      "bbox_relative": [
+        0.2751,
+        0.2441,
+        0.3331,
+        0.2598
+      ],
+      "bbox_absolute": [
+        163,
+        205,
+        198,
+        218
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.3344,
+        0.2441,
+        0.3676,
+        0.2568
+      ],
+      "bbox_absolute": [
+        199,
+        205,
+        219,
+        216
+      ]
+    },
+    {
+      "value": "socio-economic",
+      "bbox_relative": [
+        0.3689,
+        0.2441,
+        0.5,
+        0.2578
+      ],
+      "bbox_absolute": [
+        219,
+        205,
+        298,
+        217
+      ]
+    },
+    {
+      "value": "variables",
+      "bbox_relative": [
+        0.5014,
+        0.2432,
+        0.5786,
+        0.2578
+      ],
+      "bbox_absolute": [
+        298,
+        204,
+        344,
+        217
+      ]
+    },
+    {
+      "value": "used",
+      "bbox_relative": [
+        0.5786,
+        0.2432,
+        0.6214,
+        0.2578
+      ],
+      "bbox_absolute": [
+        344,
+        204,
+        370,
+        217
+      ]
+    },
+    {
+      "value": "are",
+      "bbox_relative": [
+        0.6228,
+        0.2461,
+        0.6531,
+        0.2578
+      ],
+      "bbox_absolute": [
+        371,
+        207,
+        389,
+        217
+      ]
+    },
+    {
+      "value": "outlined",
+      "bbox_relative": [
+        0.6531,
+        0.2432,
+        0.7263,
+        0.2578
+      ],
+      "bbox_absolute": [
+        389,
+        204,
+        432,
+        217
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.7263,
+        0.2432,
+        0.7456,
+        0.2578
+      ],
+      "bbox_absolute": [
+        432,
+        204,
+        444,
+        217
+      ]
+    },
+    {
+      "value": "Table",
+      "bbox_relative": [
+        0.7456,
+        0.2432,
+        0.7952,
+        0.2578
+      ],
+      "bbox_absolute": [
+        444,
+        204,
+        473,
+        217
+      ]
+    },
+    {
+      "value": "2.1",
+      "bbox_relative": [
+        0.7939,
+        0.2432,
+        0.827,
+        0.2588
+      ],
+      "bbox_absolute": [
+        473,
+        204,
+        492,
+        217
+      ]
+    },
+    {
+      "value": "below.",
+      "bbox_relative": [
+        0.1482,
+        0.2598,
+        0.2075,
+        0.2744
+      ],
+      "bbox_absolute": [
+        88,
+        218,
+        123,
+        231
+      ]
+    },
+    {
+      "value": "All",
+      "bbox_relative": [
+        0.2061,
+        0.2588,
+        0.2351,
+        0.2754
+      ],
+      "bbox_absolute": [
+        122,
+        217,
+        140,
+        231
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2337,
+        0.2598,
+        0.2572,
+        0.2744
+      ],
+      "bbox_absolute": [
+        139,
+        218,
+        153,
+        231
+      ]
+    },
+    {
+      "value": "these",
+      "bbox_relative": [
+        0.2544,
+        0.2598,
+        0.3055,
+        0.2744
+      ],
+      "bbox_absolute": [
+        151,
+        218,
+        182,
+        231
+      ]
+    },
+    {
+      "value": "datasets",
+      "bbox_relative": [
+        0.3041,
+        0.2598,
+        0.3786,
+        0.2744
+      ],
+      "bbox_absolute": [
+        181,
+        218,
+        225,
+        231
+      ]
+    },
+    {
+      "value": "were",
+      "bbox_relative": [
+        0.3786,
+        0.2627,
+        0.4241,
+        0.2744
+      ],
+      "bbox_absolute": [
+        225,
+        221,
+        252,
+        231
+      ]
+    },
+    {
+      "value": "obtained",
+      "bbox_relative": [
+        0.4241,
+        0.2598,
+        0.5014,
+        0.2744
+      ],
+      "bbox_absolute": [
+        252,
+        218,
+        298,
+        231
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.5,
+        0.2588,
+        0.5317,
+        0.2754
+      ],
+      "bbox_absolute": [
+        298,
+        217,
+        316,
+        231
+      ]
+    },
+    {
+      "value": "each",
+      "bbox_relative": [
+        0.5304,
+        0.2598,
+        0.5731,
+        0.2744
+      ],
+      "bbox_absolute": [
+        316,
+        218,
+        341,
+        231
+      ]
+    },
+    {
+      "value": "census",
+      "bbox_relative": [
+        0.5745,
+        0.2637,
+        0.6324,
+        0.2744
+      ],
+      "bbox_absolute": [
+        342,
+        222,
+        376,
+        231
+      ]
+    },
+    {
+      "value": "point",
+      "bbox_relative": [
+        0.6338,
+        0.2607,
+        0.6807,
+        0.2764
+      ],
+      "bbox_absolute": [
+        377,
+        219,
+        405,
+        232
+      ]
+    },
+    {
+      "value": "2001",
+      "bbox_relative": [
+        0.6821,
+        0.2617,
+        0.7249,
+        0.2734
+      ],
+      "bbox_absolute": [
+        406,
+        220,
+        432,
+        230
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.7276,
+        0.2607,
+        0.7608,
+        0.2734
+      ],
+      "bbox_absolute": [
+        433,
+        219,
+        453,
+        230
+      ]
+    },
+    {
+      "value": "2011",
+      "bbox_relative": [
+        0.7635,
+        0.2617,
+        0.8049,
+        0.2734
+      ],
+      "bbox_absolute": [
+        455,
+        220,
+        479,
+        230
+      ]
+    },
+    {
+      "value": "allowing",
+      "bbox_relative": [
+        0.1496,
+        0.2783,
+        0.2213,
+        0.2949
+      ],
+      "bbox_absolute": [
+        89,
+        234,
+        131,
+        248
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.2213,
+        0.2803,
+        0.2351,
+        0.292
+      ],
+      "bbox_absolute": [
+        131,
+        235,
+        140,
+        245
+      ]
+    },
+    {
+      "value": "value",
+      "bbox_relative": [
+        0.2365,
+        0.2793,
+        0.2834,
+        0.291
+      ],
+      "bbox_absolute": [
+        140,
+        235,
+        168,
+        245
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2834,
+        0.2783,
+        0.3069,
+        0.292
+      ],
+      "bbox_absolute": [
+        168,
+        234,
+        182,
+        245
+      ]
+    },
+    {
+      "value": "relative",
+      "bbox_relative": [
+        0.3069,
+        0.2793,
+        0.3703,
+        0.291
+      ],
+      "bbox_absolute": [
+        182,
+        235,
+        220,
+        245
+      ]
+    },
+    {
+      "value": "or",
+      "bbox_relative": [
+        0.3717,
+        0.2812,
+        0.3938,
+        0.292
+      ],
+      "bbox_absolute": [
+        221,
+        236,
+        234,
+        245
+      ]
+    },
+    {
+      "value": "percentage",
+      "bbox_relative": [
+        0.3951,
+        0.2793,
+        0.4903,
+        0.2939
+      ],
+      "bbox_absolute": [
+        235,
+        235,
+        292,
+        247
+      ]
+    },
+    {
+      "value": "change",
+      "bbox_relative": [
+        0.4917,
+        0.2783,
+        0.5538,
+        0.2939
+      ],
+      "bbox_absolute": [
+        293,
+        234,
+        330,
+        247
+      ]
+    },
+    {
+      "value": "(%)",
+      "bbox_relative": [
+        0.5538,
+        0.2773,
+        0.5855,
+        0.2949
+      ],
+      "bbox_absolute": [
+        330,
+        233,
+        348,
+        248
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.5842,
+        0.2793,
+        0.6076,
+        0.292
+      ],
+      "bbox_absolute": [
+        348,
+        235,
+        362,
+        245
+      ]
+    },
+    {
+      "value": "be",
+      "bbox_relative": [
+        0.6076,
+        0.2783,
+        0.6324,
+        0.292
+      ],
+      "bbox_absolute": [
+        362,
+        234,
+        376,
+        245
+      ]
+    },
+    {
+      "value": "calculated.",
+      "bbox_relative": [
+        0.6338,
+        0.2793,
+        0.7221,
+        0.291
+      ],
+      "bbox_absolute": [
+        377,
+        235,
+        430,
+        245
+      ]
+    },
+    {
+      "value": "The",
+      "bbox_relative": [
+        0.7249,
+        0.2793,
+        0.7594,
+        0.291
+      ],
+      "bbox_absolute": [
+        432,
+        235,
+        452,
+        245
+      ]
+    },
+    {
+      "value": "median",
+      "bbox_relative": [
+        0.7608,
+        0.2793,
+        0.8228,
+        0.291
+      ],
+      "bbox_absolute": [
+        453,
+        235,
+        490,
+        245
+      ]
+    },
+    {
+      "value": "house",
+      "bbox_relative": [
+        0.1482,
+        0.2959,
+        0.2034,
+        0.3105
+      ],
+      "bbox_absolute": [
+        88,
+        249,
+        121,
+        261
+      ]
+    },
+    {
+      "value": "price",
+      "bbox_relative": [
+        0.2034,
+        0.2959,
+        0.2475,
+        0.3125
+      ],
+      "bbox_absolute": [
+        121,
+        249,
+        147,
+        263
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.2489,
+        0.2969,
+        0.282,
+        0.3096
+      ],
+      "bbox_absolute": [
+        148,
+        249,
+        168,
+        260
+      ]
+    },
+    {
+      "value": "land-registry",
+      "bbox_relative": [
+        0.2848,
+        0.2969,
+        0.3896,
+        0.3115
+      ],
+      "bbox_absolute": [
+        169,
+        249,
+        232,
+        262
+      ]
+    },
+    {
+      "value": "data",
+      "bbox_relative": [
+        0.3924,
+        0.2969,
+        0.4324,
+        0.3105
+      ],
+      "bbox_absolute": [
+        233,
+        249,
+        257,
+        261
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.431,
+        0.2979,
+        0.4683,
+        0.3096
+      ],
+      "bbox_absolute": [
+        256,
+        250,
+        279,
+        260
+      ]
+    },
+    {
+      "value": "available",
+      "bbox_relative": [
+        0.4696,
+        0.2969,
+        0.5441,
+        0.3086
+      ],
+      "bbox_absolute": [
+        279,
+        249,
+        324,
+        259
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.5441,
+        0.2939,
+        0.5759,
+        0.3105
+      ],
+      "bbox_absolute": [
+        324,
+        247,
+        343,
+        261
+      ]
+    },
+    {
+      "value": "every",
+      "bbox_relative": [
+        0.5731,
+        0.2979,
+        0.6242,
+        0.3125
+      ],
+      "bbox_absolute": [
+        341,
+        250,
+        372,
+        263
+      ]
+    },
+    {
+      "value": "consecutive",
+      "bbox_relative": [
+        0.6242,
+        0.2969,
+        0.7235,
+        0.3086
+      ],
+      "bbox_absolute": [
+        372,
+        249,
+        431,
+        259
+      ]
+    },
+    {
+      "value": "year",
+      "bbox_relative": [
+        0.7263,
+        0.2988,
+        0.7663,
+        0.3125
+      ],
+      "bbox_absolute": [
+        432,
+        251,
+        456,
+        263
+      ]
+    },
+    {
+      "value": "between",
+      "bbox_relative": [
+        0.7663,
+        0.2969,
+        0.8394,
+        0.3086
+      ],
+      "bbox_absolute": [
+        456,
+        249,
+        500,
+        259
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1496,
+        0.3135,
+        0.1799,
+        0.3262
+      ],
+      "bbox_absolute": [
+        89,
+        263,
+        107,
+        274
+      ]
+    },
+    {
+      "value": "census",
+      "bbox_relative": [
+        0.1813,
+        0.3154,
+        0.2392,
+        0.3262
+      ],
+      "bbox_absolute": [
+        108,
+        265,
+        142,
+        274
+      ]
+    },
+    {
+      "value": "dates",
+      "bbox_relative": [
+        0.242,
+        0.3135,
+        0.2889,
+        0.3252
+      ],
+      "bbox_absolute": [
+        144,
+        263,
+        172,
+        273
+      ]
+    },
+    {
+      "value": "which",
+      "bbox_relative": [
+        0.2903,
+        0.3125,
+        0.3427,
+        0.3271
+      ],
+      "bbox_absolute": [
+        173,
+        263,
+        204,
+        275
+      ]
+    },
+    {
+      "value": "provided",
+      "bbox_relative": [
+        0.3441,
+        0.3135,
+        0.42,
+        0.3281
+      ],
+      "bbox_absolute": [
+        205,
+        263,
+        250,
+        276
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.42,
+        0.3145,
+        0.4352,
+        0.3262
+      ],
+      "bbox_absolute": [
+        250,
+        264,
+        259,
+        274
+      ]
+    },
+    {
+      "value": "considerable",
+      "bbox_relative": [
+        0.4365,
+        0.3135,
+        0.5414,
+        0.3252
+      ],
+      "bbox_absolute": [
+        260,
+        263,
+        322,
+        273
+      ]
+    },
+    {
+      "value": "level",
+      "bbox_relative": [
+        0.5428,
+        0.3125,
+        0.5869,
+        0.3271
+      ],
+      "bbox_absolute": [
+        323,
+        263,
+        349,
+        275
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.5855,
+        0.3125,
+        0.609,
+        0.3262
+      ],
+      "bbox_absolute": [
+        348,
+        263,
+        362,
+        274
+      ]
+    },
+    {
+      "value": "additional",
+      "bbox_relative": [
+        0.609,
+        0.3135,
+        0.6918,
+        0.3252
+      ],
+      "bbox_absolute": [
+        362,
+        263,
+        412,
+        273
+      ]
+    },
+    {
+      "value": "clarity",
+      "bbox_relative": [
+        0.6959,
+        0.3135,
+        0.7483,
+        0.3281
+      ],
+      "bbox_absolute": [
+        414,
+        263,
+        446,
+        276
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.7483,
+        0.3135,
+        0.7704,
+        0.3271
+      ],
+      "bbox_absolute": [
+        446,
+        263,
+        459,
+        275
+      ]
+    },
+    {
+      "value": "some",
+      "bbox_relative": [
+        0.7704,
+        0.3154,
+        0.8187,
+        0.3262
+      ],
+      "bbox_absolute": [
+        459,
+        265,
+        487,
+        274
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.8201,
+        0.3125,
+        0.8422,
+        0.3262
+      ],
+      "bbox_absolute": [
+        488,
+        263,
+        501,
+        274
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1482,
+        0.3311,
+        0.1799,
+        0.3438
+      ],
+      "bbox_absolute": [
+        88,
+        278,
+        107,
+        289
+      ]
+    },
+    {
+      "value": "shorter-term",
+      "bbox_relative": [
+        0.1827,
+        0.332,
+        0.2903,
+        0.3447
+      ],
+      "bbox_absolute": [
+        108,
+        279,
+        173,
+        290
+      ]
+    },
+    {
+      "value": "impacts",
+      "bbox_relative": [
+        0.2917,
+        0.3311,
+        0.3593,
+        0.3467
+      ],
+      "bbox_absolute": [
+        173,
+        278,
+        214,
+        291
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3593,
+        0.3301,
+        0.3814,
+        0.3447
+      ],
+      "bbox_absolute": [
+        214,
+        277,
+        227,
+        290
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3814,
+        0.3311,
+        0.4117,
+        0.3438
+      ],
+      "bbox_absolute": [
+        227,
+        278,
+        245,
+        289
+      ]
+    },
+    {
+      "value": "tram",
+      "bbox_relative": [
+        0.4131,
+        0.332,
+        0.4545,
+        0.3438
+      ],
+      "bbox_absolute": [
+        246,
+        279,
+        270,
+        289
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.4572,
+        0.3311,
+        0.4903,
+        0.3438
+      ],
+      "bbox_absolute": [
+        272,
+        278,
+        292,
+        289
+      ]
+    },
+    {
+      "value": "significantly",
+      "bbox_relative": [
+        0.4931,
+        0.3311,
+        0.5924,
+        0.3457
+      ],
+      "bbox_absolute": [
+        293,
+        278,
+        353,
+        291
+      ]
+    },
+    {
+      "value": "changed",
+      "bbox_relative": [
+        0.5938,
+        0.3311,
+        0.6642,
+        0.3457
+      ],
+      "bbox_absolute": [
+        353,
+        278,
+        395,
+        291
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6669,
+        0.3311,
+        0.6973,
+        0.3438
+      ],
+      "bbox_absolute": [
+        397,
+        278,
+        415,
+        289
+      ]
+    },
+    {
+      "value": "overall",
+      "bbox_relative": [
+        0.6987,
+        0.3301,
+        0.758,
+        0.3447
+      ],
+      "bbox_absolute": [
+        416,
+        277,
+        451,
+        290
+      ]
+    },
+    {
+      "value": "conclusions",
+      "bbox_relative": [
+        0.151,
+        0.3496,
+        0.2461,
+        0.3613
+      ],
+      "bbox_absolute": [
+        89,
+        294,
+        146,
+        304
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2475,
+        0.3477,
+        0.2696,
+        0.3623
+      ],
+      "bbox_absolute": [
+        147,
+        292,
+        160,
+        305
+      ]
+    },
+    {
+      "value": "this",
+      "bbox_relative": [
+        0.2696,
+        0.3486,
+        0.3027,
+        0.3613
+      ],
+      "bbox_absolute": [
+        160,
+        293,
+        180,
+        304
+      ]
+    },
+    {
+      "value": "study.",
+      "bbox_relative": [
+        0.3041,
+        0.3486,
+        0.3565,
+        0.3643
+      ],
+      "bbox_absolute": [
+        181,
+        293,
+        212,
+        306
+      ]
+    },
+    {
+      "value": "Gentrification",
+      "bbox_relative": [
+        0.1496,
+        0.3828,
+        0.2655,
+        0.3965
+      ],
+      "bbox_absolute": [
+        89,
+        322,
+        158,
+        333
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.2655,
+        0.3848,
+        0.3027,
+        0.3965
+      ],
+      "bbox_absolute": [
+        158,
+        323,
+        180,
+        333
+      ]
+    },
+    {
+      "value": "determined",
+      "bbox_relative": [
+        0.3041,
+        0.3838,
+        0.4007,
+        0.3955
+      ],
+      "bbox_absolute": [
+        181,
+        323,
+        238,
+        333
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.402,
+        0.3838,
+        0.4241,
+        0.3965
+      ],
+      "bbox_absolute": [
+        239,
+        323,
+        252,
+        333
+      ]
+    },
+    {
+      "value": "be",
+      "bbox_relative": [
+        0.4241,
+        0.3828,
+        0.4503,
+        0.3965
+      ],
+      "bbox_absolute": [
+        252,
+        322,
+        268,
+        333
+      ]
+    },
+    {
+      "value": "occurring",
+      "bbox_relative": [
+        0.4503,
+        0.3838,
+        0.5304,
+        0.3984
+      ],
+      "bbox_absolute": [
+        268,
+        323,
+        316,
+        335
+      ]
+    },
+    {
+      "value": "when",
+      "bbox_relative": [
+        0.5331,
+        0.3838,
+        0.58,
+        0.3955
+      ],
+      "bbox_absolute": [
+        317,
+        323,
+        345,
+        333
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5814,
+        0.3818,
+        0.6145,
+        0.3975
+      ],
+      "bbox_absolute": [
+        346,
+        321,
+        366,
+        334
+      ]
+    },
+    {
+      "value": "percentage",
+      "bbox_relative": [
+        0.6159,
+        0.3857,
+        0.7083,
+        0.3975
+      ],
+      "bbox_absolute": [
+        367,
+        324,
+        422,
+        334
+      ]
+    },
+    {
+      "value": "growth",
+      "bbox_relative": [
+        0.7097,
+        0.3838,
+        0.7718,
+        0.3984
+      ],
+      "bbox_absolute": [
+        422,
+        323,
+        459,
+        335
+      ]
+    },
+    {
+      "value": "figure",
+      "bbox_relative": [
+        0.7745,
+        0.3828,
+        0.8242,
+        0.3984
+      ],
+      "bbox_absolute": [
+        461,
+        322,
+        491,
+        335
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.1482,
+        0.4004,
+        0.1785,
+        0.415
+      ],
+      "bbox_absolute": [
+        88,
+        337,
+        106,
+        349
+      ]
+    },
+    {
+      "value": "most",
+      "bbox_relative": [
+        0.1772,
+        0.4023,
+        0.2227,
+        0.4141
+      ],
+      "bbox_absolute": [
+        105,
+        338,
+        132,
+        348
+      ]
+    },
+    {
+      "value": "indicators",
+      "bbox_relative": [
+        0.2241,
+        0.4014,
+        0.3069,
+        0.4131
+      ],
+      "bbox_absolute": [
+        133,
+        337,
+        182,
+        347
+      ]
+    },
+    {
+      "value": "within",
+      "bbox_relative": [
+        0.3096,
+        0.4014,
+        0.362,
+        0.4131
+      ],
+      "bbox_absolute": [
+        184,
+        337,
+        215,
+        347
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.3634,
+        0.4014,
+        0.3951,
+        0.4141
+      ],
+      "bbox_absolute": [
+        216,
+        337,
+        235,
+        348
+      ]
+    },
+    {
+      "value": "census",
+      "bbox_relative": [
+        0.3965,
+        0.4033,
+        0.4545,
+        0.4141
+      ],
+      "bbox_absolute": [
+        236,
+        339,
+        270,
+        348
+      ]
+    },
+    {
+      "value": "zone",
+      "bbox_relative": [
+        0.4559,
+        0.4033,
+        0.4986,
+        0.4141
+      ],
+      "bbox_absolute": [
+        271,
+        339,
+        297,
+        348
+      ]
+    },
+    {
+      "value": "were",
+      "bbox_relative": [
+        0.5,
+        0.4023,
+        0.5441,
+        0.4141
+      ],
+      "bbox_absolute": [
+        298,
+        338,
+        324,
+        348
+      ]
+    },
+    {
+      "value": "higher",
+      "bbox_relative": [
+        0.5455,
+        0.4014,
+        0.6021,
+        0.417
+      ],
+      "bbox_absolute": [
+        325,
+        337,
+        358,
+        351
+      ]
+    },
+    {
+      "value": "than",
+      "bbox_relative": [
+        0.6035,
+        0.4014,
+        0.6421,
+        0.4131
+      ],
+      "bbox_absolute": [
+        359,
+        337,
+        382,
+        347
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6449,
+        0.4014,
+        0.6752,
+        0.4141
+      ],
+      "bbox_absolute": [
+        384,
+        337,
+        402,
+        348
+      ]
+    },
+    {
+      "value": "total",
+      "bbox_relative": [
+        0.6752,
+        0.3994,
+        0.718,
+        0.415
+      ],
+      "bbox_absolute": [
+        402,
+        336,
+        427,
+        349
+      ]
+    },
+    {
+      "value": "percentage",
+      "bbox_relative": [
+        0.718,
+        0.4004,
+        0.8159,
+        0.418
+      ],
+      "bbox_absolute": [
+        427,
+        337,
+        486,
+        351
+      ]
+    },
+    {
+      "value": "change",
+      "bbox_relative": [
+        0.1482,
+        0.416,
+        0.213,
+        0.4346
+      ],
+      "bbox_absolute": [
+        88,
+        350,
+        126,
+        365
+      ]
+    },
+    {
+      "value": "figure",
+      "bbox_relative": [
+        0.2117,
+        0.416,
+        0.2655,
+        0.4346
+      ],
+      "bbox_absolute": [
+        126,
+        350,
+        158,
+        365
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.2641,
+        0.417,
+        0.2944,
+        0.4316
+      ],
+      "bbox_absolute": [
+        157,
+        351,
+        175,
+        363
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2931,
+        0.418,
+        0.3234,
+        0.4307
+      ],
+      "bbox_absolute": [
+        174,
+        351,
+        192,
+        362
+      ]
+    },
+    {
+      "value": "wider",
+      "bbox_relative": [
+        0.3262,
+        0.418,
+        0.3745,
+        0.4297
+      ],
+      "bbox_absolute": [
+        194,
+        351,
+        223,
+        361
+      ]
+    },
+    {
+      "value": "urban",
+      "bbox_relative": [
+        0.3772,
+        0.418,
+        0.4269,
+        0.4297
+      ],
+      "bbox_absolute": [
+        224,
+        351,
+        254,
+        361
+      ]
+    },
+    {
+      "value": "area",
+      "bbox_relative": [
+        0.4283,
+        0.4199,
+        0.4696,
+        0.4307
+      ],
+      "bbox_absolute": [
+        255,
+        353,
+        279,
+        362
+      ]
+    },
+    {
+      "value": "over",
+      "bbox_relative": [
+        0.4683,
+        0.4189,
+        0.511,
+        0.4307
+      ],
+      "bbox_absolute": [
+        279,
+        352,
+        304,
+        362
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.5097,
+        0.418,
+        0.5414,
+        0.4307
+      ],
+      "bbox_absolute": [
+        303,
+        351,
+        322,
+        362
+      ]
+    },
+    {
+      "value": "same",
+      "bbox_relative": [
+        0.5428,
+        0.4199,
+        0.5897,
+        0.4307
+      ],
+      "bbox_absolute": [
+        323,
+        353,
+        351,
+        362
+      ]
+    },
+    {
+      "value": "period",
+      "bbox_relative": [
+        0.5911,
+        0.417,
+        0.6476,
+        0.4326
+      ],
+      "bbox_absolute": [
+        352,
+        351,
+        385,
+        364
+      ]
+    },
+    {
+      "value": "(Nesbitt,",
+      "bbox_relative": [
+        0.6476,
+        0.416,
+        0.7221,
+        0.4336
+      ],
+      "bbox_absolute": [
+        385,
+        350,
+        430,
+        365
+      ]
+    },
+    {
+      "value": "2005).",
+      "bbox_relative": [
+        0.7235,
+        0.417,
+        0.7787,
+        0.4326
+      ],
+      "bbox_absolute": [
+        431,
+        351,
+        464,
+        364
+      ]
+    },
+    {
+      "value": "The",
+      "bbox_relative": [
+        0.7787,
+        0.416,
+        0.8146,
+        0.4316
+      ],
+      "bbox_absolute": [
+        464,
+        350,
+        485,
+        363
+      ]
+    },
+    {
+      "value": "full",
+      "bbox_relative": [
+        0.8159,
+        0.417,
+        0.8463,
+        0.4316
+      ],
+      "bbox_absolute": [
+        486,
+        351,
+        504,
+        363
+      ]
+    },
+    {
+      "value": "impact",
+      "bbox_relative": [
+        0.1496,
+        0.4355,
+        0.2089,
+        0.4512
+      ],
+      "bbox_absolute": [
+        89,
+        366,
+        124,
+        379
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2089,
+        0.4346,
+        0.2323,
+        0.4492
+      ],
+      "bbox_absolute": [
+        124,
+        365,
+        138,
+        378
+      ]
+    },
+    {
+      "value": "light",
+      "bbox_relative": [
+        0.2296,
+        0.4346,
+        0.271,
+        0.4512
+      ],
+      "bbox_absolute": [
+        136,
+        365,
+        161,
+        379
+      ]
+    },
+    {
+      "value": "rail",
+      "bbox_relative": [
+        0.2696,
+        0.4346,
+        0.3027,
+        0.4502
+      ],
+      "bbox_absolute": [
+        160,
+        365,
+        180,
+        379
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.3013,
+        0.4346,
+        0.3206,
+        0.4492
+      ],
+      "bbox_absolute": [
+        179,
+        365,
+        191,
+        378
+      ]
+    },
+    {
+      "value": "regenerating",
+      "bbox_relative": [
+        0.322,
+        0.4355,
+        0.4296,
+        0.4502
+      ],
+      "bbox_absolute": [
+        191,
+        366,
+        256,
+        379
+      ]
+    },
+    {
+      "value": "deprived",
+      "bbox_relative": [
+        0.431,
+        0.4346,
+        0.5069,
+        0.4521
+      ],
+      "bbox_absolute": [
+        256,
+        365,
+        302,
+        380
+      ]
+    },
+    {
+      "value": "areas",
+      "bbox_relative": [
+        0.5069,
+        0.4375,
+        0.5552,
+        0.4482
+      ],
+      "bbox_absolute": [
+        302,
+        368,
+        330,
+        377
+      ]
+    },
+    {
+      "value": "could",
+      "bbox_relative": [
+        0.5579,
+        0.4355,
+        0.6035,
+        0.4473
+      ],
+      "bbox_absolute": [
+        332,
+        366,
+        359,
+        376
+      ]
+    },
+    {
+      "value": "take",
+      "bbox_relative": [
+        0.6062,
+        0.4355,
+        0.6462,
+        0.4492
+      ],
+      "bbox_absolute": [
+        361,
+        366,
+        385,
+        378
+      ]
+    },
+    {
+      "value": "several",
+      "bbox_relative": [
+        0.6462,
+        0.4355,
+        0.7069,
+        0.4473
+      ],
+      "bbox_absolute": [
+        385,
+        366,
+        421,
+        376
+      ]
+    },
+    {
+      "value": "years",
+      "bbox_relative": [
+        0.7083,
+        0.4365,
+        0.7566,
+        0.4512
+      ],
+      "bbox_absolute": [
+        422,
+        367,
+        450,
+        379
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.758,
+        0.4375,
+        0.7773,
+        0.4473
+      ],
+      "bbox_absolute": [
+        451,
+        368,
+        463,
+        376
+      ]
+    },
+    {
+      "value": "achieve",
+      "bbox_relative": [
+        0.7787,
+        0.4346,
+        0.8435,
+        0.4492
+      ],
+      "bbox_absolute": [
+        464,
+        365,
+        502,
+        378
+      ]
+    },
+    {
+      "value": "(NAO,",
+      "bbox_relative": [
+        0.1496,
+        0.4531,
+        0.2006,
+        0.4688
+      ],
+      "bbox_absolute": [
+        89,
+        381,
+        119,
+        394
+      ]
+    },
+    {
+      "value": "2004)-",
+      "bbox_relative": [
+        0.2034,
+        0.4531,
+        0.2572,
+        0.4688
+      ],
+      "bbox_absolute": [
+        121,
+        381,
+        153,
+        394
+      ]
+    },
+    {
+      "value": "Therefore,",
+      "bbox_relative": [
+        0.2599,
+        0.4531,
+        0.3482,
+        0.4678
+      ],
+      "bbox_absolute": [
+        154,
+        381,
+        207,
+        393
+      ]
+    },
+    {
+      "value": "accounting",
+      "bbox_relative": [
+        0.3496,
+        0.4531,
+        0.4421,
+        0.4678
+      ],
+      "bbox_absolute": [
+        208,
+        381,
+        263,
+        393
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.4421,
+        0.4512,
+        0.4738,
+        0.4678
+      ],
+      "bbox_absolute": [
+        263,
+        379,
+        282,
+        393
+      ]
+    },
+    {
+      "value": "time-based",
+      "bbox_relative": [
+        0.4724,
+        0.4521,
+        0.5676,
+        0.4668
+      ],
+      "bbox_absolute": [
+        281,
+        380,
+        338,
+        393
+      ]
+    },
+    {
+      "value": "constraints",
+      "bbox_relative": [
+        0.5704,
+        0.4541,
+        0.6628,
+        0.4658
+      ],
+      "bbox_absolute": [
+        339,
+        382,
+        395,
+        392
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.6628,
+        0.4551,
+        0.7,
+        0.4668
+      ],
+      "bbox_absolute": [
+        395,
+        383,
+        417,
+        393
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.7,
+        0.4551,
+        0.7138,
+        0.4668
+      ],
+      "bbox_absolute": [
+        417,
+        383,
+        425,
+        393
+      ]
+    },
+    {
+      "value": "crucial",
+      "bbox_relative": [
+        0.7138,
+        0.4521,
+        0.7718,
+        0.4668
+      ],
+      "bbox_absolute": [
+        425,
+        380,
+        459,
+        393
+      ]
+    },
+    {
+      "value": "part",
+      "bbox_relative": [
+        0.7732,
+        0.4551,
+        0.8104,
+        0.4678
+      ],
+      "bbox_absolute": [
+        460,
+        383,
+        483,
+        393
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.8104,
+        0.4521,
+        0.8325,
+        0.4668
+      ],
+      "bbox_absolute": [
+        483,
+        380,
+        496,
+        393
+      ]
+    },
+    {
+      "value": "developing",
+      "bbox_relative": [
+        0.1496,
+        0.4707,
+        0.242,
+        0.4854
+      ],
+      "bbox_absolute": [
+        89,
+        396,
+        144,
+        408
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.2434,
+        0.4717,
+        0.2572,
+        0.4844
+      ],
+      "bbox_absolute": [
+        145,
+        397,
+        153,
+        407
+      ]
+    },
+    {
+      "value": "robust",
+      "bbox_relative": [
+        0.2586,
+        0.4707,
+        0.3137,
+        0.4824
+      ],
+      "bbox_absolute": [
+        154,
+        396,
+        186,
+        406
+      ]
+    },
+    {
+      "value": "methodology.",
+      "bbox_relative": [
+        0.3165,
+        0.4697,
+        0.431,
+        0.4844
+      ],
+      "bbox_absolute": [
+        188,
+        395,
+        256,
+        407
+      ]
+    },
+    {
+      "value": "Several",
+      "bbox_relative": [
+        0.4352,
+        0.4707,
+        0.4959,
+        0.4824
+      ],
+      "bbox_absolute": [
+        259,
+        396,
+        295,
+        406
+      ]
+    },
+    {
+      "value": "key",
+      "bbox_relative": [
+        0.4986,
+        0.4688,
+        0.5317,
+        0.4854
+      ],
+      "bbox_absolute": [
+        297,
+        394,
+        316,
+        408
+      ]
+    },
+    {
+      "value": "points",
+      "bbox_relative": [
+        0.5317,
+        0.4697,
+        0.5842,
+        0.4854
+      ],
+      "bbox_absolute": [
+        316,
+        395,
+        348,
+        408
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.5855,
+        0.4697,
+        0.6049,
+        0.4834
+      ],
+      "bbox_absolute": [
+        348,
+        395,
+        360,
+        407
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.6062,
+        0.4697,
+        0.6366,
+        0.4824
+      ],
+      "bbox_absolute": [
+        361,
+        395,
+        379,
+        406
+      ]
+    },
+    {
+      "value": "N.E.T",
+      "bbox_relative": [
+        0.638,
+        0.4688,
+        0.6863,
+        0.4834
+      ],
+      "bbox_absolute": [
+        380,
+        394,
+        409,
+        407
+      ]
+    },
+    {
+      "value": "scheme",
+      "bbox_relative": [
+        0.6849,
+        0.4688,
+        0.7511,
+        0.4834
+      ],
+      "bbox_absolute": [
+        408,
+        394,
+        447,
+        407
+      ]
+    },
+    {
+      "value": "lifecycle",
+      "bbox_relative": [
+        0.7525,
+        0.4697,
+        0.8215,
+        0.4854
+      ],
+      "bbox_absolute": [
+        448,
+        395,
+        489,
+        408
+      ]
+    },
+    {
+      "value": "were",
+      "bbox_relative": [
+        0.1482,
+        0.4893,
+        0.1951,
+        0.501
+      ],
+      "bbox_absolute": [
+        88,
+        411,
+        116,
+        421
+      ]
+    },
+    {
+      "value": "covered",
+      "bbox_relative": [
+        0.1951,
+        0.4883,
+        0.2641,
+        0.5
+      ],
+      "bbox_absolute": [
+        116,
+        411,
+        157,
+        421
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2641,
+        0.4873,
+        0.2834,
+        0.501
+      ],
+      "bbox_absolute": [
+        157,
+        410,
+        168,
+        421
+      ]
+    },
+    {
+      "value": "order",
+      "bbox_relative": [
+        0.2862,
+        0.4883,
+        0.3331,
+        0.5
+      ],
+      "bbox_absolute": [
+        170,
+        411,
+        198,
+        421
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.3344,
+        0.4883,
+        0.3565,
+        0.501
+      ],
+      "bbox_absolute": [
+        199,
+        411,
+        212,
+        421
+      ]
+    },
+    {
+      "value": "monitor",
+      "bbox_relative": [
+        0.3579,
+        0.4883,
+        0.4255,
+        0.5
+      ],
+      "bbox_absolute": [
+        213,
+        411,
+        253,
+        421
+      ]
+    },
+    {
+      "value": "changes.",
+      "bbox_relative": [
+        0.4283,
+        0.4883,
+        0.5014,
+        0.5029
+      ],
+      "bbox_absolute": [
+        255,
+        411,
+        298,
+        423
+      ]
+    },
+    {
+      "value": "Through",
+      "bbox_relative": [
+        0.5014,
+        0.4863,
+        0.5759,
+        0.5039
+      ],
+      "bbox_absolute": [
+        298,
+        409,
+        343,
+        424
+      ]
+    },
+    {
+      "value": "using",
+      "bbox_relative": [
+        0.5773,
+        0.4873,
+        0.6228,
+        0.5029
+      ],
+      "bbox_absolute": [
+        344,
+        410,
+        371,
+        423
+      ]
+    },
+    {
+      "value": "data",
+      "bbox_relative": [
+        0.6242,
+        0.4883,
+        0.6628,
+        0.5
+      ],
+      "bbox_absolute": [
+        372,
+        411,
+        395,
+        421
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.6642,
+        0.4863,
+        0.7083,
+        0.501
+      ],
+      "bbox_absolute": [
+        395,
+        409,
+        422,
+        421
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.7083,
+        0.4863,
+        0.7414,
+        0.502
+      ],
+      "bbox_absolute": [
+        422,
+        409,
+        441,
+        422
+      ]
+    },
+    {
+      "value": "two",
+      "bbox_relative": [
+        0.7414,
+        0.4883,
+        0.7759,
+        0.501
+      ],
+      "bbox_absolute": [
+        441,
+        411,
+        462,
+        421
+      ]
+    },
+    {
+      "value": "census",
+      "bbox_relative": [
+        0.7773,
+        0.4902,
+        0.8366,
+        0.501
+      ],
+      "bbox_absolute": [
+        463,
+        412,
+        498,
+        421
+      ]
+    },
+    {
+      "value": "points,",
+      "bbox_relative": [
+        0.1496,
+        0.5039,
+        0.2075,
+        0.5195
+      ],
+      "bbox_absolute": [
+        89,
+        424,
+        123,
+        437
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2089,
+        0.5029,
+        0.242,
+        0.5186
+      ],
+      "bbox_absolute": [
+        124,
+        423,
+        144,
+        436
+      ]
+    },
+    {
+      "value": "study",
+      "bbox_relative": [
+        0.2406,
+        0.5039,
+        0.2903,
+        0.5195
+      ],
+      "bbox_absolute": [
+        143,
+        424,
+        173,
+        437
+      ]
+    },
+    {
+      "value": "accounts",
+      "bbox_relative": [
+        0.2917,
+        0.5059,
+        0.3662,
+        0.5166
+      ],
+      "bbox_absolute": [
+        173,
+        425,
+        218,
+        434
+      ]
+    },
+    {
+      "value": "for",
+      "bbox_relative": [
+        0.3676,
+        0.5039,
+        0.3979,
+        0.5186
+      ],
+      "bbox_absolute": [
+        219,
+        424,
+        237,
+        436
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.3965,
+        0.5059,
+        0.4103,
+        0.5176
+      ],
+      "bbox_absolute": [
+        236,
+        425,
+        244,
+        435
+      ]
+    },
+    {
+      "value": "time",
+      "bbox_relative": [
+        0.4117,
+        0.5049,
+        0.4503,
+        0.5166
+      ],
+      "bbox_absolute": [
+        245,
+        425,
+        268,
+        434
+      ]
+    },
+    {
+      "value": "period",
+      "bbox_relative": [
+        0.4531,
+        0.5039,
+        0.5083,
+        0.5195
+      ],
+      "bbox_absolute": [
+        270,
+        424,
+        302,
+        437
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.511,
+        0.5049,
+        0.5469,
+        0.5166
+      ],
+      "bbox_absolute": [
+        304,
+        425,
+        325,
+        434
+      ]
+    },
+    {
+      "value": "covers",
+      "bbox_relative": [
+        0.5497,
+        0.5068,
+        0.6049,
+        0.5176
+      ],
+      "bbox_absolute": [
+        327,
+        426,
+        360,
+        435
+      ]
+    },
+    {
+      "value": "any",
+      "bbox_relative": [
+        0.6062,
+        0.5068,
+        0.6393,
+        0.5195
+      ],
+      "bbox_absolute": [
+        361,
+        426,
+        381,
+        437
+      ]
+    },
+    {
+      "value": "likely",
+      "bbox_relative": [
+        0.6393,
+        0.5039,
+        0.6863,
+        0.5195
+      ],
+      "bbox_absolute": [
+        381,
+        424,
+        409,
+        437
+      ]
+    },
+    {
+      "value": "land",
+      "bbox_relative": [
+        0.6876,
+        0.5049,
+        0.7249,
+        0.5166
+      ],
+      "bbox_absolute": [
+        409,
+        425,
+        432,
+        434
+      ]
+    },
+    {
+      "value": "speculation",
+      "bbox_relative": [
+        0.7263,
+        0.5049,
+        0.8228,
+        0.5195
+      ],
+      "bbox_absolute": [
+        432,
+        425,
+        490,
+        437
+      ]
+    },
+    {
+      "value": "that",
+      "bbox_relative": [
+        0.1496,
+        0.5225,
+        0.1868,
+        0.5352
+      ],
+      "bbox_absolute": [
+        89,
+        439,
+        111,
+        450
+      ]
+    },
+    {
+      "value": "may",
+      "bbox_relative": [
+        0.1882,
+        0.5244,
+        0.2255,
+        0.5371
+      ],
+      "bbox_absolute": [
+        112,
+        441,
+        134,
+        452
+      ]
+    },
+    {
+      "value": "occur",
+      "bbox_relative": [
+        0.2268,
+        0.5244,
+        0.2765,
+        0.5352
+      ],
+      "bbox_absolute": [
+        135,
+        441,
+        164,
+        450
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.2751,
+        0.5215,
+        0.2944,
+        0.5361
+      ],
+      "bbox_absolute": [
+        163,
+        439,
+        175,
+        451
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2958,
+        0.5225,
+        0.3262,
+        0.5352
+      ],
+      "bbox_absolute": [
+        176,
+        439,
+        194,
+        450
+      ]
+    },
+    {
+      "value": "three",
+      "bbox_relative": [
+        0.3289,
+        0.5225,
+        0.3745,
+        0.5342
+      ],
+      "bbox_absolute": [
+        196,
+        439,
+        223,
+        449
+      ]
+    },
+    {
+      "value": "years",
+      "bbox_relative": [
+        0.3758,
+        0.5234,
+        0.4241,
+        0.5381
+      ],
+      "bbox_absolute": [
+        223,
+        440,
+        252,
+        453
+      ]
+    },
+    {
+      "value": "prior",
+      "bbox_relative": [
+        0.4241,
+        0.5225,
+        0.4696,
+        0.5381
+      ],
+      "bbox_absolute": [
+        252,
+        439,
+        279,
+        453
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.4683,
+        0.5225,
+        0.4917,
+        0.5361
+      ],
+      "bbox_absolute": [
+        279,
+        439,
+        293,
+        451
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.489,
+        0.5205,
+        0.5235,
+        0.5361
+      ],
+      "bbox_absolute": [
+        291,
+        438,
+        311,
+        451
+      ]
+    },
+    {
+      "value": "scheme's",
+      "bbox_relative": [
+        0.5235,
+        0.5225,
+        0.6007,
+        0.5342
+      ],
+      "bbox_absolute": [
+        311,
+        439,
+        358,
+        449
+      ]
+    },
+    {
+      "value": "introduction",
+      "bbox_relative": [
+        0.6035,
+        0.5225,
+        0.7069,
+        0.5342
+      ],
+      "bbox_absolute": [
+        359,
+        439,
+        421,
+        449
+      ]
+    },
+    {
+      "value": "as",
+      "bbox_relative": [
+        0.7097,
+        0.5254,
+        0.7304,
+        0.5342
+      ],
+      "bbox_absolute": [
+        422,
+        442,
+        435,
+        449
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.7304,
+        0.5234,
+        0.7456,
+        0.5352
+      ],
+      "bbox_absolute": [
+        435,
+        440,
+        444,
+        450
+      ]
+    },
+    {
+      "value": "result",
+      "bbox_relative": [
+        0.7456,
+        0.5225,
+        0.7952,
+        0.5342
+      ],
+      "bbox_absolute": [
+        444,
+        439,
+        473,
+        449
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.7966,
+        0.5215,
+        0.8187,
+        0.5361
+      ],
+      "bbox_absolute": [
+        474,
+        439,
+        487,
+        451
+      ]
+    },
+    {
+      "value": "land",
+      "bbox_relative": [
+        0.1496,
+        0.54,
+        0.1896,
+        0.5537
+      ],
+      "bbox_absolute": [
+        89,
+        454,
+        112,
+        466
+      ]
+    },
+    {
+      "value": "owners",
+      "bbox_relative": [
+        0.1896,
+        0.542,
+        0.253,
+        0.5527
+      ],
+      "bbox_absolute": [
+        112,
+        456,
+        150,
+        465
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.2544,
+        0.54,
+        0.2875,
+        0.5527
+      ],
+      "bbox_absolute": [
+        151,
+        454,
+        171,
+        465
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.2903,
+        0.541,
+        0.3648,
+        0.5557
+      ],
+      "bbox_absolute": [
+        173,
+        455,
+        217,
+        467
+      ]
+    },
+    {
+      "value": "developers",
+      "bbox_relative": [
+        0.3662,
+        0.54,
+        0.4586,
+        0.5547
+      ],
+      "bbox_absolute": [
+        218,
+        454,
+        273,
+        467
+      ]
+    },
+    {
+      "value": "responding",
+      "bbox_relative": [
+        0.4627,
+        0.542,
+        0.5538,
+        0.5537
+      ],
+      "bbox_absolute": [
+        275,
+        456,
+        330,
+        466
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.5552,
+        0.541,
+        0.5773,
+        0.5537
+      ],
+      "bbox_absolute": [
+        330,
+        455,
+        344,
+        466
+      ]
+    },
+    {
+      "value": "potential",
+      "bbox_relative": [
+        0.5786,
+        0.54,
+        0.6545,
+        0.5547
+      ],
+      "bbox_absolute": [
+        344,
+        454,
+        390,
+        467
+      ]
+    },
+    {
+      "value": "future",
+      "bbox_relative": [
+        0.6573,
+        0.5391,
+        0.7111,
+        0.5537
+      ],
+      "bbox_absolute": [
+        391,
+        453,
+        423,
+        466
+      ]
+    },
+    {
+      "value": "changes",
+      "bbox_relative": [
+        0.7125,
+        0.54,
+        0.7814,
+        0.5557
+      ],
+      "bbox_absolute": [
+        424,
+        454,
+        465,
+        467
+      ]
+    },
+    {
+      "value": "in",
+      "bbox_relative": [
+        0.7828,
+        0.54,
+        0.8021,
+        0.5537
+      ],
+      "bbox_absolute": [
+        466,
+        454,
+        478,
+        466
+      ]
+    },
+    {
+      "value": "demand",
+      "bbox_relative": [
+        0.1482,
+        0.5557,
+        0.2199,
+        0.5703
+      ],
+      "bbox_absolute": [
+        88,
+        467,
+        131,
+        480
+      ]
+    },
+    {
+      "value": "(Hamnett,",
+      "bbox_relative": [
+        0.2199,
+        0.5557,
+        0.3082,
+        0.5732
+      ],
+      "bbox_absolute": [
+        131,
+        467,
+        183,
+        482
+      ]
+    },
+    {
+      "value": "1991;",
+      "bbox_relative": [
+        0.3096,
+        0.5566,
+        0.3593,
+        0.5723
+      ],
+      "bbox_absolute": [
+        184,
+        468,
+        214,
+        481
+      ]
+    },
+    {
+      "value": "Knowles",
+      "bbox_relative": [
+        0.3593,
+        0.5557,
+        0.4324,
+        0.5703
+      ],
+      "bbox_absolute": [
+        214,
+        467,
+        257,
+        480
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.4324,
+        0.5566,
+        0.4655,
+        0.5693
+      ],
+      "bbox_absolute": [
+        257,
+        468,
+        277,
+        479
+      ]
+    },
+    {
+      "value": "Ferbrache,",
+      "bbox_relative": [
+        0.4696,
+        0.5566,
+        0.5566,
+        0.5713
+      ],
+      "bbox_absolute": [
+        279,
+        468,
+        331,
+        481
+      ]
+    },
+    {
+      "value": "2015).",
+      "bbox_relative": [
+        0.5607,
+        0.5566,
+        0.6145,
+        0.5713
+      ],
+      "bbox_absolute": [
+        334,
+        468,
+        366,
+        481
+      ]
+    },
+    {
+      "value": "The",
+      "bbox_relative": [
+        0.6159,
+        0.5566,
+        0.6504,
+        0.5693
+      ],
+      "bbox_absolute": [
+        367,
+        468,
+        387,
+        479
+      ]
+    },
+    {
+      "value": "timeframe",
+      "bbox_relative": [
+        0.6518,
+        0.5566,
+        0.7387,
+        0.5684
+      ],
+      "bbox_absolute": [
+        388,
+        468,
+        440,
+        478
+      ]
+    },
+    {
+      "value": "also",
+      "bbox_relative": [
+        0.7428,
+        0.5566,
+        0.7773,
+        0.5693
+      ],
+      "bbox_absolute": [
+        442,
+        468,
+        463,
+        479
+      ]
+    },
+    {
+      "value": "covers",
+      "bbox_relative": [
+        0.7787,
+        0.5586,
+        0.8353,
+        0.5693
+      ],
+      "bbox_absolute": [
+        464,
+        470,
+        497,
+        479
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.1482,
+        0.5732,
+        0.1813,
+        0.5889
+      ],
+      "bbox_absolute": [
+        88,
+        482,
+        108,
+        495
+      ]
+    },
+    {
+      "value": "scheme",
+      "bbox_relative": [
+        0.1813,
+        0.5752,
+        0.2461,
+        0.5869
+      ],
+      "bbox_absolute": [
+        108,
+        484,
+        146,
+        494
+      ]
+    },
+    {
+      "value": "opening",
+      "bbox_relative": [
+        0.2489,
+        0.5742,
+        0.3179,
+        0.5898
+      ],
+      "bbox_absolute": [
+        148,
+        483,
+        189,
+        496
+      ]
+    },
+    {
+      "value": "(2004)",
+      "bbox_relative": [
+        0.3193,
+        0.5723,
+        0.3772,
+        0.5908
+      ],
+      "bbox_absolute": [
+        190,
+        481,
+        224,
+        497
+      ]
+    },
+    {
+      "value": "as",
+      "bbox_relative": [
+        0.3772,
+        0.5771,
+        0.3993,
+        0.5879
+      ],
+      "bbox_absolute": [
+        224,
+        485,
+        237,
+        495
+      ]
+    },
+    {
+      "value": "well",
+      "bbox_relative": [
+        0.3993,
+        0.5742,
+        0.4352,
+        0.5869
+      ],
+      "bbox_absolute": [
+        237,
+        483,
+        259,
+        494
+      ]
+    },
+    {
+      "value": "as",
+      "bbox_relative": [
+        0.4379,
+        0.5771,
+        0.46,
+        0.5879
+      ],
+      "bbox_absolute": [
+        260,
+        485,
+        274,
+        495
+      ]
+    },
+    {
+      "value": "a",
+      "bbox_relative": [
+        0.4586,
+        0.5762,
+        0.4724,
+        0.5879
+      ],
+      "bbox_absolute": [
+        273,
+        485,
+        281,
+        495
+      ]
+    },
+    {
+      "value": "continual",
+      "bbox_relative": [
+        0.4738,
+        0.5752,
+        0.5524,
+        0.5869
+      ],
+      "bbox_absolute": [
+        282,
+        484,
+        329,
+        494
+      ]
+    },
+    {
+      "value": "seven-year",
+      "bbox_relative": [
+        0.5552,
+        0.5771,
+        0.6462,
+        0.5889
+      ],
+      "bbox_absolute": [
+        330,
+        485,
+        385,
+        495
+      ]
+    },
+    {
+      "value": "operational",
+      "bbox_relative": [
+        0.6462,
+        0.5732,
+        0.747,
+        0.5908
+      ],
+      "bbox_absolute": [
+        385,
+        482,
+        445,
+        497
+      ]
+    },
+    {
+      "value": "period",
+      "bbox_relative": [
+        0.747,
+        0.5742,
+        0.8035,
+        0.5898
+      ],
+      "bbox_absolute": [
+        445,
+        483,
+        478,
+        496
+      ]
+    },
+    {
+      "value": "up",
+      "bbox_relative": [
+        0.8049,
+        0.5762,
+        0.8297,
+        0.5908
+      ],
+      "bbox_absolute": [
+        479,
+        485,
+        494,
+        497
+      ]
+    },
+    {
+      "value": "to",
+      "bbox_relative": [
+        0.1482,
+        0.5928,
+        0.1716,
+        0.6055
+      ],
+      "bbox_absolute": [
+        88,
+        499,
+        102,
+        509
+      ]
+    },
+    {
+      "value": "2011.",
+      "bbox_relative": [
+        0.1703,
+        0.5918,
+        0.2199,
+        0.6064
+      ],
+      "bbox_absolute": [
+        101,
+        498,
+        131,
+        510
+      ]
+    },
+    {
+      "value": "The",
+      "bbox_relative": [
+        0.2213,
+        0.5928,
+        0.2558,
+        0.6055
+      ],
+      "bbox_absolute": [
+        131,
+        499,
+        152,
+        509
+      ]
+    },
+    {
+      "value": "importance",
+      "bbox_relative": [
+        0.2572,
+        0.5928,
+        0.3538,
+        0.6074
+      ],
+      "bbox_absolute": [
+        153,
+        499,
+        210,
+        511
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3538,
+        0.5918,
+        0.3772,
+        0.6055
+      ],
+      "bbox_absolute": [
+        210,
+        498,
+        224,
+        509
+      ]
+    },
+    {
+      "value": "these",
+      "bbox_relative": [
+        0.3772,
+        0.5928,
+        0.4241,
+        0.6045
+      ],
+      "bbox_absolute": [
+        224,
+        499,
+        252,
+        508
+      ]
+    },
+    {
+      "value": "time-based",
+      "bbox_relative": [
+        0.4269,
+        0.5928,
+        0.5207,
+        0.6045
+      ],
+      "bbox_absolute": [
+        254,
+        499,
+        310,
+        508
+      ]
+    },
+    {
+      "value": "considerations",
+      "bbox_relative": [
+        0.5221,
+        0.5918,
+        0.6462,
+        0.6055
+      ],
+      "bbox_absolute": [
+        311,
+        498,
+        385,
+        509
+      ]
+    },
+    {
+      "value": "was",
+      "bbox_relative": [
+        0.6462,
+        0.5938,
+        0.6821,
+        0.6055
+      ],
+      "bbox_absolute": [
+        385,
+        499,
+        406,
+        509
+      ]
+    },
+    {
+      "value": "adopted",
+      "bbox_relative": [
+        0.6835,
+        0.5918,
+        0.7552,
+        0.6084
+      ],
+      "bbox_absolute": [
+        407,
+        498,
+        450,
+        512
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.7566,
+        0.5928,
+        0.798,
+        0.6045
+      ],
+      "bbox_absolute": [
+        450,
+        499,
+        475,
+        508
+      ]
+    },
+    {
+      "value": "on",
+      "bbox_relative": [
+        0.7994,
+        0.5938,
+        0.8256,
+        0.6055
+      ],
+      "bbox_absolute": [
+        476,
+        499,
+        492,
+        509
+      ]
+    },
+    {
+      "value": "methodological",
+      "bbox_relative": [
+        0.1496,
+        0.6094,
+        0.2793,
+        0.624
+      ],
+      "bbox_absolute": [
+        89,
+        513,
+        166,
+        525
+      ]
+    },
+    {
+      "value": "recommendations",
+      "bbox_relative": [
+        0.2806,
+        0.6084,
+        0.4324,
+        0.6221
+      ],
+      "bbox_absolute": [
+        167,
+        512,
+        257,
+        523
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.4352,
+        0.6094,
+        0.4765,
+        0.6211
+      ],
+      "bbox_absolute": [
+        259,
+        513,
+        284,
+        522
+      ]
+    },
+    {
+      "value": "RICS",
+      "bbox_relative": [
+        0.4793,
+        0.6094,
+        0.5179,
+        0.6211
+      ],
+      "bbox_absolute": [
+        285,
+        513,
+        308,
+        522
+      ]
+    },
+    {
+      "value": "(2002)",
+      "bbox_relative": [
+        0.5193,
+        0.6084,
+        0.5759,
+        0.624
+      ],
+      "bbox_absolute": [
+        309,
+        512,
+        343,
+        525
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.5773,
+        0.6094,
+        0.6104,
+        0.6221
+      ],
+      "bbox_absolute": [
+        344,
+        513,
+        363,
+        523
+      ]
+    },
+    {
+      "value": "NAO",
+      "bbox_relative": [
+        0.6131,
+        0.6094,
+        0.6531,
+        0.6211
+      ],
+      "bbox_absolute": [
+        365,
+        513,
+        389,
+        522
+      ]
+    },
+    {
+      "value": "(2004)",
+      "bbox_relative": [
+        0.6545,
+        0.6084,
+        0.7097,
+        0.624
+      ],
+      "bbox_absolute": [
+        390,
+        512,
+        422,
+        525
+      ]
+    },
+    {
+      "value": "based",
+      "bbox_relative": [
+        0.7111,
+        0.6074,
+        0.7649,
+        0.6221
+      ],
+      "bbox_absolute": [
+        423,
+        511,
+        455,
+        523
+      ]
+    },
+    {
+      "value": "on",
+      "bbox_relative": [
+        0.7649,
+        0.6104,
+        0.7897,
+        0.6221
+      ],
+      "bbox_absolute": [
+        455,
+        513,
+        470,
+        523
+      ]
+    },
+    {
+      "value": "analysis",
+      "bbox_relative": [
+        0.1496,
+        0.627,
+        0.2172,
+        0.6426
+      ],
+      "bbox_absolute": [
+        89,
+        527,
+        129,
+        541
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.2172,
+        0.626,
+        0.2392,
+        0.6406
+      ],
+      "bbox_absolute": [
+        129,
+        527,
+        142,
+        539
+      ]
+    },
+    {
+      "value": "the",
+      "bbox_relative": [
+        0.2365,
+        0.625,
+        0.271,
+        0.6406
+      ],
+      "bbox_absolute": [
+        140,
+        526,
+        161,
+        539
+      ]
+    },
+    {
+      "value": "validity",
+      "bbox_relative": [
+        0.2696,
+        0.627,
+        0.3331,
+        0.6416
+      ],
+      "bbox_absolute": [
+        160,
+        527,
+        198,
+        540
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3331,
+        0.626,
+        0.3565,
+        0.6406
+      ],
+      "bbox_absolute": [
+        198,
+        527,
+        212,
+        539
+      ]
+    },
+    {
+      "value": "results",
+      "bbox_relative": [
+        0.3565,
+        0.627,
+        0.4131,
+        0.6387
+      ],
+      "bbox_absolute": [
+        212,
+        527,
+        246,
+        537
+      ]
+    },
+    {
+      "value": "from",
+      "bbox_relative": [
+        0.4145,
+        0.626,
+        0.4572,
+        0.6406
+      ],
+      "bbox_absolute": [
+        247,
+        527,
+        272,
+        539
+      ]
+    },
+    {
+      "value": "previous",
+      "bbox_relative": [
+        0.46,
+        0.627,
+        0.5331,
+        0.6416
+      ],
+      "bbox_absolute": [
+        274,
+        527,
+        317,
+        540
+      ]
+    },
+    {
+      "value": "empirical",
+      "bbox_relative": [
+        0.5345,
+        0.627,
+        0.6118,
+        0.6416
+      ],
+      "bbox_absolute": [
+        318,
+        527,
+        364,
+        540
+      ]
+    },
+    {
+      "value": "research.",
+      "bbox_relative": [
+        0.6159,
+        0.627,
+        0.6918,
+        0.6387
+      ],
+      "bbox_absolute": [
+        367,
+        527,
+        412,
+        537
+      ]
+    },
+    {
+      "value": "Variable",
+      "bbox_relative": [
+        0.1468,
+        0.6602,
+        0.2089,
+        0.6719
+      ],
+      "bbox_absolute": [
+        87,
+        555,
+        124,
+        565
+      ]
+    },
+    {
+      "value": "uterature.",
+      "bbox_relative": [
+        0.5814,
+        0.6611,
+        0.6518,
+        0.6719
+      ],
+      "bbox_absolute": [
+        346,
+        556,
+        388,
+        565
+      ]
+    },
+    {
+      "value": "Phyica/infrastructural",
+      "bbox_relative": [
+        0.1482,
+        0.6787,
+        0.3124,
+        0.6924
+      ],
+      "bbox_absolute": [
+        88,
+        571,
+        186,
+        582
+      ]
+    },
+    {
+      "value": "Empirical",
+      "bbox_relative": [
+        0.1482,
+        0.6934,
+        0.2158,
+        0.709
+      ],
+      "bbox_absolute": [
+        88,
+        583,
+        128,
+        596
+      ]
+    },
+    {
+      "value": "observations",
+      "bbox_relative": [
+        0.2144,
+        0.6934,
+        0.3069,
+        0.708
+      ],
+      "bbox_absolute": [
+        127,
+        583,
+        182,
+        596
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.3055,
+        0.6943,
+        0.3275,
+        0.707
+      ],
+      "bbox_absolute": [
+        182,
+        584,
+        195,
+        595
+      ]
+    },
+    {
+      "value": "shop",
+      "bbox_relative": [
+        0.322,
+        0.6934,
+        0.362,
+        0.709
+      ],
+      "bbox_absolute": [
+        191,
+        583,
+        215,
+        596
+      ]
+    },
+    {
+      "value": "units/new",
+      "bbox_relative": [
+        0.3607,
+        0.6934,
+        0.4352,
+        0.708
+      ],
+      "bbox_absolute": [
+        214,
+        583,
+        259,
+        596
+      ]
+    },
+    {
+      "value": "developments",
+      "bbox_relative": [
+        0.4338,
+        0.6943,
+        0.5345,
+        0.709
+      ],
+      "bbox_absolute": [
+        258,
+        584,
+        318,
+        596
+      ]
+    },
+    {
+      "value": "Hammel",
+      "bbox_relative": [
+        0.5814,
+        0.6943,
+        0.6421,
+        0.7061
+      ],
+      "bbox_absolute": [
+        346,
+        584,
+        382,
+        594
+      ]
+    },
+    {
+      "value": "(1996)",
+      "bbox_relative": [
+        0.6421,
+        0.6934,
+        0.6918,
+        0.709
+      ],
+      "bbox_absolute": [
+        382,
+        583,
+        412,
+        596
+      ]
+    },
+    {
+      "value": "Capital",
+      "bbox_relative": [
+        0.1468,
+        0.7119,
+        0.2006,
+        0.7266
+      ],
+      "bbox_absolute": [
+        87,
+        599,
+        119,
+        611
+      ]
+    },
+    {
+      "value": "Changes",
+      "bbox_relative": [
+        0.1468,
+        0.7285,
+        0.2103,
+        0.7432
+      ],
+      "bbox_absolute": [
+        87,
+        613,
+        125,
+        625
+      ]
+    },
+    {
+      "value": "inl",
+      "bbox_relative": [
+        0.2075,
+        0.7275,
+        0.2282,
+        0.7422
+      ],
+      "bbox_absolute": [
+        123,
+        612,
+        136,
+        624
+      ]
+    },
+    {
+      "value": "land",
+      "bbox_relative": [
+        0.2255,
+        0.7285,
+        0.2599,
+        0.7412
+      ],
+      "bbox_absolute": [
+        134,
+        613,
+        154,
+        624
+      ]
+    },
+    {
+      "value": "values",
+      "bbox_relative": [
+        0.2586,
+        0.7295,
+        0.3069,
+        0.7412
+      ],
+      "bbox_absolute": [
+        154,
+        614,
+        182,
+        624
+      ]
+    },
+    {
+      "value": "and",
+      "bbox_relative": [
+        0.3055,
+        0.7285,
+        0.3358,
+        0.7412
+      ],
+      "bbox_absolute": [
+        182,
+        613,
+        200,
+        624
+      ]
+    },
+    {
+      "value": "house",
+      "bbox_relative": [
+        0.3344,
+        0.7275,
+        0.3827,
+        0.7422
+      ],
+      "bbox_absolute": [
+        199,
+        612,
+        228,
+        624
+      ]
+    },
+    {
+      "value": "prices",
+      "bbox_relative": [
+        0.3786,
+        0.7285,
+        0.4269,
+        0.7441
+      ],
+      "bbox_absolute": [
+        225,
+        613,
+        254,
+        626
+      ]
+    },
+    {
+      "value": "Smith",
+      "bbox_relative": [
+        0.5786,
+        0.7275,
+        0.6255,
+        0.7422
+      ],
+      "bbox_absolute": [
+        344,
+        612,
+        372,
+        624
+      ]
+    },
+    {
+      "value": "(1979)",
+      "bbox_relative": [
+        0.6255,
+        0.7295,
+        0.6725,
+        0.7412
+      ],
+      "bbox_absolute": [
+        372,
+        614,
+        400,
+        624
+      ]
+    },
+    {
+      "value": "Rates",
+      "bbox_relative": [
+        0.1468,
+        0.7432,
+        0.1923,
+        0.7578
+      ],
+      "bbox_absolute": [
+        87,
+        625,
+        114,
+        638
+      ]
+    },
+    {
+      "value": "of",
+      "bbox_relative": [
+        0.1882,
+        0.7432,
+        0.2103,
+        0.7578
+      ],
+      "bbox_absolute": [
+        112,
+        625,
+        125,
+        638
+      ]
+    },
+    {
+      "value": "property",
+      "bbox_relative": [
+        0.2061,
+        0.7441,
+        0.2724,
+        0.7588
+      ],
+      "bbox_absolute": [
+        122,
+        626,
+        162,
+        638
+      ]
+    },
+    {
+      "value": "tumover",
+      "bbox_relative": [
+        0.271,
+        0.7451,
+        0.3358,
+        0.7568
+      ],
+      "bbox_absolute": [
+        161,
+        627,
+        200,
+        637
+      ]
+    },
+    {
+      "value": "Smith",
+      "bbox_relative": [
+        0.58,
+        0.7432,
+        0.6255,
+        0.7578
+      ],
+      "bbox_absolute": [
+        345,
+        625,
+        372,
+        638
+      ]
+    },
+    {
+      "value": "(1979)",
+      "bbox_relative": [
+        0.6242,
+        0.7432,
+        0.6738,
+        0.7578
+      ],
+      "bbox_absolute": [
+        372,
+        625,
+        401,
+        638
+      ]
+    },
+    {
+      "value": "socio-",
+      "bbox_relative": [
+        0.1468,
+        0.7607,
+        0.1923,
+        0.7725
+      ],
+      "bbox_absolute": [
+        87,
+        640,
+        114,
+        650
+      ]
+    },
+    {
+      "value": "Economic",
+      "bbox_relative": [
+        0.1896,
+        0.7607,
+        0.2613,
+        0.7715
+      ],
+      "bbox_absolute": [
+        112,
+        640,
+        155,
+        649
+      ]
+    },
+    {
+      "value": "Educational",
+      "bbox_relative": [
+        0.1496,
+        0.7793,
+        0.2323,
+        0.79
+      ],
+      "bbox_absolute": [
+        89,
+        656,
+        138,
+        665
+      ]
+    },
+    {
+      "value": "Attainment",
+      "bbox_relative": [
+        0.2323,
+        0.7793,
+        0.3137,
+        0.791
+      ],
+      "bbox_absolute": [
+        138,
+        656,
+        186,
+        666
+      ]
+    },
+    {
+      "value": "(Level",
+      "bbox_relative": [
+        0.3137,
+        0.7783,
+        0.3593,
+        0.793
+      ],
+      "bbox_absolute": [
+        186,
+        655,
+        214,
+        667
+      ]
+    },
+    {
+      "value": "4)",
+      "bbox_relative": [
+        0.3565,
+        0.7773,
+        0.3772,
+        0.793
+      ],
+      "bbox_absolute": [
+        212,
+        654,
+        224,
+        667
+      ]
+    },
+    {
+      "value": "Freeman",
+      "bbox_relative": [
+        0.5828,
+        0.7793,
+        0.6462,
+        0.791
+      ],
+      "bbox_absolute": [
+        347,
+        656,
+        385,
+        666
+      ]
+    },
+    {
+      "value": "(2005)",
+      "bbox_relative": [
+        0.6449,
+        0.7783,
+        0.6945,
+        0.793
+      ],
+      "bbox_absolute": [
+        384,
+        655,
+        413,
+        667
+      ]
+    },
+    {
+      "value": "Owner-Occupied",
+      "bbox_relative": [
+        0.1482,
+        0.7949,
+        0.2682,
+        0.8096
+      ],
+      "bbox_absolute": [
+        88,
+        669,
+        159,
+        681
+      ]
+    },
+    {
+      "value": "Housing",
+      "bbox_relative": [
+        0.2668,
+        0.7949,
+        0.3289,
+        0.8105
+      ],
+      "bbox_absolute": [
+        159,
+        669,
+        196,
+        682
+      ]
+    },
+    {
+      "value": "Freeman",
+      "bbox_relative": [
+        0.5814,
+        0.7959,
+        0.6462,
+        0.8076
+      ],
+      "bbox_absolute": [
+        346,
+        670,
+        385,
+        680
+      ]
+    },
+    {
+      "value": "(2005)",
+      "bbox_relative": [
+        0.6449,
+        0.7949,
+        0.6945,
+        0.8096
+      ],
+      "bbox_absolute": [
+        384,
+        669,
+        413,
+        681
+      ]
+    },
+    {
+      "value": "Higher/Lower",
+      "bbox_relative": [
+        0.1482,
+        0.8105,
+        0.2461,
+        0.8252
+      ],
+      "bbox_absolute": [
+        88,
+        682,
+        146,
+        694
+      ]
+    },
+    {
+      "value": "Managerial",
+      "bbox_relative": [
+        0.2461,
+        0.8105,
+        0.3275,
+        0.8252
+      ],
+      "bbox_absolute": [
+        146,
+        682,
+        195,
+        694
+      ]
+    },
+    {
+      "value": "Occupations",
+      "bbox_relative": [
+        0.3262,
+        0.8105,
+        0.4158,
+        0.8252
+      ],
+      "bbox_absolute": [
+        194,
+        682,
+        247,
+        694
+      ]
+    },
+    {
+      "value": "Freeman",
+      "bbox_relative": [
+        0.5828,
+        0.8115,
+        0.6462,
+        0.8223
+      ],
+      "bbox_absolute": [
+        347,
+        683,
+        385,
+        692
+      ]
+    },
+    {
+      "value": "(2005)",
+      "bbox_relative": [
+        0.6462,
+        0.8096,
+        0.6945,
+        0.8252
+      ],
+      "bbox_absolute": [
+        385,
+        681,
+        413,
+        694
+      ]
+    },
+    {
+      "value": "Table:",
+      "bbox_relative": [
+        0.1482,
+        0.8389,
+        0.1882,
+        0.8506
+      ],
+      "bbox_absolute": [
+        88,
+        706,
+        112,
+        716
+      ]
+    },
+    {
+      "value": "2.1",
+      "bbox_relative": [
+        0.1854,
+        0.8379,
+        0.2103,
+        0.8506
+      ],
+      "bbox_absolute": [
+        110,
+        705,
+        125,
+        716
+      ]
+    },
+    {
+      "value": "Study",
+      "bbox_relative": [
+        0.2199,
+        0.8389,
+        0.2599,
+        0.8525
+      ],
+      "bbox_absolute": [
+        131,
+        706,
+        154,
+        717
+      ]
+    },
+    {
+      "value": "Gentrification",
+      "bbox_relative": [
+        0.2586,
+        0.8389,
+        0.3469,
+        0.8496
+      ],
+      "bbox_absolute": [
+        154,
+        706,
+        206,
+        715
+      ]
+    },
+    {
+      "value": "Indicators",
+      "bbox_relative": [
+        0.3455,
+        0.8389,
+        0.4117,
+        0.8496
+      ],
+      "bbox_absolute": [
+        205,
+        706,
+        245,
+        715
+      ]
+    }
+  ]
+}
